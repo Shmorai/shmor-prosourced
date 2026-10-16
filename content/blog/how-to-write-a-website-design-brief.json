@@ -1,0 +1,66 @@
+{
+  "updated": "2026-09-30",
+  "type": "post",
+  "slug": "blog/how-to-write-a-website-design-brief",
+  "date": "2026-09-30",
+  "title": "How to Write a Website Design Brief (Free Template)",
+  "description": "Write a website brief that gets accurate quotes: goals, audience, pages, features, accessibility (WCAG and the European Accessibility Act) and ownership.",
+  "h1": "How to write a website design brief that gets accurate quotes",
+  "intro": "Vague briefs get vague quotes. Cover these points and designers can price your website properly, and build what you actually need.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8",
+    "alt": "MacBook Pro on a desk showing lines of code",
+    "credit": "Caspar Camille Rubin",
+    "creditUrl": "https://unsplash.com/@casparrubin"
+  },
+  "sections": [
+    {
+      "h2": "1. Goals and audience",
+      "html": "<ul><li>What should the site achieve: enquiries, sales, bookings, recruitment?</li><li>Who are your customers, and which countries and languages do you serve?</li><li>Which competitor or reference sites do you like, and why?</li></ul>"
+    },
+    {
+      "h2": "2. Pages and features",
+      "html": "<ul><li>A page list or sitemap, even a rough one.</li><li>Features: online shop, booking, member area, blog, forms, live chat.</li><li>Integrations: CRM, email marketing, payments, accounting.</li><li>Who will write the copy and provide photos?</li></ul>"
+    },
+    {
+      "h2": "3. Accessibility, speed and search",
+      "html": "<p>Ask for the site to meet <strong>WCAG 2.2 level AA</strong>, the W3C’s accessibility guidelines. In the EU, the <strong>European Accessibility Act</strong> has applied since 28 June 2025 to many online services, including ecommerce. It’s also good business: accessible sites work better for everyone. Ask how speed and technical SEO basics will be handled, and look at Google’s SEO Starter Guide.</p>"
+    },
+    {
+      "h2": "4. Ownership, hosting and aftercare",
+      "html": "<ul><li>The domain registered in your business’s name.</li><li>Admin access to hosting, CMS and analytics.</li><li>Ownership of the design and code passing to you on payment.</li><li>Who handles updates, security and backups after launch, and at what cost?</li></ul>"
+    },
+    {
+      "h2": "5. Budget and timeline",
+      "html": "<p>Give a budget range and any fixed launch dates. This helps designers suggest the right approach rather than guessing. Our <a href=\"/free-tools/project-brief-builder/?service=web-design\">brief builder</a> pulls all of this into one document. Then compare <a href=\"/web-design/\">web designers and agencies</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "W3C: WCAG 2 overview",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    {
+      "title": "European Commission: European Accessibility Act",
+      "url": "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"
+    },
+    {
+      "title": "Google Search Central: SEO Starter Guide",
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide"
+    }
+  ],
+  "keywords": [
+    "website design brief",
+    "web design brief template",
+    "website brief",
+    "european accessibility act website",
+    "wcag"
+  ],
+  "related": [
+    "web-design",
+    "branding",
+    "digital-marketing"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Write a website brief that gets accurate quotes: goals, audience, pages, features, accessibility (WCAG and the European Accessibility Act) and ownership."
+}

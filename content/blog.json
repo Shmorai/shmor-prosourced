@@ -1,0 +1,30 @@
+{
+  "updated": "2026-10-16",
+  "slug": "blog",
+  "nav": "Blog",
+  "navOrder": 6,
+  "type": "blog",
+  "title": "ProSourced Blog: Guides to Outsourcing and Business Services",
+  "description": "Practical, evergreen guides on hiring and outsourcing across every business sector: accounting, payroll, HR, consulting, web design, IT, legal and more.",
+  "eyebrow": "Guides for growing businesses",
+  "h1": "The ProSourced blog",
+  "intro": "Plain-English guides to hiring the right help, from payroll and accounting to web design, cyber security and going global. Checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591382696684-38c427c7547a",
+    "alt": "Laptop on a wooden desk in a home workspace",
+    "credit": "Mikey Harris",
+    "creditUrl": "https://unsplash.com/@mikeyharris"
+  },
+  "listTitle": "Latest guides",
+  "related": [
+    "services",
+    "free-tools"
+  ],
+  "keywords": [
+    "business blog",
+    "outsourcing guide",
+    "small business advice",
+    "hiring guide"
+  ],
+  "cardText": "Guides to outsourcing and hiring across every business sector."
+}

@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "translation",
+  "nav": "Translation",
+  "title": "Translation & Localisation Services for Global Business",
+  "description": "Compare translators and translation agencies for websites, contracts, marketing and software localisation, plus certified translations for official use.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Translation and localisation to sell in every language",
+  "intro": "Speak to customers in their own language. Compare professional translators and agencies for websites, marketing, legal and technical documents, and software localisation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1497302347632-904729bc24aa",
+    "alt": "Travel map, passport and notebook laid out for trip planning",
+    "credit": "John Matychuk",
+    "creditUrl": "https://unsplash.com/@john_matychuk"
+  },
+  "searchPlaceholder": "Search translation and other services…",
+  "chips": [
+    {
+      "label": "Website localisation",
+      "q": "website localisation"
+    },
+    {
+      "label": "Certified translation",
+      "q": "certified translation"
+    },
+    {
+      "label": "Marketing copy",
+      "q": "marketing copy"
+    },
+    {
+      "label": "Software & apps",
+      "q": "software & apps"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from translation agencies</h2><p>Write one clear brief with our free builder, then send it to several translation agencies and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=translation\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Translation vs localisation",
+      "html": "<p>Translation turns text from one language into another. Localisation goes further: currencies, dates, measurements, examples, images, tone and even product names are adapted for each market. For websites, apps and marketing, you usually want localisation. Read <a href=\"/blog/translation-vs-localisation/\">translation vs localisation</a> to learn more.</p>"
+    },
+    {
+      "h2": "Quality standards and credentials",
+      "html": "<ul><li><strong>ISO 17100</strong> is the international standard for translation services. It requires, among other things, that a second linguist revises the translation.</li><li>Translator associations include the <strong>ATA</strong> (US), the <strong>ITI</strong> and <strong>CIOL</strong> (UK), and national members of <strong>FIT</strong> worldwide.</li><li>Official documents may need a <strong>certified</strong> or <strong>sworn</strong> translation. Requirements depend on the country and the organisation receiving it.</li></ul>"
+    },
+    {
+      "h2": "How to get a good result",
+      "html": "<ul><li>Use native speakers of the target language who know your sector.</li><li>Share a glossary and style guide so key terms stay consistent.</li><li>Ask whether they use translation memory tools, which keep wording consistent and can cut repeat costs.</li><li>For marketing slogans, ask for “transcreation”, which adapts the idea, not just the words.</li><li>Be careful with raw machine translation for legal, medical or customer-facing text.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Language pair, word count, subject complexity, turnaround time, file formats and whether revision and desktop publishing are included. Translation is often priced per word, with minimum fees for short jobs. Certified translations may be priced per page or document.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is machine translation good enough?",
+      "a": "It’s useful for getting the gist or a first draft. For anything customers, regulators or courts will read, have a professional translate it or post-edit the machine output."
+    },
+    {
+      "q": "What is a certified translation?",
+      "a": "A translation with a signed statement that it is accurate, sometimes from a sworn or court-approved translator. Check exactly what the receiving organisation requires."
+    },
+    {
+      "q": "Which languages should my website support first?",
+      "a": "Start with the markets where you already see demand or plan to sell, and where you can support customers in that language."
+    }
+  ],
+  "related": [
+    "web-design",
+    "digital-marketing",
+    "company-formation"
+  ],
+  "keywords": [
+    "translation services",
+    "translation agency",
+    "translator",
+    "localisation",
+    "localization",
+    "website translation",
+    "certified translation",
+    "business translation"
+  ],
+  "cardText": "Website and software localisation, marketing, legal and certified translation.",
+  "ctaTitle": "Need translation help? Search ProSourced"
+}

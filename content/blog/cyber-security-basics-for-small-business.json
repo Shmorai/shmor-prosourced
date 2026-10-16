@@ -1,0 +1,65 @@
+{
+  "updated": "2026-09-15",
+  "type": "post",
+  "slug": "blog/cyber-security-basics-for-small-business",
+  "date": "2026-09-15",
+  "title": "Cyber Security Basics for Small Businesses: A 10-Step Plan",
+  "description": "Protect your small business with ten practical cyber security steps, based on official guidance from the NCSC (UK), CISA (US) and ENISA (EU). Plain English.",
+  "h1": "Cyber security basics for small businesses: a 10-step plan",
+  "intro": "Most attacks on small businesses exploit simple gaps. These steps, drawn from official government guidance, close the most common ones.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624969862644-791f3dc98927",
+    "alt": "Person in fingerless gloves typing on a laptop in the dark",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "sections": [
+    {
+      "h2": "The 10 steps",
+      "html": "<ol><li><strong>Turn on multi-factor authentication</strong> for email, banking, cloud and admin accounts.</li><li><strong>Use a password manager</strong> and unique passwords everywhere.</li><li><strong>Keep software updated</strong>, and turn on automatic updates.</li><li><strong>Back up important data</strong>, keep a copy offline or separate, and test that restores work.</li><li><strong>Use anti-malware protection</strong> on every device.</li><li><strong>Limit admin rights</strong> to the people who need them.</li><li><strong>Train staff to spot phishing</strong>, and make it easy to report.</li><li><strong>Secure your Wi-Fi and remote access</strong>, and use a VPN or secure access service for remote work.</li><li><strong>Check your suppliers’ security</strong>, especially those with access to your systems.</li><li><strong>Have an incident plan:</strong> who to call, what to switch off, and how to recover.</li></ol>"
+    },
+    {
+      "h2": "Certifications customers ask for",
+      "html": "<ul><li><strong>Cyber Essentials (UK):</strong> five basic technical controls, backed by the NCSC.</li><li><strong>ISO/IEC 27001:</strong> the international information security management standard.</li><li><strong>SOC 2 (US):</strong> an attestation report common for software and service providers.</li><li><strong>NIST Cybersecurity Framework 2.0:</strong> free US guidance for managing cyber risk.</li></ul>"
+    },
+    {
+      "h2": "When to bring in a professional",
+      "html": "<p>If you handle customer payments or sensitive data, have remote staff, or customers are asking for certifications, a <a href=\"/it-cyber-security/\">managed IT or cyber security provider</a> can help. For remote working, our sister site <a href=\"https://bestvpns.shmor.ai/\">BestVPNs</a> compares VPN services.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NCSC: Small organisations guide to cyber security",
+      "url": "https://www.ncsc.gov.uk/collection/small-business-guide"
+    },
+    {
+      "title": "NCSC: Cyber Essentials",
+      "url": "https://www.ncsc.gov.uk/cyberessentials/overview"
+    },
+    {
+      "title": "CISA: Cyber Essentials (US)",
+      "url": "https://www.cisa.gov/cyber-essentials"
+    },
+    {
+      "title": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    },
+    {
+      "title": "ENISA: EU Agency for Cybersecurity",
+      "url": "https://www.enisa.europa.eu/"
+    }
+  ],
+  "keywords": [
+    "small business cyber security",
+    "cyber security checklist",
+    "cyber essentials",
+    "protect business from hackers"
+  ],
+  "related": [
+    "it-cyber-security",
+    "virtual-assistants",
+    "legal-services"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Protect your small business with ten practical cyber security steps, based on official guidance from the NCSC (UK), CISA (US) and ENISA (EU)."
+}

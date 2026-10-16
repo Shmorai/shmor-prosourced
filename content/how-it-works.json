@@ -1,0 +1,78 @@
+{
+  "updated": "2026-10-16",
+  "slug": "how-it-works",
+  "nav": "How it works",
+  "navOrder": 7,
+  "title": "How ProSourced Works: Find, Compare and Hire Pros",
+  "description": "How to use ProSourced to find business professionals: choose a service, build a free brief, compare several quotes and check credentials before you hire.",
+  "eyebrow": "Simple, free, no obligation",
+  "h1": "How to find and hire the right professional",
+  "intro": "ProSourced is a free introduction and comparison service for business services. Here’s how to go from “we need help” to a professional you trust.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1616531770192-6eaea74c2456",
+    "alt": "Laptop showing a video call next to a houseplant",
+    "credit": "Compagnons",
+    "creditUrl": "https://unsplash.com/@sigmund"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "steps",
+      "position": "top",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Choose your service",
+          "text": "Start from a <a href=\"/services/\">service guide</a> to learn what good looks like and what to ask."
+        },
+        {
+          "icon": "file",
+          "title": "Build your brief",
+          "text": "Use the <a href=\"/free-tools/project-brief-builder/\">free brief builder</a> so every provider quotes for the same thing."
+        },
+        {
+          "icon": "users",
+          "title": "Compare quotes",
+          "text": "Ask several professionals. Compare scope, approach, timing and price, not just the total."
+        },
+        {
+          "icon": "shield",
+          "title": "Check and hire",
+          "text": "Verify credentials and insurance, take up references and agree everything in writing."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Checks before you hire anyone",
+      "html": "<ul><li><strong>Credentials:</strong> check professional registers. Each service guide lists the main bodies by country.</li><li><strong>Insurance:</strong> professional indemnity (also called errors and omissions) cover for advice-based services.</li><li><strong>References:</strong> speak to two or three clients similar to you.</li><li><strong>Contract:</strong> scope, deliverables, fees, payment terms, ownership of work, confidentiality, data protection and how either side can end it.</li></ul><p>Our sister site <a href=\"https://domcominsure.shmor.ai/\">DomComInsure</a> explains business and professional indemnity insurance.</p>"
+    },
+    {
+      "h2": "Our role",
+      "html": "<p>ProSourced doesn’t employ, endorse or vet individual professionals, and we’re not a party to any agreement you make. Some links are referral links: partner platforms may pay us a fee when we introduce you, at no extra cost to you. <a href=\"https://shmor.ai/affiliate-disclosure/\">How we make money</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to pay to use ProSourced?",
+      "a": "No. ProSourced is free for businesses."
+    },
+    {
+      "q": "How many quotes should I get?",
+      "a": "Two or three is a good rule of thumb for most projects. It’s enough to compare without taking too much of your time."
+    }
+  ],
+  "related": [
+    "services",
+    "free-tools",
+    "for-professionals"
+  ],
+  "keywords": [
+    "how to hire a professional",
+    "compare quotes",
+    "find a consultant",
+    "hire a freelancer"
+  ],
+  "cardText": "Choose a service, build a brief, compare quotes, check credentials and hire."
+}

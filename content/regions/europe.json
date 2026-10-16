@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-16",
+  "slug": "regions/europe",
+  "nav": "Europe",
+  "title": "Find Business Professionals Across Europe and the EU",
+  "description": "Hire accountants, payroll, HR, lawyers, translators and consultants across the EU. How rules differ by country, and what to check before you hire.",
+  "eyebrow": "ProSourced · Europe",
+  "h1": "Business services across Europe",
+  "intro": "What to know before you hire accountants, payroll, HR, lawyers and other business professionals in Europe.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1616036902568-fa623d8f0c0a",
+    "alt": "People walking along a European city street lined with old buildings",
+    "credit": "Alice",
+    "creditUrl": "https://unsplash.com/@thewonderalice"
+  },
+  "sections": [
+    {
+      "h2": "Key rules and credentials in Europe",
+      "html": "<ul><li><strong>One market, many rules:</strong> the EU sets common frameworks, such as the GDPR and VAT directives, but tax, payroll, employment and company law remain largely national.</li><li><strong>Accountants and tax advisers:</strong> titles are national, for example Steuerberater in Germany or expert-comptable in France.</li><li><strong>Payroll and HR:</strong> social security, collective agreements and works councils differ by country. Employers of record are common for first hires.</li><li><strong>Lawyers:</strong> regulated by national bars. The e-Justice portal links to national lawyer registers.</li><li><strong>Language:</strong> local-language contracts and websites build trust. See <a href=\"/translation/\">translation</a>.</li><li><strong>Data:</strong> outsourcing that touches personal data needs GDPR-compliant contracts.</li></ul>"
+    },
+    {
+      "h2": "Services you can hire from anywhere",
+      "html": "<p>Design, development, marketing, translation, consulting and virtual assistance are often delivered remotely, so you can widen your search beyond your own country. Tax filings, payroll and legal advice usually need someone who knows the local rules.</p><ul><li><a href=\"/accounting/\">Accounting</a>: Tax, year-end accounts, VAT and sales tax, management accounts and advice.</li><li><a href=\"/payroll/\">Payroll</a>: Payslips, payroll tax filings, pensions and benefits, and multi-country payroll.</li><li><a href=\"/hr-outsourcing/\">HR</a>: Contracts, handbooks, employee relations, hiring, performance and HR software.</li><li><a href=\"/management-consulting/\">Consulting</a>: Strategy, operations, process improvement, change and fractional leadership.</li><li><a href=\"/web-design/\">Web design</a>: Business websites, ecommerce, redesigns, landing pages and web apps.</li><li><a href=\"/digital-marketing/\">Marketing</a>: SEO, Google Ads and PPC, social media, content and email marketing.</li><li><a href=\"/branding/\">Branding</a>: Logos, brand identity, naming, packaging and marketing design.</li><li><a href=\"/legal-services/\">Legal</a>: Contracts, company law, employment, IP, data protection and cross-border deals.</li><li><a href=\"/it-cyber-security/\">IT &amp; cyber</a>: Managed IT, cloud and Microsoft 365, backups, security reviews and certification.</li><li><a href=\"/virtual-assistants/\">Virtual assistants</a>: Admin, inbox and calendar, customer support, research and data entry.</li><li><a href=\"/translation/\">Translation</a>: Website and software localisation, marketing, legal and certified translation.</li><li><a href=\"/recruitment/\">Recruitment</a>: Permanent, contract and executive hiring, plus recruitment process outsourcing.</li><li><a href=\"/company-formation/\">Company formation</a>: Company registration, registered agents, tax IDs, banking and market entry.</li></ul>"
+    }
+  ],
+  "related": [
+    "accounting",
+    "payroll",
+    "legal-services"
+  ],
+  "keywords": [
+    "business services eu",
+    "hire professionals europe",
+    "accountant europe",
+    "payroll europe"
+  ],
+  "cardText": "Credentials, rules and tips for hiring business professionals in Europe."
+}

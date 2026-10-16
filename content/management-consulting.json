@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "management-consulting",
+  "nav": "Consulting",
+  "title": "Management Consultants: Strategy, Operations & Growth",
+  "description": "Compare management consultants for strategy, operations, process improvement, change, pricing and growth projects. Independent experts and firms worldwide.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Management consultants who help your business grow",
+  "intro": "Bring in outside expertise for a strategy reset, an operations fix, a new market or a big change programme. Compare independent consultants, boutique firms and fractional executives.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+    "alt": "Consultant presenting to a client across a table with a laptop",
+    "credit": "Headway",
+    "creditUrl": "https://unsplash.com/@headwayio"
+  },
+  "searchPlaceholder": "Search consulting and other services…",
+  "chips": [
+    {
+      "label": "Strategy",
+      "q": "strategy"
+    },
+    {
+      "label": "Operations",
+      "q": "operations"
+    },
+    {
+      "label": "Fractional executives",
+      "q": "fractional executives"
+    },
+    {
+      "label": "New markets",
+      "q": "new markets"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from management consultants</h2><p>Write one clear brief with our free builder, then send it to several management consultants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=management-consulting\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What management consultants work on",
+      "html": "<ul><li><strong>Strategy:</strong> where to compete, what to stop doing and how to grow.</li><li><strong>Operations:</strong> processes, supply chain, quality and cost.</li><li><strong>Growth and new markets:</strong> pricing, international expansion and go-to-market plans.</li><li><strong>Change:</strong> restructures, mergers, new systems and culture.</li><li><strong>Fractional leadership:</strong> a part-time COO, CFO or CMO for a set period.</li></ul>"
+    },
+    {
+      "h2": "Independent consultant, boutique or big firm?",
+      "html": "<ul><li><strong>Independent consultants</strong> bring senior experience directly, often at a lower cost than a firm.</li><li><strong>Boutique firms</strong> specialise in one sector or type of problem and add a small team.</li><li><strong>Large firms</strong> suit very big, multi-country programmes that need many people at once.</li></ul>"
+    },
+    {
+      "h2": "How to judge a consultant",
+      "html": "<ul><li>Ask for case studies with measurable outcomes, and speak to references.</li><li>Look for credentials such as the <strong>Certified Management Consultant (CMC)</strong> designation, awarded by national institutes that belong to ICMCI.</li><li>Agree the problem, scope, deliverables and how success will be measured before work starts.</li><li>Make sure your own team learns along the way, so the change lasts.</li></ul><p>Read <a href=\"/blog/how-to-hire-a-management-consultant/\">how to hire a management consultant</a> for a step-by-step guide.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Seniority, scope, duration and how much of the work is on site all matter. Consultants charge day rates, fixed project fees, retainers or, sometimes, fees linked to results. A tight brief with clear deliverables makes quotes easier to compare.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a fractional executive?",
+      "a": "A senior leader, such as a CFO, COO or CMO, who works for your business part time, for example two days a week, instead of joining full time."
+    },
+    {
+      "q": "How long does a consulting project take?",
+      "a": "Anything from a one-day workshop to a programme lasting many months. Agree milestones up front so you can review progress and stop if it isn’t working."
+    },
+    {
+      "q": "Should a consultant sign an NDA?",
+      "a": "It’s common, especially when they’ll see financial or customer data. Your contract should also cover confidentiality, data protection and who owns the work produced."
+    }
+  ],
+  "related": [
+    "accounting",
+    "digital-marketing",
+    "company-formation"
+  ],
+  "keywords": [
+    "management consultant",
+    "management consulting",
+    "business consultant",
+    "strategy consultant",
+    "operations consultant",
+    "fractional coo",
+    "fractional cfo",
+    "business growth consultant"
+  ],
+  "cardText": "Strategy, operations, process improvement, change and fractional leadership.",
+  "ctaTitle": "Need consulting help? Search ProSourced"
+}

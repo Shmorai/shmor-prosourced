@@ -1,0 +1,66 @@
+{
+  "updated": "2026-09-10",
+  "type": "post",
+  "slug": "blog/translation-vs-localisation",
+  "date": "2026-09-10",
+  "title": "Translation vs Localisation: Which Does Your Business Need?",
+  "description": "Translation, localisation, transcreation and certified translation explained, with ISO 17100 quality tips and how to brief a translation agency for new markets.",
+  "h1": "Translation vs localisation: which does your business need?",
+  "intro": "Selling in a new market takes more than swapping words. Here’s how translation, localisation and transcreation differ, and when to use each.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1497302347632-904729bc24aa",
+    "alt": "Travel map, passport and notebook laid out for trip planning",
+    "credit": "John Matychuk",
+    "creditUrl": "https://unsplash.com/@john_matychuk"
+  },
+  "sections": [
+    {
+      "h2": "Four services, four jobs",
+      "html": "<ul><li><strong>Translation:</strong> accurate meaning in another language. Right for contracts, manuals and reports.</li><li><strong>Localisation:</strong> translation plus adapting formats, currencies, units, images and references for a market. Right for websites, apps and products.</li><li><strong>Transcreation:</strong> recreating marketing messages so they have the same effect in another culture.</li><li><strong>Certified or sworn translation:</strong> a translation formally attested for official use. Requirements depend on the country and the receiving body.</li></ul>"
+    },
+    {
+      "h2": "Quality signals",
+      "html": "<ul><li>Native speakers of the target language with subject knowledge.</li><li>A second linguist revising the work, as ISO 17100 requires.</li><li>Glossaries, style guides and translation memory for consistency.</li><li>Membership of professional bodies such as ATA, ITI or CIOL.</li></ul>"
+    },
+    {
+      "h2": "Machine translation: where it fits",
+      "html": "<p>Machine translation is useful for the gist and for internal drafts. For anything customers, regulators or courts will read, use a professional translator or a professional “post-editing” service, where a linguist corrects machine output.</p>"
+    },
+    {
+      "h2": "How to brief a translation agency",
+      "html": "<ol><li>Source files in editable formats.</li><li>Target languages and markets (for example, Spanish for Spain or for Mexico).</li><li>Purpose and audience.</li><li>Glossary, brand voice and anything that must not be translated.</li><li>Deadline, and whether you need certification.</li></ol><p>Compare <a href=\"/translation/\">translation and localisation providers</a>, and make sure your <a href=\"/web-design/\">website</a> is ready for more than one language.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ISO 17100: Translation services requirements",
+      "url": "https://www.iso.org/standard/59149.html"
+    },
+    {
+      "title": "American Translators Association (ATA)",
+      "url": "https://www.atanet.org/"
+    },
+    {
+      "title": "Institute of Translation and Interpreting (ITI)",
+      "url": "https://www.iti.org.uk/"
+    },
+    {
+      "title": "International Federation of Translators (FIT)",
+      "url": "https://www.fit-ift.org/"
+    }
+  ],
+  "keywords": [
+    "translation vs localisation",
+    "localization vs translation",
+    "transcreation",
+    "certified translation",
+    "website localisation"
+  ],
+  "related": [
+    "translation",
+    "web-design",
+    "digital-marketing"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Translation, localisation, transcreation and certified translation explained, with ISO 17100 quality tips and how to brief a translation agency for new markets."
+}

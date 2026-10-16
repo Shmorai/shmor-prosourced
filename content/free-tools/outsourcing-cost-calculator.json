@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-16",
+  "slug": "free-tools/outsourcing-cost-calculator",
+  "nav": "Outsourcing cost calculator",
+  "title": "In-House vs Outsourcing Cost Calculator (Free)",
+  "description": "Compare the full first-year cost of hiring an employee with outsourcing the same work. Add salary, on-costs, overheads and agency rates: free and private.",
+  "eyebrow": "Free tool",
+  "h1": "Should you hire or outsource? Compare the real cost",
+  "intro": "Salary is only part of the cost of an employee. Add on-costs, overheads and recruitment, then compare against a provider’s hourly rate or monthly fee.",
+  "search": false,
+  "blocks": [
+    {
+      "type": "html",
+      "class": "blocks-tool",
+      "position": "top",
+      "html": "<div class=\"tool\" data-tool=\"cost\"><h2>In-house vs outsourcing cost calculator</h2><p>Enter your own figures. The calculator compares a year of employing someone with a year of buying the same work from a provider.</p>\n<form novalidate>\n<fieldset><legend>Currency</legend><div class=\"tool-grid\"><label>Show results in<select name=\"currency\"><option value=\"USD\">USD $</option><option value=\"GBP\">GBP £</option><option value=\"EUR\">EUR €</option><option value=\"CAD\">CAD $</option><option value=\"AUD\">AUD $</option><option value=\"INR\">INR ₹</option><option value=\"AED\">AED</option><option value=\"SGD\">SGD $</option></select></label></div></fieldset>\n<fieldset><legend>Hiring in-house</legend><div class=\"tool-grid\">\n<label>Annual salary<input name=\"salary\" inputmode=\"decimal\" placeholder=\"e.g. 45000\"></label>\n<label>Employer on-costs (%)<small>Payroll taxes, pension or 401(k), benefits</small><input name=\"oncost\" inputmode=\"decimal\" placeholder=\"e.g. 20\"></label>\n<label>Yearly overheads per person<small>Equipment, software, desk, training</small><input name=\"overhead\" inputmode=\"decimal\" placeholder=\"e.g. 4000\"></label>\n<label>One-off recruitment cost<input name=\"hire\" inputmode=\"decimal\" placeholder=\"e.g. 5000\"></label>\n<label>Number of people (full-time equivalent)<input name=\"fte\" inputmode=\"decimal\" placeholder=\"1\"></label>\n</div></fieldset>\n<fieldset><legend>Outsourcing</legend><div class=\"tool-grid\">\n<label>Hourly rate<input name=\"rate\" inputmode=\"decimal\" placeholder=\"e.g. 60\"></label>\n<label>Hours needed per month<input name=\"hours\" inputmode=\"decimal\" placeholder=\"e.g. 40\"></label>\n<label>…or a fixed monthly fee<small>Leave blank to use rate × hours</small><input name=\"retainer\" inputmode=\"decimal\" placeholder=\"e.g. 2500\"></label>\n</div></fieldset>\n<div class=\"tool-actions\"><button class=\"btn\" type=\"submit\">Compare costs</button><button class=\"btn btn-ghost\" type=\"reset\">Clear</button></div>\n</form><div class=\"result\" data-result hidden aria-live=\"polite\"></div></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What to include in the in-house cost",
+      "html": "<ul><li><strong>Employer on-costs:</strong> payroll taxes or National Insurance, social security, pension or 401(k) contributions, health insurance and other benefits. These vary by country, so use your own figures or ask your accountant.</li><li><strong>Overheads:</strong> laptop, software licences, office space, training and management time.</li><li><strong>Recruitment:</strong> agency fees, job ads and interview time.</li><li><strong>Hidden time:</strong> holidays, sickness and the time it takes a new hire to get fully up to speed.</li></ul>"
+    },
+    {
+      "h2": "When outsourcing tends to make sense",
+      "html": "<ul><li>The work is specialist, occasional or seasonal.</li><li>You need it in a country where you don’t have a company.</li><li>You want to scale up or down quickly.</li><li>You need cover across several skills that one hire couldn’t provide.</li></ul><p>When the work is core, constant and needs close day-to-day control, hiring often wins. Many businesses use a mix of both.</p>"
+    },
+    {
+      "h2": "Next step",
+      "html": "<p>Use the <a href=\"/free-tools/project-brief-builder/\">project brief builder</a> to request quotes, then plug the real numbers back in here.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the calculator accurate for my country?",
+      "a": "It only uses the figures you enter, so it works in any country and currency. The accuracy depends on your inputs, especially employer on-costs, which differ by country."
+    },
+    {
+      "q": "Do you store what I type?",
+      "a": "No. The calculation happens in your browser, and nothing is sent to us."
+    }
+  ],
+  "related": [
+    "free-tools/project-brief-builder",
+    "payroll",
+    "hr-outsourcing"
+  ],
+  "keywords": [
+    "outsourcing cost calculator",
+    "cost of an employee calculator",
+    "in-house vs outsource",
+    "outsourcing vs hiring"
+  ],
+  "cardText": "Compare a year of hiring with a year of outsourcing, using your own figures.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601342630314-8427c38bf5e6",
+    "alt": "Tablet, laptop and coffee mug on a desk used for budgeting",
+    "credit": "Windows",
+    "creditUrl": "https://unsplash.com/@windows"
+  }
+}

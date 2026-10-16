@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-12",
+  "type": "post",
+  "slug": "blog/contractor-or-employee-ir35-irs",
+  "date": "2026-10-12",
+  "title": "Contractor or Employee? IRS, IR35 and EU Rules Explained",
+  "description": "How the US, UK and EU decide whether someone is a contractor or an employee: the IRS common-law test, IR35 off-payroll rules and EU platform-work rules.",
+  "h1": "Contractor or employee? How the US, UK and EU decide",
+  "intro": "Calling someone a contractor doesn’t make them one. Authorities look at how the work really happens. Here’s what they look for.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562564055-71e051d33c19",
+    "alt": "Two people reviewing and signing a document at a desk",
+    "credit": "Gabrielle Henderson",
+    "creditUrl": "https://unsplash.com/@gabriellefaithhenderson"
+  },
+  "sections": [
+    {
+      "h2": "Why it matters",
+      "html": "<p>Employees usually get rights like paid leave and protection from unfair dismissal, and employers pay employment taxes for them. If a worker is wrongly treated as a contractor, the business can face back taxes, interest, penalties and employment claims.</p>"
+    },
+    {
+      "h2": "United States: the IRS common-law test",
+      "html": "<p>The IRS looks at the degree of control and independence, in three groups:</p><ul><li><strong>Behavioural control:</strong> does the business control how the work is done?</li><li><strong>Financial control:</strong> who controls the business side, such as expenses, investment and the chance of profit or loss?</li><li><strong>Relationship:</strong> are there benefits, a written contract, and is the work a key part of the business?</li></ul><p>The US Department of Labor and individual states also have their own tests for wage and hour purposes, and some states use a stricter “ABC” test.</p>"
+    },
+    {
+      "h2": "United Kingdom: employment status and IR35",
+      "html": "<p>UK law has three statuses: employee, worker and self-employed. Separately, the <strong>off-payroll working rules (IR35)</strong> apply when a contractor works through their own intermediary, usually a limited company. Medium and large clients must decide the contractor’s status and issue a Status Determination Statement. Small clients leave the decision to the contractor’s company. HMRC’s free CEST tool gives a view on status.</p>"
+    },
+    {
+      "h2": "European Union: national tests plus new platform rules",
+      "html": "<p>Each EU country decides employment status under its own law, and many presume employment when someone works under the client’s direction. The EU Platform Work Directive, adopted in 2024, adds a legal presumption of employment for people working through digital labour platforms where facts show control and direction. Member states have until late 2026 to bring it into national law.</p>"
+    },
+    {
+      "h2": "Practical steps",
+      "html": "<ol><li>Write down how the work will actually be done, not just the contract label.</li><li>Let genuine contractors control how, when and where they work, and send invoices.</li><li>Avoid treating long-term contractors exactly like staff.</li><li>Review status when a role changes.</li><li>Take advice from an <a href=\"/accounting/\">accountant</a> or <a href=\"/legal-services/\">employment lawyer</a> in the worker’s country.</li></ol>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IRS: Independent contractor (self-employed) or employee?",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee"
+    },
+    {
+      "title": "GOV.UK: Understanding off-payroll working (IR35)",
+      "url": "https://www.gov.uk/guidance/understanding-off-payroll-working-ir35"
+    },
+    {
+      "title": "GOV.UK: Check employment status for tax (CEST)",
+      "url": "https://www.gov.uk/guidance/check-employment-status-for-tax"
+    },
+    {
+      "title": "EUR-Lex: Directive (EU) 2024/2831 on platform work",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/2831/oj"
+    }
+  ],
+  "keywords": [
+    "contractor vs employee",
+    "ir35",
+    "worker misclassification",
+    "irs common law test",
+    "off-payroll working rules"
+  ],
+  "related": [
+    "hr-outsourcing",
+    "virtual-assistants",
+    "legal-services"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "How the US, UK and EU decide whether someone is a contractor or an employee: the IRS common-law test, IR35 off-payroll rules and EU platform-work rules."
+}

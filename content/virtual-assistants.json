@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "virtual-assistants",
+  "nav": "Virtual assistants",
+  "title": "Virtual Assistants: Hire Remote Admin and Business Support",
+  "description": "Compare virtual assistants and remote support teams for admin, inbox and calendar, customer service, bookkeeping support and research, in any time zone.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Virtual assistants to win back your week",
+  "intro": "Hand over admin, inbox and calendar, customer service, research and data work to a skilled remote assistant or team, part time or full time, in a time zone that suits you.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1553775282-20af80779df7",
+    "alt": "Headset resting next to a laptop computer",
+    "credit": "Petr Macháček",
+    "creditUrl": "https://unsplash.com/@machec"
+  },
+  "searchPlaceholder": "Search virtual assistants and other services…",
+  "chips": [
+    {
+      "label": "Executive assistants",
+      "q": "executive assistants"
+    },
+    {
+      "label": "Customer support",
+      "q": "customer support"
+    },
+    {
+      "label": "Admin & data",
+      "q": "admin & data"
+    },
+    {
+      "label": "Research",
+      "q": "research"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from virtual assistants</h2><p>Write one clear brief with our free builder, then send it to several virtual assistants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=virtual-assistants\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Tasks you can hand to a virtual assistant",
+      "html": "<ul><li>Inbox, calendar and travel management.</li><li>Customer service by email, chat or phone.</li><li>Data entry, CRM updates and reporting.</li><li>Research, presentations and document formatting.</li><li>Social media scheduling and basic design.</li><li>Supporting your bookkeeper with receipts and invoices.</li></ul>"
+    },
+    {
+      "h2": "Set them up safely",
+      "html": "<ul><li>Use a password manager and give access only to what they need.</li><li>Turn on multi-factor authentication for every shared account.</li><li>Sign a confidentiality agreement and, where personal data is involved, a data processing agreement.</li><li>Write down your processes so work stays consistent.</li></ul><p>Hiring someone abroad directly? Check whether they are a contractor or an employee under local rules. Our guide to <a href=\"/blog/contractor-or-employee-ir35-irs/\">contractor or employee</a> explains the tests.</p>"
+    },
+    {
+      "h2": "Freelance VA, agency or dedicated team?",
+      "html": "<ul><li><strong>Freelance VA:</strong> direct relationship, flexible hours.</li><li><strong>VA agency:</strong> vetted assistants, cover for holidays and a replacement if it isn’t working.</li><li><strong>Dedicated offshore or nearshore team:</strong> several people for larger, ongoing workloads, often managed by the provider.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Skills and experience, hours, location and time-zone overlap, language requirements and whether you hire directly or through an agency. Assistants are usually paid hourly, or by a monthly package of hours.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many hours of help do I need?",
+      "a": "List your recurring tasks and time them for a week or two. Many businesses start with a small monthly package and grow it as they hand over more."
+    },
+    {
+      "q": "Is a virtual assistant an employee?",
+      "a": "It depends on how the work is arranged and the law where they live. Agencies usually employ or contract the assistant themselves, which simplifies this for you."
+    },
+    {
+      "q": "Can a virtual assistant work in my time zone?",
+      "a": "Yes. Many work set hours to overlap with yours, or cover hours when you’re offline."
+    }
+  ],
+  "related": [
+    "it-cyber-security",
+    "hr-outsourcing",
+    "translation"
+  ],
+  "keywords": [
+    "virtual assistant",
+    "virtual assistants",
+    "remote assistant",
+    "executive assistant",
+    "admin support",
+    "customer service outsourcing",
+    "offshore team",
+    "remote team"
+  ],
+  "cardText": "Admin, inbox and calendar, customer support, research and data entry.",
+  "ctaTitle": "Need virtual assistants help? Search ProSourced"
+}

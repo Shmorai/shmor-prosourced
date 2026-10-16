@@ -1,0 +1,113 @@
+{
+  "updated": "2026-10-16",
+  "slug": "payroll",
+  "nav": "Payroll",
+  "title": "Payroll Services: Outsource Payroll at Home or Abroad",
+  "description": "Compare payroll providers, bureaus and global payroll services. Outsource payslips, payroll tax filings, pensions and multi-country payroll with confidence.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Outsource payroll, from your first hire to a global team",
+  "intro": "Running payroll means paying people correctly and on time, and filing with the tax authorities in every country where you employ staff. Compare payroll bureaus, software-plus-service providers and global payroll specialists.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6",
+    "alt": "Person working out figures on a calculator at a desk with a coffee mug",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "searchPlaceholder": "Search payroll and other services…",
+  "chips": [
+    {
+      "label": "Payroll bureau",
+      "q": "payroll bureau"
+    },
+    {
+      "label": "Global payroll",
+      "q": "global payroll"
+    },
+    {
+      "label": "Employer of record",
+      "q": "employer of record"
+    },
+    {
+      "label": "Pensions & benefits",
+      "q": "pensions & benefits"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from payroll providers</h2><p>Write one clear brief with our free builder, then send it to several payroll providers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=payroll\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a payroll provider handles",
+      "html": "<ul><li>Calculating gross-to-net pay, deductions, overtime, bonuses and leave pay.</li><li>Payslips and year-end forms for employees.</li><li>Payroll tax and social security filings and payments to the authorities.</li><li>Pension or retirement plan deductions, and benefits.</li><li>Starters, leavers, and statutory payments such as sick and parental pay.</li><li>Reports for your accountant and your general ledger.</li></ul>"
+    },
+    {
+      "h2": "Payroll rules differ by country",
+      "html": "<ul><li><strong>United States:</strong> federal, state and sometimes local income tax withholding, FICA, and filings such as Form 941 and Form W-2.</li><li><strong>United Kingdom:</strong> PAYE through Real Time Information (RTI) reporting to HMRC on or before each payday, National Insurance, and workplace pension auto-enrolment.</li><li><strong>European Union:</strong> each country sets its own income tax and social security rules, and many have collective agreements that affect pay.</li><li><strong>Elsewhere:</strong> check whether you need a local entity or a local registration before you can run payroll at all.</li></ul><p>If you want to employ someone in a country where you have no company, an <a href=\"/blog/employer-of-record-vs-peo-vs-contractor/\">employer of record</a> may be the simpler route.</p>"
+    },
+    {
+      "h2": "Types of payroll service",
+      "html": "<ul><li><strong>Payroll bureau:</strong> a specialist runs payroll for you each period.</li><li><strong>Software plus support:</strong> you run payroll in cloud software, with expert help on hand.</li><li><strong>Global payroll aggregator:</strong> one provider coordinates payroll across several countries through in-country partners.</li><li><strong>Employer of record (EOR):</strong> a provider legally employs your staff abroad and runs their payroll.</li><li><strong>PEO (mainly US):</strong> a co-employment arrangement that bundles payroll, benefits and HR.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask a payroll provider",
+      "html": "<ul><li>Which countries and states do you cover directly, and which through partners?</li><li>Who is responsible if a filing is late or wrong?</li><li>What are the cut-off dates each pay period?</li><li>How do you secure employee data, and where is it stored?</li><li>Does it connect with our HR and accounting software?</li><li>What does it cost per employee, per run and for year-end?</li></ul><p>See our <a href=\"/blog/payroll-outsourcing-checklist/\">payroll outsourcing checklist</a> for the full list.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Pricing usually depends on headcount, pay frequency, the number of countries, and extras such as benefits administration or year-end work. Get a written quote that covers set-up, each pay run and year-end, so you can compare like with like. Our <a href=\"/free-tools/outsourcing-cost-calculator/\">in-house vs outsourcing calculator</a> helps you weigh it up against doing payroll yourself.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is outsourcing payroll safe?",
+      "a": "It can be, if the provider has strong security controls and a clear data processing agreement. Ask about certifications such as ISO/IEC 27001 or SOC 2, and where data is stored."
+    },
+    {
+      "q": "Am I still responsible if my payroll provider makes a mistake?",
+      "a": "Usually the employer stays legally responsible to the tax authorities. That’s why your contract should spell out who pays for errors and penalties."
+    },
+    {
+      "q": "What’s the difference between global payroll and an employer of record?",
+      "a": "With global payroll you remain the legal employer, so you need a local entity or registration. With an employer of record, the provider is the legal employer in that country and you direct the day-to-day work."
+    }
+  ],
+  "related": [
+    "hr-outsourcing",
+    "accounting",
+    "recruitment"
+  ],
+  "keywords": [
+    "payroll services",
+    "payroll outsourcing",
+    "outsource payroll",
+    "payroll bureau",
+    "global payroll",
+    "international payroll",
+    "payroll provider",
+    "paye"
+  ],
+  "cardText": "Payslips, payroll tax filings, pensions and benefits, and multi-country payroll.",
+  "ctaTitle": "Need payroll help? Search ProSourced"
+}

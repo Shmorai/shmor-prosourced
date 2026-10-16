@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "branding",
+  "nav": "Branding",
+  "title": "Branding & Graphic Design: Logos, Identity and Packaging",
+  "description": "Compare branding agencies and graphic designers for logos, brand identity, naming, packaging and marketing design. Protect your brand in every market.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Branding and design that makes your business unforgettable",
+  "intro": "Your name, logo and visual identity shape every first impression. Compare branding agencies and graphic designers for a new brand, a refresh or everyday design work.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1760008486599-e62d30e2ca95",
+    "alt": "Creative desk objects including a keyboard, lightbulb and pens",
+    "credit": "Creatvise",
+    "creditUrl": "https://unsplash.com/@creatvise"
+  },
+  "searchPlaceholder": "Search branding and other services…",
+  "chips": [
+    {
+      "label": "Logo design",
+      "q": "logo design"
+    },
+    {
+      "label": "Brand identity",
+      "q": "brand identity"
+    },
+    {
+      "label": "Packaging",
+      "q": "packaging"
+    },
+    {
+      "label": "Rebrands",
+      "q": "rebrands"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from branding designers</h2><p>Write one clear brief with our free builder, then send it to several branding designers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=branding\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What branding work includes",
+      "html": "<ul><li>Brand strategy: positioning, audience, personality and messaging.</li><li>Naming, with checks that the name is available.</li><li>Logo, colour palette, typography and imagery style.</li><li>Brand guidelines so everyone uses the brand consistently.</li><li>Applications: website, social templates, packaging, signage and print.</li></ul>"
+    },
+    {
+      "h2": "Protect your brand before you launch",
+      "html": "<p>Check that a name and logo aren’t already registered for similar goods or services. Official searches are free at the <strong>USPTO</strong> (US), <strong>UKIPO</strong> (UK) and <strong>EUIPO</strong> (EU). The <strong>WIPO Madrid System</strong> lets you seek protection in many countries through one application. A trademark attorney can advise on availability and filing. Our sister site <a href=\"https://onbuslaw.shmor.ai/\">OnBusLaw</a> explains trademarks in plain English.</p>"
+    },
+    {
+      "h2": "Get the files and the rights",
+      "html": "<ul><li>Ask for master files in vector formats (such as SVG, AI or EPS), plus web-ready versions.</li><li>Your contract should assign copyright in the final logo to your business on payment.</li><li>Check licences for any fonts or stock images used, especially for commercial use.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Strategy and research, how many concepts and revision rounds are included, the number of brand applications, and naming or trademark work. A logo on its own costs less than a full identity with guidelines. Ask what’s included at each stage.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a logo the same as a brand?",
+      "a": "No. A logo is one part of a brand. A brand also includes your name, voice, colours, typography, imagery and the experience people have with your business."
+    },
+    {
+      "q": "Do I own the copyright in my logo?",
+      "a": "Not automatically in every country. Make sure your contract assigns copyright to your business once you’ve paid."
+    },
+    {
+      "q": "How many logo concepts should I expect?",
+      "a": "It varies by designer and budget. Agree the number of concepts and revision rounds in writing before work starts."
+    }
+  ],
+  "related": [
+    "web-design",
+    "digital-marketing",
+    "legal-services"
+  ],
+  "keywords": [
+    "branding agency",
+    "brand identity",
+    "logo design",
+    "graphic designer",
+    "brand strategy",
+    "packaging design",
+    "rebrand",
+    "business naming"
+  ],
+  "cardText": "Logos, brand identity, naming, packaging and marketing design.",
+  "ctaTitle": "Need branding help? Search ProSourced"
+}

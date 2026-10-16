@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-16",
+  "slug": "for-professionals",
+  "nav": "For professionals",
+  "navOrder": 8,
+  "title": "For Professionals: Get Listed and Win Business Clients",
+  "description": "Accountants, consultants, designers, developers, marketers and other business service providers: learn how to get in front of more business clients worldwide.",
+  "eyebrow": "For service providers",
+  "h1": "Grow your practice with ProSourced",
+  "intro": "ProSourced helps businesses around the world find accountants, consultants, designers, developers, marketers, lawyers, assistants and more. Here’s how to get in front of them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1545184180-25d471fe75eb",
+    "alt": "Man drinking coffee while using a laptop in a café",
+    "credit": "Kyle Loftus",
+    "creditUrl": "https://unsplash.com/@kyleloftusstudios"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Who we’re looking for",
+      "html": "<ul><li>Accounting, bookkeeping and payroll firms.</li><li>HR consultants, recruiters and employer-of-record providers.</li><li>Management consultants and fractional executives.</li><li>Web designers, developers, branding studios and marketing agencies.</li><li>Business lawyers, IT providers, translators and virtual assistant agencies.</li></ul><p>Listings and partnerships are coming soon. To register your interest or discuss advertising, <a href=\"https://shmor.ai/partners/\">contact the Shmor.ai partnerships team</a>.</p>"
+    },
+    {
+      "h2": "Win more work from every lead",
+      "html": "<ul><li>Reply quickly and answer the brief point by point.</li><li>Show credentials, registrations and insurance up front.</li><li>Give a clear price and say exactly what’s included.</li><li>Share two or three case studies from similar clients.</li></ul><p>Not sure what to charge? Try the free <a href=\"/free-tools/hourly-rate-calculator/\">hourly and day rate calculator</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I list my firm on ProSourced?",
+      "a": "Listings are being prepared. Register your interest through the Shmor.ai partners page and we’ll be in touch."
+    },
+    {
+      "q": "Do you cover professionals outside the US, UK and EU?",
+      "a": "Yes. Many business services can be delivered remotely, and we welcome providers from any country who serve international clients."
+    }
+  ],
+  "related": [
+    "free-tools/hourly-rate-calculator",
+    "how-it-works",
+    "blog/fixed-fee-hourly-or-retainer"
+  ],
+  "keywords": [
+    "get more clients",
+    "list my business",
+    "leads for accountants",
+    "leads for consultants",
+    "freelance clients"
+  ],
+  "cardText": "How accountants, consultants, designers and other pros can reach more clients."
+}

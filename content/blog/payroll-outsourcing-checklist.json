@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-08",
+  "type": "post",
+  "slug": "blog/payroll-outsourcing-checklist",
+  "date": "2026-10-08",
+  "title": "Payroll Outsourcing Checklist: 20 Questions to Ask",
+  "description": "Thinking of outsourcing payroll? Use this checklist to compare providers on compliance, countries covered, security, integrations, service levels and pricing.",
+  "h1": "The payroll outsourcing checklist: 20 questions to ask providers",
+  "intro": "Payroll mistakes hit your people’s pockets and your standing with the tax authorities. Use these questions to compare providers properly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-26032ffc0d07",
+    "alt": "Tax paperwork on a folder beside a smartphone and pen",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "sections": [
+    {
+      "h2": "Coverage and compliance",
+      "html": "<ol><li>Which countries, states or provinces do you cover yourselves, and which through partners?</li><li>Which filings do you submit for us, and which stay with us?</li><li>How do you keep up with changes to tax rates and rules?</li><li>Who pays penalties if you make a mistake?</li><li>Can you handle pensions or retirement plans, benefits and statutory pay?</li></ol>"
+    },
+    {
+      "h2": "Process and service",
+      "html": "<ol><li>What are the cut-off dates for changes each pay period?</li><li>How do we submit starters, leavers and changes?</li><li>Will we have a named contact, and what are your response times?</li><li>Do employees get self-service payslips and year-end forms?</li><li>How do you handle off-cycle runs and corrections?</li></ol>"
+    },
+    {
+      "h2": "Data and security",
+      "html": "<ol><li>Where is our data stored and processed?</li><li>Do you hold ISO/IEC 27001 certification or a SOC 2 report?</li><li>Will you sign a data processing agreement (required under the GDPR)?</li><li>How is access controlled and logged?</li><li>How do we get our data back if we leave?</li></ol><p>See <a href=\"/blog/gdpr-when-outsourcing/\">outsourcing and the GDPR</a>.</p>"
+    },
+    {
+      "h2": "Systems and price",
+      "html": "<ol><li>Does it integrate with our HR, time-tracking and accounting software?</li><li>What reports do we get for our accountant?</li><li>What’s the price per employee, per run, for set-up and for year-end?</li><li>What’s the minimum term and notice period?</li><li>Can you support us if we hire in a new country?</li></ol>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>Shortlist two or three providers and send each the same brief, created with our <a href=\"/free-tools/project-brief-builder/?service=payroll\">free brief builder</a>. Then compare <a href=\"/payroll/\">payroll providers</a> side by side, and check the numbers with the <a href=\"/free-tools/outsourcing-cost-calculator/\">in-house vs outsourcing calculator</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Running payroll",
+      "url": "https://www.gov.uk/running-payroll"
+    },
+    {
+      "title": "IRS: Employment taxes",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes"
+    },
+    {
+      "title": "ISO: ISO/IEC 27001 information security management",
+      "url": "https://www.iso.org/standard/27001"
+    }
+  ],
+  "keywords": [
+    "payroll outsourcing checklist",
+    "choose a payroll provider",
+    "payroll provider questions",
+    "outsource payroll"
+  ],
+  "related": [
+    "payroll",
+    "accounting",
+    "hr-outsourcing"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Thinking of outsourcing payroll?"
+}

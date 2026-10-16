@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-16",
+  "slug": "regions/australia",
+  "nav": "Australia",
+  "title": "Find Business Professionals in Australia",
+  "description": "Hire accountants, payroll, HR, lawyers and marketers in Australia. Registered tax agents, Single Touch Payroll, super and what to check before hiring.",
+  "eyebrow": "ProSourced · Australia",
+  "h1": "Business services in Australia",
+  "intro": "What to know before you hire accountants, payroll, HR, lawyers and other business professionals in Australia.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1497302347632-904729bc24aa",
+    "alt": "Travel map, passport and notebook laid out for trip planning",
+    "credit": "John Matychuk",
+    "creditUrl": "https://unsplash.com/@john_matychuk"
+  },
+  "sections": [
+    {
+      "h2": "Key rules and credentials in Australia",
+      "html": "<ul><li><strong>Accountants:</strong> CPA Australia, Chartered Accountants ANZ and IPA members. Only registered tax agents can charge to prepare tax returns. Check the Tax Practitioners Board register.</li><li><strong>Payroll:</strong> employers report through Single Touch Payroll and pay superannuation guarantee contributions.</li><li><strong>Employment:</strong> the Fair Work system, including the National Employment Standards and modern awards.</li><li><strong>Lawyers:</strong> admitted and regulated in each state and territory.</li><li><strong>Business registration:</strong> an ABN through the Australian Business Register. Companies register with ASIC.</li><li><strong>GST:</strong> registration is required once turnover reaches the threshold.</li></ul>"
+    },
+    {
+      "h2": "Services you can hire from anywhere",
+      "html": "<p>Design, development, marketing, translation, consulting and virtual assistance are often delivered remotely, so you can widen your search beyond your own country. Tax filings, payroll and legal advice usually need someone who knows the local rules.</p><ul><li><a href=\"/accounting/\">Accounting</a>: Tax, year-end accounts, VAT and sales tax, management accounts and advice.</li><li><a href=\"/payroll/\">Payroll</a>: Payslips, payroll tax filings, pensions and benefits, and multi-country payroll.</li><li><a href=\"/hr-outsourcing/\">HR</a>: Contracts, handbooks, employee relations, hiring, performance and HR software.</li><li><a href=\"/management-consulting/\">Consulting</a>: Strategy, operations, process improvement, change and fractional leadership.</li><li><a href=\"/web-design/\">Web design</a>: Business websites, ecommerce, redesigns, landing pages and web apps.</li><li><a href=\"/digital-marketing/\">Marketing</a>: SEO, Google Ads and PPC, social media, content and email marketing.</li><li><a href=\"/branding/\">Branding</a>: Logos, brand identity, naming, packaging and marketing design.</li><li><a href=\"/legal-services/\">Legal</a>: Contracts, company law, employment, IP, data protection and cross-border deals.</li><li><a href=\"/it-cyber-security/\">IT &amp; cyber</a>: Managed IT, cloud and Microsoft 365, backups, security reviews and certification.</li><li><a href=\"/virtual-assistants/\">Virtual assistants</a>: Admin, inbox and calendar, customer support, research and data entry.</li><li><a href=\"/translation/\">Translation</a>: Website and software localisation, marketing, legal and certified translation.</li><li><a href=\"/recruitment/\">Recruitment</a>: Permanent, contract and executive hiring, plus recruitment process outsourcing.</li><li><a href=\"/company-formation/\">Company formation</a>: Company registration, registered agents, tax IDs, banking and market entry.</li></ul>"
+    }
+  ],
+  "related": [
+    "accounting",
+    "payroll",
+    "legal-services"
+  ],
+  "keywords": [
+    "business services australia",
+    "hire professionals australia",
+    "accountant australia",
+    "payroll australia"
+  ],
+  "cardText": "Credentials, rules and tips for hiring business professionals in Australia."
+}

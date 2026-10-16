@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-16",
+  "slug": "web-design",
+  "nav": "Web design",
+  "title": "Web Design & Development: Compare Designers and Agencies",
+  "description": "Compare web designers, developers and agencies for business websites, ecommerce stores, redesigns and web apps. Accessible, fast, search-friendly sites.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Web designers and developers for websites that win customers",
+  "intro": "Whether it’s a first website, an online shop or a full redesign, compare freelancers and agencies on portfolio, process and price. Then brief them clearly with our free builder.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d",
+    "alt": "Desktop computer showing a website design",
+    "credit": "Lee Campbell",
+    "creditUrl": "https://unsplash.com/@leecampbell"
+  },
+  "searchPlaceholder": "Search web design and other services…",
+  "chips": [
+    {
+      "label": "Business websites",
+      "q": "business websites"
+    },
+    {
+      "label": "Ecommerce",
+      "q": "ecommerce"
+    },
+    {
+      "label": "Redesigns",
+      "q": "redesigns"
+    },
+    {
+      "label": "Web apps",
+      "q": "web apps"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from web designers</h2><p>Write one clear brief with our free builder, then send it to several web designers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=web-design\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What to expect from a good web designer",
+      "html": "<ul><li>Discovery: your goals, audience, competitors and content.</li><li>Design that works on phones first, with clear calls to action.</li><li>Build on a platform you can manage, such as WordPress, Shopify, Webflow or custom code.</li><li>Accessibility, speed and search basics built in from the start.</li><li>Testing, launch, training and an aftercare or maintenance plan.</li></ul>"
+    },
+    {
+      "h2": "Accessibility is now a legal question",
+      "html": "<p>The international standard is the W3C’s <strong>Web Content Accessibility Guidelines (WCAG)</strong>, currently version 2.2. In the EU, the <strong>European Accessibility Act</strong> has applied since 28 June 2025 to many consumer-facing digital services, including ecommerce. In the US, website accessibility claims are often brought under the Americans with Disabilities Act. In the UK, the Equality Act 2010 requires reasonable adjustments. Ask every designer how they test against WCAG.</p>"
+    },
+    {
+      "h2": "Make sure you own what you pay for",
+      "html": "<ul><li>Register the domain in your business’s name, not the designer’s.</li><li>Get admin access to hosting, the CMS, analytics and any plugins or themes you pay for.</li><li>Your contract should transfer ownership of the design and code to you on payment, apart from licensed third-party parts.</li><li>Agree what happens to hosting and updates if you part ways.</li></ul><p>Use our guide on <a href=\"/blog/how-to-write-a-website-design-brief/\">how to write a website design brief</a>.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>The number of pages and templates, custom features, ecommerce, integrations, copywriting and photography, multiple languages and ongoing support all change the price. Templates are quicker to launch. Custom design and development take longer. Compare quotes on what’s included, not just the headline figure.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I hire a freelancer or an agency?",
+      "a": "Freelancers suit smaller, well-defined sites and are often more flexible. Agencies bring a team (design, development, content, SEO) for bigger or more complex projects."
+    },
+    {
+      "q": "Does a new website include SEO?",
+      "a": "Good designers build in technical basics: fast pages, clean structure, titles and descriptions. Ongoing SEO, such as content and links, is usually a separate service. See digital marketing."
+    },
+    {
+      "q": "Do I need a multilingual website to sell abroad?",
+      "a": "Not always, but local-language pages usually help visitors trust and buy from you. See translation and localisation for how to do it well."
+    }
+  ],
+  "related": [
+    "branding",
+    "digital-marketing",
+    "translation"
+  ],
+  "keywords": [
+    "web design",
+    "web designer",
+    "web design agency",
+    "website developer",
+    "web development",
+    "ecommerce website",
+    "shopify developer",
+    "wordpress developer",
+    "website redesign"
+  ],
+  "cardText": "Business websites, ecommerce, redesigns, landing pages and web apps.",
+  "ctaTitle": "Need web design help? Search ProSourced"
+}

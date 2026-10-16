@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-16",
+  "slug": "free-tools/hourly-rate-calculator",
+  "nav": "Hourly rate calculator",
+  "title": "Freelance Hourly & Day Rate Calculator for Professionals",
+  "description": "Work out the minimum hourly and day rate you need as a consultant, freelancer or agency, from your target income, business costs, tax and billable hours.",
+  "eyebrow": "Free tool for professionals",
+  "h1": "What should you charge? Work out your minimum rate",
+  "intro": "Many independent professionals underprice because they forget non-billable time, holidays, tax and business costs. This calculator builds them all in.",
+  "search": false,
+  "blocks": [
+    {
+      "type": "html",
+      "class": "blocks-tool",
+      "position": "top",
+      "html": "<div class=\"tool\" data-tool=\"rate\"><h2>Hourly and day rate calculator</h2><p>Work out the minimum rate you need to charge to reach your target income, after business costs and tax.</p>\n<form novalidate>\n<div class=\"tool-grid\">\n<label>Currency<select name=\"currency\"><option value=\"USD\">USD $</option><option value=\"GBP\">GBP £</option><option value=\"EUR\">EUR €</option><option value=\"CAD\">CAD $</option><option value=\"AUD\">AUD $</option><option value=\"INR\">INR ₹</option><option value=\"AED\">AED</option><option value=\"SGD\">SGD $</option></select></label>\n<label>Target take-home income per year<input name=\"income\" inputmode=\"decimal\" placeholder=\"e.g. 60000\"></label>\n<label>Business costs per year<small>Software, insurance, equipment, marketing</small><input name=\"costs\" inputmode=\"decimal\" placeholder=\"e.g. 8000\"></label>\n<label>Estimated tax rate on profit (%)<small>Use your own figure or ask your accountant</small><input name=\"tax\" inputmode=\"decimal\" placeholder=\"e.g. 25\"></label>\n<label>Weeks off per year<small>Holidays, public holidays, sickness</small><input name=\"weeksoff\" inputmode=\"decimal\" placeholder=\"e.g. 7\"></label>\n<label>Billable hours per week<small>Not counting admin and sales time</small><input name=\"billable\" inputmode=\"decimal\" placeholder=\"e.g. 25\"></label>\n<label>Hours in a working day<input name=\"daylength\" inputmode=\"decimal\" placeholder=\"8\"></label>\n</div>\n<div class=\"tool-actions\"><button class=\"btn\" type=\"submit\">Calculate my rate</button><button class=\"btn btn-ghost\" type=\"reset\">Clear</button></div>\n</form><div class=\"result\" data-result hidden aria-live=\"polite\"></div></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why billable hours matter most",
+      "html": "<p>Selling, admin, learning and invoicing all take time you can’t bill. If you plan on billing every working hour, your rate will be too low. Be realistic about how many hours a week clients will actually pay for.</p>"
+    },
+    {
+      "h2": "From minimum rate to market rate",
+      "html": "<ul><li>Check what similar specialists charge in your market.</li><li>Consider fixed fees or retainers for repeat work. See <a href=\"/blog/fixed-fee-hourly-or-retainer/\">pricing models explained</a>.</li><li>Review your rates at least once a year.</li></ul><p>Want more clients? <a href=\"/for-professionals/\">See how to get listed on ProSourced</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which tax rate should I use?",
+      "a": "Use an estimate of the overall tax and social contributions on your profit where you live. An accountant can give you a more accurate figure."
+    },
+    {
+      "q": "Should I quote hourly or a day rate?",
+      "a": "Hourly suits small or unpredictable tasks. Day rates suit consulting and project work. Fixed fees reward efficiency, if the scope is clear."
+    }
+  ],
+  "related": [
+    "for-professionals",
+    "free-tools/outsourcing-cost-calculator",
+    "blog/fixed-fee-hourly-or-retainer"
+  ],
+  "keywords": [
+    "hourly rate calculator",
+    "day rate calculator",
+    "freelance rate calculator",
+    "consulting rate calculator",
+    "what to charge"
+  ],
+  "cardText": "Turn your income goal, costs, tax and billable hours into a minimum rate.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1707902665498-a202981fb5ac",
+    "alt": "Person at a desk with a calculator and a notebook",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  }
+}

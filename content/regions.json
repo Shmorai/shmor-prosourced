@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-16",
+  "slug": "regions",
+  "nav": "Regions",
+  "title": "Find Business Professionals Worldwide, Region by Region",
+  "description": "Hiring accountants, payroll, HR, lawyers or consultants abroad? See what differs in the US, UK, Europe, Canada and Australia before you compare quotes.",
+  "eyebrow": "Global by default",
+  "h1": "Find business professionals in every market",
+  "intro": "Tax, payroll, employment and company law change at every border. Choose a region to see which credentials to check and which rules matter.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768793096346-6d84e93e4195",
+    "alt": "Man working on a laptop by an airport window at sunrise",
+    "credit": "Daniel Gomez",
+    "creditUrl": "https://unsplash.com/@naturelensephotographer"
+  },
+  "blocks": [
+    {
+      "type": "tiles",
+      "position": "top",
+      "items": [
+        {
+          "slug": "regions/united-states",
+          "badge": "USA"
+        },
+        {
+          "slug": "regions/united-kingdom",
+          "badge": "UK"
+        },
+        {
+          "slug": "regions/europe",
+          "badge": "EU"
+        },
+        {
+          "slug": "regions/canada",
+          "badge": "Canada"
+        },
+        {
+          "slug": "regions/australia",
+          "badge": "Australia"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Working across borders",
+      "html": "<ul><li><strong>Hiring abroad:</strong> compare an <a href=\"/blog/employer-of-record-vs-peo-vs-contractor/\">employer of record, a PEO or contractors</a>.</li><li><strong>Setting up abroad:</strong> see <a href=\"/company-formation/\">company formation and expansion</a>.</li><li><strong>Selling abroad:</strong> <a href=\"/translation/\">localise</a> your website and check your <a href=\"/accounting/\">VAT, GST or sales tax</a> position.</li><li><strong>Data:</strong> read <a href=\"/blog/gdpr-when-outsourcing/\">outsourcing and the GDPR</a>.</li></ul>"
+    }
+  ],
+  "related": [
+    "company-formation",
+    "payroll",
+    "translation"
+  ],
+  "keywords": [
+    "international business services",
+    "hire abroad",
+    "global professionals",
+    "cross-border business help"
+  ],
+  "cardText": "What changes in the US, UK, Europe, Canada and Australia."
+}

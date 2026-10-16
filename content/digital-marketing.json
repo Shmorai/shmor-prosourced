@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "digital-marketing",
+  "nav": "Marketing",
+  "title": "Digital Marketing Agencies: SEO, PPC, Social and Email",
+  "description": "Compare digital marketing agencies and freelancers for SEO, Google Ads and PPC, social media, content and email marketing, for local or global growth.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Digital marketing experts to bring in more customers",
+  "intro": "Search, paid ads, social, content and email: compare specialists and full-service agencies, and hire for the channel that fits your goals and budget.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f",
+    "alt": "Person working on a laptop and smartphone",
+    "credit": "Austin Distel",
+    "creditUrl": "https://unsplash.com/@austindistel"
+  },
+  "searchPlaceholder": "Search marketing and other services…",
+  "chips": [
+    {
+      "label": "SEO",
+      "q": "seo"
+    },
+    {
+      "label": "Google Ads & PPC",
+      "q": "google ads & ppc"
+    },
+    {
+      "label": "Social media",
+      "q": "social media"
+    },
+    {
+      "label": "Email marketing",
+      "q": "email marketing"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from marketing agencies</h2><p>Write one clear brief with our free builder, then send it to several marketing agencies and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=digital-marketing\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Marketing services you can outsource",
+      "html": "<ul><li><strong>SEO:</strong> technical fixes, content and links that help you rank in search.</li><li><strong>Paid search and PPC:</strong> Google Ads, Microsoft Advertising and shopping campaigns.</li><li><strong>Paid social:</strong> Meta, LinkedIn, TikTok and other ad platforms.</li><li><strong>Organic social and community:</strong> content calendars and engagement.</li><li><strong>Content:</strong> articles, video, case studies and lead magnets.</li><li><strong>Email and CRM:</strong> newsletters, automations and segmentation.</li></ul>"
+    },
+    {
+      "h2": "Marketing rules to know when you go global",
+      "html": "<ul><li><strong>EU and UK:</strong> GDPR and the ePrivacy rules (PECR in the UK) generally require consent for non-essential cookies and for most marketing emails to individuals.</li><li><strong>United States:</strong> the CAN-SPAM Act sets rules for commercial email, including a working opt-out. The FTC expects ads and endorsements to be truthful and clearly disclosed.</li><li><strong>Everywhere:</strong> ad platforms have their own policies, especially for finance, health and other regulated sectors.</li></ul>"
+    },
+    {
+      "h2": "How to choose an agency",
+      "html": "<ul><li>Ask for results from businesses like yours, and what they did to get them.</li><li>Make sure ad accounts, analytics and data are set up in <strong>your</strong> name.</li><li>Agree which numbers count (leads, sales, cost per acquisition) and how they’ll be reported.</li><li>Be wary of anyone who guarantees rankings. Google’s own guidance warns against that.</li><li>Check the notice period and minimum term before signing.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Channels, markets and languages, how much content is needed, and whether ad spend is included or billed separately. Agencies often charge a monthly retainer, a percentage of ad spend, or project fees. Keep ad spend and management fees as separate lines when you compare.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does SEO take to work?",
+      "a": "SEO usually builds over months, not weeks, depending on competition and your site’s starting point. Paid search can bring traffic straight away, but stops when you stop paying."
+    },
+    {
+      "q": "Should I use one agency for everything?",
+      "a": "A full-service agency is simpler to manage. Specialists often go deeper on one channel. Many businesses start with one channel that suits their goal, then expand."
+    },
+    {
+      "q": "Who should own our ad accounts?",
+      "a": "You should. Ask the agency to work inside accounts registered to your business, so you keep the history and data if you change provider."
+    }
+  ],
+  "related": [
+    "web-design",
+    "branding",
+    "translation"
+  ],
+  "keywords": [
+    "digital marketing agency",
+    "seo agency",
+    "ppc agency",
+    "google ads",
+    "social media marketing",
+    "content marketing",
+    "email marketing",
+    "online marketing"
+  ],
+  "cardText": "SEO, Google Ads and PPC, social media, content and email marketing.",
+  "ctaTitle": "Need marketing help? Search ProSourced"
+}

@@ -1,0 +1,58 @@
+{
+  "updated": "2026-09-05",
+  "type": "post",
+  "slug": "blog/fixed-fee-hourly-or-retainer",
+  "date": "2026-09-05",
+  "title": "Fixed Fee, Hourly or Retainer? Pricing Models Explained",
+  "description": "How professionals price their work: fixed fees, hourly and day rates, retainers and value-based pricing. The pros and cons of each, and how to compare quotes.",
+  "h1": "Fixed fee, hourly or retainer? How professional services are priced",
+  "intro": "Two quotes for the same job can look nothing alike. Understanding pricing models helps you compare fairly, whether you’re buying or selling.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Calculator on a table next to a laptop",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "sections": [
+    {
+      "h2": "The main models",
+      "html": "<table><thead><tr><th>Model</th><th>How it works</th><th>Good when</th><th>Watch out for</th></tr></thead><tbody><tr><td>Fixed fee</td><td>One price for a defined scope</td><td>The scope is clear</td><td>Extra charges for changes</td></tr><tr><td>Hourly or day rate</td><td>Pay for time spent</td><td>Scope is uncertain</td><td>Costs that run on</td></tr><tr><td>Retainer</td><td>Monthly fee for ongoing work or access</td><td>Regular, repeat needs</td><td>Unused hours</td></tr><tr><td>Value or success-based</td><td>Fee linked to an outcome</td><td>Outcomes are measurable</td><td>Disputes over what counts</td></tr></tbody></table>"
+    },
+    {
+      "h2": "How to compare quotes on different models",
+      "html": "<ol><li>Use the same brief for every provider.</li><li>Ask hourly quoters for an estimate of total hours and a cap.</li><li>Ask fixed-fee quoters exactly what’s included, and the rate for extras.</li><li>For retainers, check what happens to unused hours and the notice period.</li><li>Add expenses, taxes (such as VAT or sales tax) and software costs to every quote.</li></ol>"
+    },
+    {
+      "h2": "For professionals: choosing your model",
+      "html": "<p>Fixed fees reward efficiency and are easier for clients to approve. Hourly billing protects you when the scope is unclear. Retainers smooth out your income. Work out your floor with the <a href=\"/free-tools/hourly-rate-calculator/\">hourly and day rate calculator</a> before you quote.</p>"
+    },
+    {
+      "h2": "Get comparable quotes",
+      "html": "<p>Build a clear brief with our <a href=\"/free-tools/project-brief-builder/\">free brief builder</a>, then compare providers in any <a href=\"/services/\">service category</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Invoicing and taking payment from customers",
+      "url": "https://www.gov.uk/invoicing-and-taking-payment-from-customers"
+    },
+    {
+      "title": "SBA: Manage your business",
+      "url": "https://www.sba.gov/business-guide/manage-your-business"
+    }
+  ],
+  "keywords": [
+    "fixed fee vs hourly",
+    "retainer pricing",
+    "consulting fees",
+    "how professionals charge",
+    "pricing models"
+  ],
+  "related": [
+    "free-tools/hourly-rate-calculator",
+    "management-consulting",
+    "accounting"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "How professionals price their work: fixed fees, hourly and day rates, retainers and value-based pricing."
+}

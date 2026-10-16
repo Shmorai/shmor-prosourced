@@ -22,8 +22,8 @@
     "global payroll",
     "international payroll",
     "employer of record",
-    "eor",
-    "peo",
+    " eor ",
+    " peo ",
     "hr outsourcing",
     "management consultant",
     "management consulting",
@@ -63,18 +63,62 @@
     "b2b marketplace",
     "quotes from professionals",
     "managed service provider",
-    "bark alternative"
+    "bark alternative",
+    "fractional coo",
+    "offshore team",
+    "remote team",
+    "nearshore",
+    "hire a consultant",
+    "business help",
+    "find an accountant abroad",
+    "international accountant",
+    "cross-border",
+    "global hiring",
+    "hire internationally",
+    "translation agency",
+    "professional services marketplace"
   ],
   "fallback": "",
-  "popular": [],
+  "popular": [
+    {
+      "label": "Outsource payroll",
+      "q": "payroll outsourcing"
+    },
+    {
+      "label": "Management consultants",
+      "q": "management consultant"
+    },
+    {
+      "label": "Virtual assistants",
+      "q": "virtual assistant"
+    }
+  ],
   "offers": [],
   "links": {},
   "seo": {
     "siteName": "ProSourced",
-    "description": "A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes.",
+    "description": "ProSourced is a global marketplace for business services: compare accountants, payroll, HR, consultants, web designers, marketers, lawyers and more.",
     "locale": "en",
     "ogLocale": "en_GB",
-    "themeColor": "#0A0C0E",
-    "searchPlaceholder": "What are you looking for?"
+    "themeColor": "#0C0A14",
+    "searchPlaceholder": "What do you need? e.g. payroll, web design, HR…",
+    "ctaTitle": "What does your business need help with?",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap",
+    "logo": "/assets/favicon.svg"
+  },
+  "card": {
+    "image": {
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "alt": "Earth seen from space with city lights and network lines",
+      "credit": "NASA",
+      "creditUrl": "https://unsplash.com/@nasa"
+    },
+    "logo": "<svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><rect width=\"40\" height=\"40\" rx=\"10\" fill=\"#1A1233\"/><g fill=\"none\" stroke=\"#B07CFF\"><circle cx=\"19\" cy=\"21\" r=\"10.5\" stroke-width=\"2.4\"/><ellipse cx=\"19\" cy=\"21\" rx=\"4.4\" ry=\"10.5\" stroke-width=\"1.6\"/><path d=\"M8.5 21h21M10.6 15h16.8M10.6 27h16.8\" stroke-width=\"1.4\"/></g><circle cx=\"30\" cy=\"10\" r=\"5.2\" fill=\"#2FAF82\" stroke=\"#1A1233\" stroke-width=\"2\"/><path d=\"m27.7 10.1 1.6 1.6 3-3.2\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+    "accent": "#1A1233",
+    "wordmark": [
+      "Pro",
+      "Sourced"
+    ],
+    "wordmarkColor": "#B07CFF"
   }
 }

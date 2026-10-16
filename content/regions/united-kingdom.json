@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-16",
+  "slug": "regions/united-kingdom",
+  "nav": "United Kingdom",
+  "title": "Find Business Professionals in the United Kingdom",
+  "description": "Hire chartered accountants, payroll bureaus, HR consultants, solicitors and marketers in the UK. Which registers to check, and how to compare quotes.",
+  "eyebrow": "ProSourced · United Kingdom",
+  "h1": "Business services in the United Kingdom",
+  "intro": "What to know before you hire accountants, payroll, HR, lawyers and other business professionals in the United Kingdom.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1740504942599-897232a3f706",
+    "alt": "View across the City of London from the top of a building",
+    "credit": "Henrique Ferreira",
+    "creditUrl": "https://unsplash.com/@rickpsd"
+  },
+  "sections": [
+    {
+      "h2": "Key rules and credentials in United Kingdom",
+      "html": "<ul><li><strong>Accountants:</strong> chartered accountants (ICAEW, ICAS), ACCA and CIMA members. Check the body’s register.</li><li><strong>Payroll:</strong> PAYE with Real Time Information reporting to HMRC, plus workplace pension auto-enrolment.</li><li><strong>HR:</strong> CIPD membership is the main professional standard. ACAS publishes free codes and guidance.</li><li><strong>Solicitors:</strong> regulated by the SRA in England and Wales. Scotland and Northern Ireland have their own law societies.</li><li><strong>Company formation:</strong> register with Companies House.</li><li><strong>Contractors:</strong> the off-payroll working rules (IR35) can apply.</li></ul><p>Looking for local, in-person help? Our sister site <a href=\"https://profinders.shmor.ai/\">ProFinders</a> focuses on UK businesses.</p>"
+    },
+    {
+      "h2": "Services you can hire from anywhere",
+      "html": "<p>Design, development, marketing, translation, consulting and virtual assistance are often delivered remotely, so you can widen your search beyond your own country. Tax filings, payroll and legal advice usually need someone who knows the local rules.</p><ul><li><a href=\"/accounting/\">Accounting</a>: Tax, year-end accounts, VAT and sales tax, management accounts and advice.</li><li><a href=\"/payroll/\">Payroll</a>: Payslips, payroll tax filings, pensions and benefits, and multi-country payroll.</li><li><a href=\"/hr-outsourcing/\">HR</a>: Contracts, handbooks, employee relations, hiring, performance and HR software.</li><li><a href=\"/management-consulting/\">Consulting</a>: Strategy, operations, process improvement, change and fractional leadership.</li><li><a href=\"/web-design/\">Web design</a>: Business websites, ecommerce, redesigns, landing pages and web apps.</li><li><a href=\"/digital-marketing/\">Marketing</a>: SEO, Google Ads and PPC, social media, content and email marketing.</li><li><a href=\"/branding/\">Branding</a>: Logos, brand identity, naming, packaging and marketing design.</li><li><a href=\"/legal-services/\">Legal</a>: Contracts, company law, employment, IP, data protection and cross-border deals.</li><li><a href=\"/it-cyber-security/\">IT &amp; cyber</a>: Managed IT, cloud and Microsoft 365, backups, security reviews and certification.</li><li><a href=\"/virtual-assistants/\">Virtual assistants</a>: Admin, inbox and calendar, customer support, research and data entry.</li><li><a href=\"/translation/\">Translation</a>: Website and software localisation, marketing, legal and certified translation.</li><li><a href=\"/recruitment/\">Recruitment</a>: Permanent, contract and executive hiring, plus recruitment process outsourcing.</li><li><a href=\"/company-formation/\">Company formation</a>: Company registration, registered agents, tax IDs, banking and market entry.</li></ul>"
+    }
+  ],
+  "related": [
+    "accounting",
+    "payroll",
+    "legal-services"
+  ],
+  "keywords": [
+    "business services uk",
+    "hire professionals united kingdom",
+    "accountant united kingdom",
+    "payroll united kingdom"
+  ],
+  "cardText": "Credentials, rules and tips for hiring business professionals in United Kingdom."
+}

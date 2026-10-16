@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-16",
+  "slug": "regions/canada",
+  "nav": "Canada",
+  "title": "Find Business Professionals in Canada",
+  "description": "Hire CPAs, payroll providers, HR consultants, lawyers and marketers in Canada. Provincial differences, credentials to check and how to compare quotes.",
+  "eyebrow": "ProSourced · Canada",
+  "h1": "Business services in Canada",
+  "intro": "What to know before you hire accountants, payroll, HR, lawyers and other business professionals in Canada.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+    "alt": "Low-angle view of modern glass office towers",
+    "credit": "Sean Pollock",
+    "creditUrl": "https://unsplash.com/@seanpollock"
+  },
+  "sections": [
+    {
+      "h2": "Key rules and credentials in Canada",
+      "html": "<ul><li><strong>Accountants:</strong> Chartered Professional Accountants (CPA) are regulated by provincial CPA bodies.</li><li><strong>Payroll:</strong> deductions for income tax, CPP (or QPP in Quebec) and EI, remitted to the Canada Revenue Agency.</li><li><strong>Employment:</strong> most employers follow provincial employment standards. Federally regulated industries follow the Canada Labour Code.</li><li><strong>Lawyers:</strong> licensed by provincial and territorial law societies.</li><li><strong>Sales tax:</strong> GST or HST, plus provincial sales taxes in some provinces.</li><li><strong>Language:</strong> French is required in many business contexts in Quebec.</li></ul>"
+    },
+    {
+      "h2": "Services you can hire from anywhere",
+      "html": "<p>Design, development, marketing, translation, consulting and virtual assistance are often delivered remotely, so you can widen your search beyond your own country. Tax filings, payroll and legal advice usually need someone who knows the local rules.</p><ul><li><a href=\"/accounting/\">Accounting</a>: Tax, year-end accounts, VAT and sales tax, management accounts and advice.</li><li><a href=\"/payroll/\">Payroll</a>: Payslips, payroll tax filings, pensions and benefits, and multi-country payroll.</li><li><a href=\"/hr-outsourcing/\">HR</a>: Contracts, handbooks, employee relations, hiring, performance and HR software.</li><li><a href=\"/management-consulting/\">Consulting</a>: Strategy, operations, process improvement, change and fractional leadership.</li><li><a href=\"/web-design/\">Web design</a>: Business websites, ecommerce, redesigns, landing pages and web apps.</li><li><a href=\"/digital-marketing/\">Marketing</a>: SEO, Google Ads and PPC, social media, content and email marketing.</li><li><a href=\"/branding/\">Branding</a>: Logos, brand identity, naming, packaging and marketing design.</li><li><a href=\"/legal-services/\">Legal</a>: Contracts, company law, employment, IP, data protection and cross-border deals.</li><li><a href=\"/it-cyber-security/\">IT &amp; cyber</a>: Managed IT, cloud and Microsoft 365, backups, security reviews and certification.</li><li><a href=\"/virtual-assistants/\">Virtual assistants</a>: Admin, inbox and calendar, customer support, research and data entry.</li><li><a href=\"/translation/\">Translation</a>: Website and software localisation, marketing, legal and certified translation.</li><li><a href=\"/recruitment/\">Recruitment</a>: Permanent, contract and executive hiring, plus recruitment process outsourcing.</li><li><a href=\"/company-formation/\">Company formation</a>: Company registration, registered agents, tax IDs, banking and market entry.</li></ul>"
+    }
+  ],
+  "related": [
+    "accounting",
+    "payroll",
+    "legal-services"
+  ],
+  "keywords": [
+    "business services canada",
+    "hire professionals canada",
+    "accountant canada",
+    "payroll canada"
+  ],
+  "cardText": "Credentials, rules and tips for hiring business professionals in Canada."
+}

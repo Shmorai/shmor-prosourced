@@ -1,15 +1,327 @@
 {
+  "updated": "2026-10-16",
   "slug": "",
-  "title": "ProSourced: A global marketplace to find and compare account",
-  "description": "A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "ProSourced",
-  "intro": "A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes.",
-  "related": [],
+  "title": "ProSourced: Global Marketplace for Business Professionals",
+  "description": "Find and compare accountants, payroll, HR, consultants, web designers, marketers, lawyers and more, wherever you do business. Free tools and guides.",
+  "eyebrow": "The global business services marketplace",
+  "h1": "Hire the right professional for your business, anywhere in the world.",
+  "h1Html": "Hire the right professional for your business, <span class=\"hl\">anywhere in the world.</span>",
+  "intro": "Accounting, payroll, HR, consulting, web design, marketing, legal, IT and more. Tell us what you need, compare experts who know your market, and choose with confidence.",
+  "heroHtml": "<form class=\"finder\" data-finder action=\"/services/\" method=\"get\" aria-label=\"Find a professional\">\n<div class=\"finder-row\">\n<div><label for=\"f-service\">What service do you need?</label><select id=\"f-service\" name=\"service\" required><option value=\"\">Choose a service…</option><option value=\"accounting\">Accounting</option><option value=\"payroll\">Payroll</option><option value=\"hr-outsourcing\">HR</option><option value=\"management-consulting\">Consulting</option><option value=\"web-design\">Web design</option><option value=\"digital-marketing\">Marketing</option><option value=\"branding\">Branding</option><option value=\"legal-services\">Legal</option><option value=\"it-cyber-security\">IT &amp; cyber</option><option value=\"virtual-assistants\">Virtual assistants</option><option value=\"translation\">Translation</option><option value=\"recruitment\">Recruitment</option><option value=\"company-formation\">Company formation</option></select></div>\n<div><label for=\"f-region\">Where is your business?</label><select id=\"f-region\" name=\"region\"><option value=\"us\">United States</option><option value=\"uk\">United Kingdom</option><option value=\"eu\">European Union</option><option value=\"ca\">Canada</option><option value=\"au\">Australia</option><option value=\"in\">India</option><option value=\"ae\">United Arab Emirates</option><option value=\"sg\">Singapore</option><option value=\"\">Somewhere else / remote</option></select></div>\n<button type=\"submit\">Find pros →</button>\n</div>\n<p class=\"finder-note\">Free, no obligation. Explore the service, then send one brief to several professionals.</p>\n</form>",
+  "searchPlaceholder": "Or search: e.g. outsource payroll, Shopify developer…",
+  "chips": [
+    {
+      "label": "Payroll",
+      "slug": "payroll"
+    },
+    {
+      "label": "Accountants",
+      "slug": "accounting"
+    },
+    {
+      "label": "HR outsourcing",
+      "slug": "hr-outsourcing"
+    },
+    {
+      "label": "Web design",
+      "slug": "web-design"
+    },
+    {
+      "label": "Virtual assistants",
+      "slug": "virtual-assistants"
+    },
+    {
+      "label": "Free tools",
+      "slug": "free-tools"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "alt": "Earth seen from space with city lights and network lines",
+    "credit": "NASA",
+    "creditUrl": "https://unsplash.com/@nasa"
+  },
+  "latestPosts": 3,
+  "latestTitle": "Guides for growing businesses",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "title": "13 sectors",
+          "text": "from finance to IT",
+          "icon": "layers"
+        },
+        {
+          "title": "Global",
+          "text": "US, UK, Europe and beyond",
+          "icon": "globe"
+        },
+        {
+          "title": "Free tools",
+          "text": "calculators and brief builder",
+          "icon": "check"
+        },
+        {
+          "title": "No obligation",
+          "text": "you choose who to hire",
+          "icon": "shield"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "position": "top",
+      "title": "Popular business services",
+      "intro": "Every category explains what good looks like, which credentials to check in each country, what to ask, and what affects the price.",
+      "more": {
+        "title": "All services",
+        "slug": "services"
+      },
+      "items": [
+        {
+          "slug": "accounting",
+          "icon": "receipt",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "payroll",
+          "icon": "wallet",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "hr-outsourcing",
+          "icon": "users",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "management-consulting",
+          "icon": "compass",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "web-design",
+          "icon": "laptop",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "digital-marketing",
+          "icon": "gauge",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "branding",
+          "icon": "sparkles",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "legal-services",
+          "icon": "scale",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "it-cyber-security",
+          "icon": "lock",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "virtual-assistants",
+          "icon": "message",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "translation",
+          "icon": "globe",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "recruitment",
+          "icon": "user",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "company-formation",
+          "icon": "building",
+          "cta": "Compare pros"
+        },
+        {
+          "slug": "services",
+          "title": "Not sure who you need?",
+          "text": "Browse every category and our quick guide to matching problems with professionals.",
+          "icon": "search",
+          "cta": "See all services"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How ProSourced works",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Tell us what you need",
+          "text": "Pick a service and your market. Each guide shows what to look for and which questions to ask."
+        },
+        {
+          "icon": "file",
+          "title": "Write one clear brief",
+          "text": "Our free brief builder turns your needs into a professional request in minutes."
+        },
+        {
+          "icon": "users",
+          "title": "Compare professionals",
+          "text": "Send it to several providers and compare experience, approach and price side by side."
+        },
+        {
+          "icon": "check",
+          "title": "Hire with confidence",
+          "text": "Check credentials and references, agree scope in writing, and get to work."
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Free tools for business owners",
+      "intro": "No sign-up. Everything runs in your browser, and nothing you type is sent to us.",
+      "items": [
+        {
+          "slug": "free-tools/outsourcing-cost-calculator",
+          "icon": "percent",
+          "badge": "Free",
+          "cta": "Open calculator"
+        },
+        {
+          "slug": "free-tools/project-brief-builder",
+          "icon": "file",
+          "badge": "Free",
+          "cta": "Build a brief"
+        },
+        {
+          "slug": "free-tools/hourly-rate-calculator",
+          "icon": "clock",
+          "badge": "Free",
+          "cta": "Work out your rate"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "Find professionals where you trade",
+      "more": {
+        "title": "All regions",
+        "slug": "regions"
+      },
+      "items": [
+        {
+          "slug": "regions/united-states",
+          "badge": "USA"
+        },
+        {
+          "slug": "regions/united-kingdom",
+          "badge": "UK"
+        },
+        {
+          "slug": "regions/europe",
+          "badge": "EU"
+        },
+        {
+          "slug": "regions/canada",
+          "badge": "Canada"
+        },
+        {
+          "slug": "regions/australia",
+          "badge": "Australia"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "class": "blocks-network",
+      "title": "More help across the Shmor network",
+      "intro": "Sister sites that cover the rest of running a business.",
+      "items": [
+        {
+          "title": "ProFinders: local business pros",
+          "href": "https://profinders.shmor.ai/",
+          "icon": "briefcase"
+        },
+        {
+          "title": "OnBusLaw: online business law",
+          "href": "https://onbuslaw.shmor.ai/",
+          "icon": "scale"
+        },
+        {
+          "title": "DomComInsure: business insurance",
+          "href": "https://domcominsure.shmor.ai/",
+          "icon": "shield"
+        },
+        {
+          "title": "BestVPNs: secure remote work",
+          "href": "https://bestvpns.shmor.ai/",
+          "icon": "lock"
+        },
+        {
+          "title": "FullBars: business broadband",
+          "href": "https://fullbars.shmor.ai/",
+          "icon": "wifi"
+        },
+        {
+          "title": "StorageSavings: business storage",
+          "href": "https://storagesavings.shmor.ai/",
+          "icon": "building"
+        },
+        {
+          "title": "EnergySavers: energy bills",
+          "href": "https://energysavers.shmor.ai/",
+          "icon": "zap"
+        },
+        {
+          "title": "All Shmor marketplaces",
+          "href": "https://shmor.ai/",
+          "icon": "globe"
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use ProSourced?",
-      "html": "<p>A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes.</p>"
+      "h2": "One marketplace for every business service",
+      "html": "<p>Running a business means juggling tax, people, customers, technology and the law, often across borders. ProSourced brings the professionals who help with all of it into one place, so you can compare options without dozens of searches and sales calls.</p><ul><li><strong>Finance:</strong> <a href=\"/accounting/\">accountants</a> and <a href=\"/payroll/\">payroll services</a>.</li><li><strong>People:</strong> <a href=\"/hr-outsourcing/\">HR outsourcing</a> and <a href=\"/recruitment/\">recruitment</a>.</li><li><strong>Growth:</strong> <a href=\"/management-consulting/\">management consultants</a>, <a href=\"/digital-marketing/\">digital marketing</a> and <a href=\"/branding/\">branding</a>.</li><li><strong>Digital:</strong> <a href=\"/web-design/\">web design</a> and <a href=\"/it-cyber-security/\">IT and cyber security</a>.</li><li><strong>Going global:</strong> <a href=\"/company-formation/\">company formation</a>, <a href=\"/translation/\">translation</a> and <a href=\"/legal-services/\">business lawyers</a>.</li><li><strong>Admin:</strong> <a href=\"/virtual-assistants/\">virtual assistants</a>.</li></ul>"
+    },
+    {
+      "h2": "Built for businesses that think globally",
+      "html": "<p>Rules on tax, payroll, employment and data change at every border. Each ProSourced guide covers what differs between the United States, the United Kingdom and the European Union, with notes for Canada, Australia and other markets, so you know which qualifications and questions matter where you trade.</p>"
+    },
+    {
+      "h2": "Are you a professional?",
+      "html": "<p>Accountants, consultants, designers, developers, marketers, lawyers and other business service providers can <a href=\"/for-professionals/\">find out how to get listed</a>, and use our free <a href=\"/free-tools/hourly-rate-calculator/\">hourly rate calculator</a>.</p>"
     }
+  ],
+  "faqs": [
+    {
+      "q": "Is ProSourced free for businesses?",
+      "a": "Yes. Browsing, comparing and using our free tools costs nothing, and there’s no obligation to hire."
+    },
+    {
+      "q": "Which countries does ProSourced cover?",
+      "a": "Our guides are written for businesses in the United States, United Kingdom and European Union, with notes for Canada, Australia and other markets. Many services, such as design, marketing and virtual assistants, can be delivered remotely from anywhere."
+    },
+    {
+      "q": "Does ProSourced vet the professionals?",
+      "a": "No. We’re an introduction and comparison service. Each guide explains which credentials to check and where to verify them, and you agree terms directly with the professional you choose."
+    },
+    {
+      "q": "How does ProSourced make money?",
+      "a": "Some links are referral links, so partner platforms may pay us a fee when we introduce you, at no extra cost to you."
+    }
+  ],
+  "keywords": [
+    "business services marketplace",
+    "find professionals",
+    "hire professionals",
+    "outsourcing",
+    "b2b marketplace",
+    "bark alternative"
   ]
 }

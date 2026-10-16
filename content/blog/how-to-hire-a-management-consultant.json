@@ -1,0 +1,61 @@
+{
+  "updated": "2026-09-20",
+  "type": "post",
+  "slug": "blog/how-to-hire-a-management-consultant",
+  "date": "2026-09-20",
+  "title": "How to Hire a Management Consultant (and Get Results)",
+  "description": "A practical guide to hiring a management consultant: define the problem, choose an independent or a firm, check credentials, agree scope and measure results.",
+  "h1": "How to hire a management consultant and get real results",
+  "intro": "The best consulting projects start with a sharp problem and end with change that lasts. Here’s how to get there.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "alt": "Colleagues around a meeting table with notebooks and pens",
+    "credit": "Dylan Gillis",
+    "creditUrl": "https://unsplash.com/@mainermedia"
+  },
+  "sections": [
+    {
+      "h2": "Define the problem, not the solution",
+      "html": "<p>“Grow revenue in Germany by entering the B2B market” is a better starting point than “write us a strategy”. Say what decision you need to make, by when, and what information is missing.</p>"
+    },
+    {
+      "h2": "Choose the right type of consultant",
+      "html": "<ul><li><strong>Independent experts:</strong> senior, hands-on, flexible.</li><li><strong>Boutique firms:</strong> deep sector or functional specialism.</li><li><strong>Large firms:</strong> scale for complex, multi-country programmes.</li><li><strong>Fractional executives:</strong> when you need ongoing leadership, not a report.</li></ul>"
+    },
+    {
+      "h2": "Check credentials and track record",
+      "html": "<ul><li>Case studies with measurable outcomes.</li><li>References from clients with a similar challenge.</li><li>Professional designations such as the Certified Management Consultant (CMC), awarded through ICMCI member institutes.</li><li>Sector knowledge in your markets.</li></ul>"
+    },
+    {
+      "h2": "Agree scope, deliverables and success measures",
+      "html": "<ol><li>A written statement of work with phases and milestones.</li><li>Clear deliverables (analysis, recommendations, implementation support).</li><li>How success will be measured, and when you’ll review progress.</li><li>Confidentiality, data protection and who owns the work produced.</li><li>Fees: day rate, fixed fee or retainer, and expenses policy.</li></ol>"
+    },
+    {
+      "h2": "Make the change stick",
+      "html": "<p>Put one of your own people alongside the consultant, so knowledge stays in the business. Plan the hand-over from the start. When you’re ready, <a href=\"/free-tools/project-brief-builder/?service=management-consulting\">build your brief</a> and compare <a href=\"/management-consulting/\">management consultants</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ICMCI: Certified Management Consultant (CMC)",
+      "url": "https://www.cmc-global.org/"
+    },
+    {
+      "title": "Chartered Management Institute (UK)",
+      "url": "https://www.managers.org.uk/"
+    }
+  ],
+  "keywords": [
+    "hire a management consultant",
+    "how to choose a consultant",
+    "consulting statement of work",
+    "business consultant"
+  ],
+  "related": [
+    "management-consulting",
+    "accounting",
+    "digital-marketing"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "A practical guide to hiring a management consultant: define the problem, choose an independent or a firm, check credentials, agree scope and measure results."
+}

@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "hr-outsourcing",
+  "nav": "HR",
+  "title": "HR Outsourcing & HR Consultants for Growing Businesses",
+  "description": "Compare HR consultants and outsourced HR providers for policies, contracts, employee relations, hiring and HR software, across the US, UK, Europe and beyond.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "HR support for growing teams, without a full HR department",
+  "intro": "Outsourced HR gives you expert help with contracts, policies, people problems and growth, on demand or on a retainer. Compare HR consultants and outsourced HR teams that know employment rules where your people work.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758520144437-f068ecaf0d83",
+    "alt": "HR consultant meeting a candidate at an office desk",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "searchPlaceholder": "Search hr and other services…",
+  "chips": [
+    {
+      "label": "Contracts & handbooks",
+      "q": "contracts & handbooks"
+    },
+    {
+      "label": "Employee relations",
+      "q": "employee relations"
+    },
+    {
+      "label": "Fractional HR",
+      "q": "fractional hr"
+    },
+    {
+      "label": "HR software",
+      "q": "hr software"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from HR consultants</h2><p>Write one clear brief with our free builder, then send it to several HR consultants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=hr-outsourcing\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What outsourced HR covers",
+      "html": "<ul><li>Employment contracts, offer letters and staff handbooks.</li><li>Policies for leave, remote work, conduct, data protection and more.</li><li>Employee relations: grievances, disciplinaries, performance and absence.</li><li>Hiring processes, onboarding and right-to-work checks.</li><li>Pay structures, appraisals and training plans.</li><li>Choosing and setting up HR software.</li></ul>"
+    },
+    {
+      "h2": "Employment rules change at every border",
+      "html": "<ul><li><strong>United States:</strong> mostly at-will employment, with federal laws plus state and city rules on things like paid leave and pay transparency.</li><li><strong>United Kingdom:</strong> written statements of employment particulars from day one, statutory leave and pay, and the ACAS Code of Practice for disciplinary and grievance procedures.</li><li><strong>European Union:</strong> EU directives set minimums (for example on working time), and each country adds its own rules. Works councils are common in some countries.</li></ul><p>When a dispute may turn into a claim, bring in an employment lawyer. See <a href=\"/legal-services/\">legal services</a>.</p>"
+    },
+    {
+      "h2": "Ways to buy HR help",
+      "html": "<ul><li><strong>Ad hoc:</strong> pay for a project such as a handbook, or for advice on one issue.</li><li><strong>Retainer:</strong> a monthly fee for advice and documents on demand.</li><li><strong>Fractional HR lead:</strong> a senior HR professional for a set number of days a month.</li><li><strong>PEO (US) or employer of record (abroad):</strong> HR bundled with payroll and benefits.</li></ul>"
+    },
+    {
+      "h2": "Credentials and questions to ask",
+      "html": "<p>Look for professional membership such as <strong>CIPD</strong> (UK and Ireland), or <strong>SHRM-CP/SHRM-SCP</strong> and <strong>HRCI</strong> certifications (US). Then ask:</p><ul><li>Which countries’ employment rules do you advise on?</li><li>Do you carry professional indemnity insurance?</li><li>What’s included in a retainer, and how quickly do you respond?</li><li>Will you work with our lawyer if a matter escalates?</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should a small business outsource HR?",
+      "a": "Common triggers are hiring your first employees, growing past the point where the founder can handle people issues, hiring in a new country, or facing a difficult employee situation."
+    },
+    {
+      "q": "Can an HR consultant represent us at an employment tribunal?",
+      "a": "Rules on representation vary by country. For claims and tribunals, most businesses use an employment lawyer, often alongside their HR consultant."
+    },
+    {
+      "q": "Is outsourced HR cheaper than an in-house HR manager?",
+      "a": "For small teams it often is, because you only pay for the time you use. Try our free in-house vs outsourcing calculator with your own figures."
+    }
+  ],
+  "related": [
+    "payroll",
+    "recruitment",
+    "legal-services"
+  ],
+  "keywords": [
+    "hr outsourcing",
+    "outsourced hr",
+    "hr consultant",
+    "hr services",
+    "fractional hr",
+    "hr support",
+    "employee handbook",
+    "hr policies"
+  ],
+  "cardText": "Contracts, handbooks, employee relations, hiring, performance and HR software.",
+  "ctaTitle": "Need hr help? Search ProSourced"
+}

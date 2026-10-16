@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "legal-services",
+  "nav": "Legal",
+  "title": "Business Lawyers: Contracts, Employment and Cross-Border Law",
+  "description": "Compare business lawyers and law firms for contracts, company law, employment, IP and trademarks, data protection and cross-border trade, in your jurisdiction.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Business lawyers for contracts, compliance and growth",
+  "intro": "Good legal advice prevents expensive problems. Compare lawyers and firms for contracts, company matters, employment, intellectual property, data protection and international deals.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627518788331-b3b7fdaa382f",
+    "alt": "Hand signing a paper document with a pen",
+    "credit": "Signature Pro",
+    "creditUrl": "https://unsplash.com/@signaturepro"
+  },
+  "searchPlaceholder": "Search legal and other services…",
+  "chips": [
+    {
+      "label": "Contracts",
+      "q": "contracts"
+    },
+    {
+      "label": "Company law",
+      "q": "company law"
+    },
+    {
+      "label": "IP & trademarks",
+      "q": "ip & trademarks"
+    },
+    {
+      "label": "Data protection",
+      "q": "data protection"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from business lawyers</h2><p>Write one clear brief with our free builder, then send it to several business lawyers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=legal-services\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Common legal work for businesses",
+      "html": "<ul><li>Customer, supplier, distribution and partnership contracts.</li><li>Website terms, privacy notices and data processing agreements.</li><li>Company formation, shareholder agreements and investment.</li><li>Employment contracts, policies and disputes.</li><li>Trademarks, copyright, licensing and confidentiality.</li><li>Expanding into new countries: agents, distributors and local entities.</li></ul>"
+    },
+    {
+      "h2": "Check the lawyer is qualified where it matters",
+      "html": "<ul><li><strong>United States:</strong> attorneys are licensed by state bars. Check the state bar’s directory.</li><li><strong>England and Wales:</strong> solicitors are regulated by the SRA. Check the Solicitors Register.</li><li><strong>EU countries:</strong> lawyers are regulated by national bars or law societies. The EU’s Find a Lawyer tool on the e-Justice portal links national registers.</li></ul><p>For a contract that crosses borders, agree which country’s law applies and where disputes will be decided.</p>"
+    },
+    {
+      "h2": "Questions to ask",
+      "html": "<ul><li>Have you handled matters like this for businesses of our size and sector?</li><li>Do you charge a fixed fee, hourly rates or a retainer?</li><li>Who will do the work, and at what rate?</li><li>Can you work with lawyers in the other countries involved?</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Complexity, urgency, the seniority of the lawyer, and how many jurisdictions are involved. Many firms offer fixed fees for standard documents, and hourly rates for advice and disputes. Always ask for an engagement letter that sets out scope and fees.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use contract templates instead of a lawyer?",
+      "a": "Templates can work for simple, low-risk situations. For high-value deals, unusual terms or cross-border work, a lawyer’s review is usually worth it."
+    },
+    {
+      "q": "Do I need a lawyer in each country I sell to?",
+      "a": "Not always. Your main lawyer can often coordinate with local counsel when a country-specific question comes up."
+    },
+    {
+      "q": "What is a data processing agreement?",
+      "a": "A contract required under the GDPR when a supplier processes personal data for you. Read our guide to outsourcing and the GDPR."
+    }
+  ],
+  "related": [
+    "company-formation",
+    "hr-outsourcing",
+    "branding"
+  ],
+  "keywords": [
+    "business lawyer",
+    "commercial lawyer",
+    "corporate lawyer",
+    "contract lawyer",
+    "international business lawyer",
+    "trademark attorney",
+    "data protection lawyer",
+    "law firm for startups"
+  ],
+  "cardText": "Contracts, company law, employment, IP, data protection and cross-border deals.",
+  "ctaTitle": "Need legal help? Search ProSourced"
+}

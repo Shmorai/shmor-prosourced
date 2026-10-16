@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-16",
+  "type": "post",
+  "slug": "blog/employer-of-record-vs-peo-vs-contractor",
+  "date": "2026-10-16",
+  "title": "Employer of Record vs PEO vs Contractor: Hiring Abroad",
+  "description": "Hiring someone in another country? Compare an employer of record, a PEO, contractors and your own entity: how each works, the risks and when each fits.",
+  "h1": "Employer of record vs PEO vs contractor: how to hire abroad",
+  "intro": "You’ve found the perfect person, but they live in another country. Here are the four main ways to engage them, and how to choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768793096346-6d84e93e4195",
+    "alt": "Man working on a laptop by an airport window at sunrise",
+    "credit": "Daniel Gomez",
+    "creditUrl": "https://unsplash.com/@naturelensephotographer"
+  },
+  "sections": [
+    {
+      "h2": "Option 1: an employer of record (EOR)",
+      "html": "<p>An EOR is a provider that legally employs the worker in their country on your behalf. It runs local payroll, taxes, benefits and employment contracts, while you direct the day-to-day work. It’s often the quickest way to make a first hire in a country where you have no company.</p><ul><li><strong>Good for:</strong> one or a few hires in a new country, or testing a market.</li><li><strong>Watch out for:</strong> the provider’s fees, how it handles terminations, and who owns the intellectual property the worker creates. Make sure the contract assigns it to you.</li></ul>"
+    },
+    {
+      "h2": "Option 2: a PEO (mainly in the US)",
+      "html": "<p>A professional employer organisation (PEO) enters a co-employment arrangement with your business. It takes on payroll, benefits and some HR administration, and can give small firms access to group benefit plans. In the US, the IRS runs a voluntary certification programme for PEOs (CPEOs). A PEO usually requires you to have your own entity in the country, which is the key difference from an EOR.</p>"
+    },
+    {
+      "h2": "Option 3: an independent contractor",
+      "html": "<p>Engaging someone as a contractor can be simple, but the label isn’t up to you. Tax and employment authorities look at the real working relationship, such as control, integration and financial risk. If the person works like an employee, you may owe employment taxes, benefits and penalties. Read <a href=\"/blog/contractor-or-employee-ir35-irs/\">contractor or employee: the tests</a>.</p>"
+    },
+    {
+      "h2": "Option 4: your own local entity",
+      "html": "<p>Setting up a subsidiary or branch gives you full control and can be cost-effective once you have a larger team, but it brings registration, local accounts, tax filings and payroll of your own. See <a href=\"/company-formation/\">company formation and expansion</a>.</p>"
+    },
+    {
+      "h2": "Quick comparison",
+      "html": "<table><thead><tr><th></th><th>Need a local entity?</th><th>Who is the legal employer?</th><th>Best for</th></tr></thead><tbody><tr><td>EOR</td><td>No</td><td>The EOR provider</td><td>First hires abroad</td></tr><tr><td>PEO</td><td>Usually yes</td><td>Shared (co-employment)</td><td>US small businesses</td></tr><tr><td>Contractor</td><td>No</td><td>No employer</td><td>Genuinely independent work</td></tr><tr><td>Own entity</td><td>Yes</td><td>Your company</td><td>Larger, long-term teams</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Questions to ask any provider",
+      "html": "<ul><li>Do you employ staff directly in this country, or through a partner?</li><li>How are local benefits, leave and notice periods handled?</li><li>How is intellectual property assigned to us?</li><li>What happens to the employee if we stop using your service?</li><li>Where is employee data stored, and under which data protection rules?</li></ul><p>Compare <a href=\"/payroll/\">payroll and EOR providers</a> and <a href=\"/hr-outsourcing/\">HR outsourcing</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IRS: Certified Professional Employer Organization (CPEO)",
+      "url": "https://www.irs.gov/tax-professionals/certified-professional-employer-organization"
+    },
+    {
+      "title": "IRS: Independent contractor (self-employed) or employee?",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee"
+    },
+    {
+      "title": "GOV.UK: Employment status",
+      "url": "https://www.gov.uk/employment-status"
+    }
+  ],
+  "keywords": [
+    "employer of record",
+    "eor vs peo",
+    "hire employees abroad",
+    "international hiring",
+    "global employment"
+  ],
+  "related": [
+    "payroll",
+    "hr-outsourcing",
+    "company-formation"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Hiring someone in another country?"
+}

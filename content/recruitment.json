@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-16",
+  "slug": "recruitment",
+  "nav": "Recruitment",
+  "title": "Recruitment Agencies & Headhunters: Hire the Right People",
+  "description": "Compare recruitment agencies, headhunters and RPO providers for permanent, contract and executive hires, at home or in new countries. Hire faster and better.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Recruiters who find the people your business needs",
+  "intro": "Compare specialist recruiters, executive search firms and recruitment process outsourcing (RPO) for one key hire or a whole new team, locally or abroad.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "alt": "Two people shaking hands",
+    "credit": "Cytonn Photography",
+    "creditUrl": "https://unsplash.com/@cytonn_photography"
+  },
+  "searchPlaceholder": "Search recruitment and other services…",
+  "chips": [
+    {
+      "label": "Permanent hires",
+      "q": "permanent hires"
+    },
+    {
+      "label": "Executive search",
+      "q": "executive search"
+    },
+    {
+      "label": "Contract staff",
+      "q": "contract staff"
+    },
+    {
+      "label": "RPO",
+      "q": "rpo"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from recruitment agencies</h2><p>Write one clear brief with our free builder, then send it to several recruitment agencies and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=recruitment\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Types of recruitment help",
+      "html": "<ul><li><strong>Contingency recruiters:</strong> you pay only when a candidate they introduced is hired.</li><li><strong>Retained or executive search:</strong> you pay in stages for a dedicated search, often for senior roles.</li><li><strong>Staffing and temp agencies:</strong> provide contract or temporary workers.</li><li><strong>RPO:</strong> a provider runs some or all of your recruitment as an ongoing service.</li></ul>"
+    },
+    {
+      "h2": "Hiring in another country",
+      "html": "<p>Before you hire abroad, decide how you’ll legally engage the person: through your own local entity, an <a href=\"/blog/employer-of-record-vs-peo-vs-contractor/\">employer of record</a>, or as an independent contractor where that genuinely fits. Pay, notice periods, benefits and right-to-work checks all follow local rules. Your recruiter should know the local market.</p>"
+    },
+    {
+      "h2": "Questions to ask a recruiter",
+      "html": "<ul><li>Do you specialise in this type of role and location?</li><li>What are your fee terms, and is there a rebate or replacement if the hire leaves early?</li><li>How do you assess candidates, and how do you support diverse shortlists?</li><li>Are you a member of a trade body, such as the REC in the UK or the American Staffing Association in the US?</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Fees are usually a percentage of first-year salary for permanent hires, a margin on top of pay for contract staff, or a monthly fee for RPO. Seniority, scarcity of skills and exclusivity all affect the rate. Get the terms of business in writing before you see CVs.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a recruitment agency charge?",
+      "a": "It depends on the model and the role. Ask each agency for its written terms, including rebates if a hire leaves early."
+    },
+    {
+      "q": "Should I use more than one agency?",
+      "a": "For hard-to-fill roles, an exclusive or retained arrangement often gets more commitment. For volume hiring, several agencies can widen the pool."
+    },
+    {
+      "q": "Can a recruiter help with hiring abroad?",
+      "a": "Yes, if they know that market. Pair them with an HR or payroll provider, or an employer of record, so the hire is set up correctly."
+    }
+  ],
+  "related": [
+    "hr-outsourcing",
+    "payroll",
+    "virtual-assistants"
+  ],
+  "keywords": [
+    "recruitment agency",
+    "recruiter",
+    "headhunter",
+    "executive search",
+    "staffing agency",
+    "rpo",
+    "global hiring",
+    "hire internationally",
+    "tech recruiter"
+  ],
+  "cardText": "Permanent, contract and executive hiring, plus recruitment process outsourcing.",
+  "ctaTitle": "Need recruitment help? Search ProSourced"
+}

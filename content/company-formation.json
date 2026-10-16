@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-16",
+  "slug": "company-formation",
+  "nav": "Company formation",
+  "title": "Company Formation & International Expansion Services",
+  "description": "Compare company formation agents, registered agents and expansion advisers to set up a business at home or abroad: registration, tax IDs, banking and more.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Set up a company at home or expand abroad, the right way",
+  "intro": "From registering your first company to opening a branch or subsidiary in a new country, compare formation agents, registered agents, accountants and lawyers who know the local rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+    "alt": "Low-angle view of modern glass office towers",
+    "credit": "Sean Pollock",
+    "creditUrl": "https://unsplash.com/@seanpollock"
+  },
+  "searchPlaceholder": "Search company formation and other services…",
+  "chips": [
+    {
+      "label": "Register a company",
+      "q": "register a company"
+    },
+    {
+      "label": "Registered agent",
+      "q": "registered agent"
+    },
+    {
+      "label": "Subsidiaries abroad",
+      "q": "subsidiaries abroad"
+    },
+    {
+      "label": "Market entry",
+      "q": "market entry"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from company formation specialists</h2><p>Write one clear brief with our free builder, then send it to several company formation specialists and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=company-formation\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What setting up involves",
+      "html": "<ul><li>Choosing a legal structure, for example a limited company, LLC, corporation or partnership.</li><li>Registering with the official registry and getting tax and employer IDs.</li><li>A registered office or registered agent address.</li><li>Opening a business bank account.</li><li>Registering for VAT, GST or sales tax where needed.</li><li>Licences or permits for regulated activities.</li></ul>"
+    },
+    {
+      "h2": "Official starting points",
+      "html": "<ul><li><strong>United States:</strong> companies are formed at state level, usually with the Secretary of State. An EIN comes free from the IRS. The SBA has a step-by-step guide.</li><li><strong>United Kingdom:</strong> companies are registered with Companies House. GOV.UK explains the steps and the director identity checks.</li><li><strong>European Union:</strong> each country has its own registry. The EU’s Your Europe portal explains how to start or move a business in another member state.</li></ul><p>You can usually form a company yourself through the official registry. Agents add convenience, registered addresses and help with the paperwork.</p>"
+    },
+    {
+      "h2": "Expanding into a new country",
+      "html": "<ul><li><strong>Test first:</strong> sell remotely or through a distributor before committing to an entity.</li><li><strong>Hire without an entity:</strong> an employer of record can employ your first staff.</li><li><strong>Branch or subsidiary:</strong> a lawyer and an accountant can compare tax, liability and admin.</li><li><strong>Plan the running costs:</strong> local accounts, filings, directors and registered agents all need ongoing work.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Official registry fees are set by each government and are often modest. Professional costs depend on the structure, the country, translations, bank account support and ongoing services such as a registered office, accounting and annual filings.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an agent to register a company?",
+      "a": "Not usually. Most registries let you file directly online. Agents are helpful for registered addresses, foreign founders, multiple countries or extra services."
+    },
+    {
+      "q": "Can a foreigner set up a company in the UK or US?",
+      "a": "Generally yes, though you’ll need to meet identity, address and banking requirements, which can take longer for non-residents."
+    },
+    {
+      "q": "Should I set up a subsidiary or use an employer of record?",
+      "a": "An employer of record is often quicker for a few hires. A subsidiary can make more sense as your team and revenue grow. Get tax and legal advice for your situation."
+    }
+  ],
+  "related": [
+    "accounting",
+    "legal-services",
+    "payroll"
+  ],
+  "keywords": [
+    "company formation",
+    "company registration",
+    "register a company",
+    "incorporate a business",
+    "llc formation",
+    "registered agent",
+    "international expansion",
+    "expand abroad",
+    "set up a business abroad"
+  ],
+  "cardText": "Company registration, registered agents, tax IDs, banking and market entry.",
+  "ctaTitle": "Need company formation help? Search ProSourced"
+}

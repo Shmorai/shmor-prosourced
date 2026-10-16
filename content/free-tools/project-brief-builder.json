@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-16",
+  "slug": "free-tools/project-brief-builder",
+  "nav": "Project brief builder",
+  "title": "Free Project Brief Builder: Get Better Quotes Faster",
+  "description": "Create a clear project brief for accountants, consultants, designers, marketers and other pros in minutes. Copy, download or email it. Free and private.",
+  "eyebrow": "Free tool",
+  "h1": "Build a brief that gets you better quotes",
+  "intro": "Clear briefs get faster, more accurate and more comparable quotes. Fill in what you know, and we’ll lay it out the way professionals like to receive it.",
+  "search": false,
+  "blocks": [
+    {
+      "type": "html",
+      "class": "blocks-tool",
+      "position": "top",
+      "html": "<div class=\"tool\" data-tool=\"brief\"><h2>Project brief builder</h2><p>Answer a few questions to get a clear, professional brief you can send to several providers. It stays in your browser until you copy, download or email it.</p>\n<form novalidate>\n<fieldset><legend>The basics</legend><div class=\"tool-grid\">\n<label>Service needed<select name=\"service\"><option value=\"accounting\">Accounting</option><option value=\"payroll\">Payroll</option><option value=\"hr-outsourcing\">HR</option><option value=\"management-consulting\">Consulting</option><option value=\"web-design\">Web design</option><option value=\"digital-marketing\">Marketing</option><option value=\"branding\">Branding</option><option value=\"legal-services\">Legal</option><option value=\"it-cyber-security\">IT &amp; cyber</option><option value=\"virtual-assistants\">Virtual assistants</option><option value=\"translation\">Translation</option><option value=\"recruitment\">Recruitment</option><option value=\"company-formation\">Company formation</option><option value=\"other\">Other professional service</option></select></label>\n<label>Business name and what you do<input name=\"business\" placeholder=\"e.g. Acme Ltd, online homeware shop\"></label>\n<label>Country or region<input name=\"country\" placeholder=\"e.g. United Kingdom, selling into the EU\"></label>\n<label>Team size<input name=\"size\" placeholder=\"e.g. 12 staff\"></label>\n</div></fieldset>\n<fieldset><legend>The work</legend>\n<label>What do you need?<textarea name=\"need\" placeholder=\"Describe the work, the current situation and any problems to solve.\"></textarea></label>\n<label>What does success look like?<textarea name=\"goals\" placeholder=\"e.g. payroll run on time in two countries, with no penalties.\"></textarea></label>\n<label>Deliverables<textarea name=\"deliverables\" placeholder=\"e.g. monthly payslips, filings, a year-end report.\"></textarea></label>\n</fieldset>\n<fieldset><legend>Budget and timing</legend><div class=\"tool-grid\">\n<label>Budget<input name=\"budget\" placeholder=\"e.g. up to 2,000 per month, or open\"></label>\n<label>Start date or deadline<input name=\"deadline\" placeholder=\"e.g. start in January\"></label>\n<label>Working style<select name=\"mode\"><option>Remote is fine</option><option>On site</option><option>Hybrid</option></select></label>\n<label>Languages or time zones<input name=\"languages\" placeholder=\"e.g. English and German, UK hours\"></label>\n</div></fieldset>\n<div class=\"tool-actions\"><button class=\"btn\" type=\"submit\">Create my brief</button><button class=\"btn btn-ghost\" type=\"reset\">Clear</button></div>\n</form>\n<div class=\"result\" data-result hidden aria-live=\"polite\"><h3>Your brief</h3><pre class=\"brief-out\"></pre><div class=\"tool-actions\"><button class=\"btn\" type=\"button\" data-copy>Copy brief</button><button class=\"btn btn-ghost\" type=\"button\" data-download>Download .txt</button><button class=\"btn btn-ghost\" type=\"button\" data-email>Open in email</button></div><p class=\"tool-status\" role=\"status\"></p></div></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What makes a good brief",
+      "html": "<ul><li><strong>Context:</strong> who you are, where you operate and what has happened so far.</li><li><strong>The problem or goal:</strong> what you need to change and why.</li><li><strong>Deliverables:</strong> what you expect to receive, and when.</li><li><strong>Constraints:</strong> budget range, deadlines, languages, time zones and tools.</li><li><strong>What you want back:</strong> experience, approach, timeline and a clear price.</li></ul>"
+    },
+    {
+      "h2": "How to compare the quotes",
+      "html": "<p>Put the replies side by side. Check what’s included, how the price is structured, who does the work, and what credentials and insurance they hold. Our guide to <a href=\"/blog/fixed-fee-hourly-or-retainer/\">fixed fees, hourly rates and retainers</a> helps you compare different pricing models.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I send the brief?",
+      "a": "Send it to the professionals or platforms you’re comparing. Each ProSourced service guide explains what to look for in that field."
+    },
+    {
+      "q": "Is my brief saved anywhere?",
+      "a": "No. It’s created in your browser and only leaves your device if you copy, download or email it."
+    }
+  ],
+  "related": [
+    "free-tools/outsourcing-cost-calculator",
+    "how-it-works",
+    "services"
+  ],
+  "keywords": [
+    "project brief template",
+    "brief builder",
+    "request for proposal template",
+    "rfp template",
+    "get quotes"
+  ],
+  "cardText": "Turn your needs into a clear, professional brief to send to several providers.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1666018215872-b98ffea7e6ab",
+    "alt": "Person writing on a sheet of paper with a pen",
+    "credit": "Sollange Brenis",
+    "creditUrl": "https://unsplash.com/@sollangeb"
+  }
+}

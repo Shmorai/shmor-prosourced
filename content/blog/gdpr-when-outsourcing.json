@@ -1,0 +1,66 @@
+{
+  "updated": "2026-09-25",
+  "type": "post",
+  "slug": "blog/gdpr-when-outsourcing",
+  "date": "2026-09-25",
+  "title": "Outsourcing and the GDPR: Processors, DPAs and Transfers",
+  "description": "Outsourcing payroll, HR, IT or marketing? What the GDPR requires: controllers and processors, Article 28 contracts and international data transfers.",
+  "h1": "Outsourcing and the GDPR: what every business needs in place",
+  "intro": "When a supplier handles personal data for you, the GDPR (and the UK GDPR) sets clear rules. Here’s what to check before you sign.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595666944516-bbb485958fb5",
+    "alt": "Black and white sign reading privacy please",
+    "credit": "Jason Dent",
+    "creditUrl": "https://unsplash.com/@jdent"
+  },
+  "sections": [
+    {
+      "h2": "Controller or processor?",
+      "html": "<p>The <strong>controller</strong> decides why and how personal data is used. A <strong>processor</strong> handles it on the controller’s behalf. Your payroll bureau, IT provider or virtual assistant agency is usually your processor. You remain responsible for choosing processors that give “sufficient guarantees” of appropriate security.</p>"
+    },
+    {
+      "h2": "The Article 28 contract",
+      "html": "<p>Article 28 of the GDPR requires a written contract with each processor. Among other things, it must say the processor will:</p><ul><li>act only on your documented instructions;</li><li>keep the data confidential and secure;</li><li>use sub-processors only with your authorisation;</li><li>help you respond to people exercising their rights and to data breaches;</li><li>delete or return the data when the service ends;</li><li>allow and contribute to audits.</li></ul>"
+    },
+    {
+      "h2": "Sending data outside the UK or EU",
+      "html": "<p>Transfers to other countries need a legal basis, such as an adequacy decision, the European Commission’s Standard Contractual Clauses, or (in the UK) the International Data Transfer Agreement or the UK Addendum. US companies certified under the EU-US Data Privacy Framework can receive EU data on the basis of the adequacy decision for that framework.</p>"
+    },
+    {
+      "h2": "Practical checklist",
+      "html": "<ol><li>List which suppliers handle personal data, and what data they handle.</li><li>Get a data processing agreement signed with each one.</li><li>Ask about security certifications, such as ISO/IEC 27001 or SOC 2.</li><li>Check where data is stored and how transfers are covered.</li><li>Review access when people or suppliers change.</li></ol><p>A <a href=\"/legal-services/\">business lawyer</a> can review contracts, and an <a href=\"/it-cyber-security/\">IT security provider</a> can check controls. Our sister site <a href=\"https://onbuslaw.shmor.ai/\">OnBusLaw</a> covers online business law in plain English.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "EUR-Lex: General Data Protection Regulation (EU) 2016/679",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    },
+    {
+      "title": "ICO: UK GDPR guidance and resources",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/"
+    },
+    {
+      "title": "European Commission: Standard contractual clauses",
+      "url": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
+    },
+    {
+      "title": "Data Privacy Framework programme",
+      "url": "https://www.dataprivacyframework.gov/"
+    }
+  ],
+  "keywords": [
+    "gdpr outsourcing",
+    "data processing agreement",
+    "article 28 gdpr",
+    "gdpr processor contract",
+    "international data transfers"
+  ],
+  "related": [
+    "legal-services",
+    "it-cyber-security",
+    "payroll"
+  ],
+  "eyebrow": "ProSourced guide",
+  "cardText": "Outsourcing payroll, HR, IT or marketing?"
+}

@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-16",
+  "slug": "free-tools",
+  "nav": "Free tools",
+  "navOrder": 5,
+  "title": "Free Business Tools: Calculators and Brief Builder",
+  "description": "Free tools for business owners and professionals: compare in-house vs outsourcing costs, build a project brief, and work out an hourly or day rate.",
+  "eyebrow": "Free, no sign-up",
+  "h1": "Free tools for smarter outsourcing decisions",
+  "intro": "Quick, private tools that help you decide, brief and price. Everything runs in your browser: nothing you type is sent to us or stored.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Calculator on a table next to a laptop",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "deals",
+      "items": [
+        {
+          "slug": "free-tools/outsourcing-cost-calculator",
+          "icon": "percent",
+          "badge": "Businesses",
+          "cta": "Open calculator"
+        },
+        {
+          "slug": "free-tools/project-brief-builder",
+          "icon": "file",
+          "badge": "Businesses",
+          "cta": "Build a brief"
+        },
+        {
+          "slug": "free-tools/hourly-rate-calculator",
+          "icon": "clock",
+          "badge": "Professionals",
+          "cta": "Work out your rate"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why we built these tools",
+      "html": "<p>The hardest part of outsourcing is usually the start: deciding whether to hire or buy in, then explaining what you need clearly enough to get comparable quotes. These tools help with both. For professionals, the rate calculator turns income goals into a clear minimum price.</p>"
+    }
+  ],
+  "related": [
+    "how-it-works",
+    "services",
+    "blog"
+  ],
+  "keywords": [
+    "free business tools",
+    "business calculator",
+    "outsourcing calculator",
+    "project brief template",
+    "freelance rate calculator"
+  ],
+  "cardText": "Cost calculator, project brief builder and rate calculator. Free, no sign-up."
+}
