@@ -16,93 +16,75 @@
   },
   "blocks": [
     {
-      "type": "deals",
+      "type": "tiles",
       "title": "Finance and people",
       "items": [
         {
-          "slug": "accounting",
-          "icon": "receipt",
-          "cta": "Explore"
+          "slug": "accounting"
         },
         {
-          "slug": "payroll",
-          "icon": "wallet",
-          "cta": "Explore"
+          "slug": "payroll"
         },
         {
-          "slug": "hr-outsourcing",
-          "icon": "users",
-          "cta": "Explore"
+          "slug": "hr-outsourcing"
         },
         {
-          "slug": "recruitment",
-          "icon": "user",
-          "cta": "Explore"
+          "slug": "recruitment"
         }
-      ]
+      ],
+      "feature": false,
+      "class": "tiles-services"
     },
     {
-      "type": "deals",
+      "type": "tiles",
       "title": "Strategy, legal and setup",
       "items": [
         {
-          "slug": "management-consulting",
-          "icon": "compass",
-          "cta": "Explore"
+          "slug": "management-consulting"
         },
         {
-          "slug": "legal-services",
-          "icon": "scale",
-          "cta": "Explore"
+          "slug": "legal-services"
         },
         {
-          "slug": "company-formation",
-          "icon": "building",
-          "cta": "Explore"
+          "slug": "company-formation"
         }
-      ]
+      ],
+      "feature": false,
+      "class": "tiles-services"
     },
     {
-      "type": "deals",
+      "type": "tiles",
       "title": "Digital, brand and growth",
       "items": [
         {
-          "slug": "web-design",
-          "icon": "laptop",
-          "cta": "Explore"
+          "slug": "web-design"
         },
         {
-          "slug": "digital-marketing",
-          "icon": "gauge",
-          "cta": "Explore"
+          "slug": "digital-marketing"
         },
         {
-          "slug": "branding",
-          "icon": "sparkles",
-          "cta": "Explore"
+          "slug": "branding"
         },
         {
-          "slug": "translation",
-          "icon": "globe",
-          "cta": "Explore"
+          "slug": "translation"
         }
-      ]
+      ],
+      "feature": false,
+      "class": "tiles-services"
     },
     {
-      "type": "deals",
+      "type": "tiles",
       "title": "Operations and support",
       "items": [
         {
-          "slug": "it-cyber-security",
-          "icon": "lock",
-          "cta": "Explore"
+          "slug": "it-cyber-security"
         },
         {
-          "slug": "virtual-assistants",
-          "icon": "message",
-          "cta": "Explore"
+          "slug": "virtual-assistants"
         }
-      ]
+      ],
+      "feature": false,
+      "class": "tiles-services"
     }
   ],
   "sections": [

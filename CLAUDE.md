@@ -20,10 +20,13 @@ Top menu (navOrder): All services, Free tools, Blog, How it works, For professio
 `assets/prosourced.js` (loaded in layout): hero finder, cost calculator, brief builder (copy / download / mailto, prefilled from ?service= and ?region=), hourly rate calculator. All client-side; nothing is sent anywhere. Tool forms are "html" blocks in the tool pages' JSON.
 
 ## Design
-"Global boardroom", in line with the Shmor brand: dark ink-violet #0C0A14 base (surfaces #14111F / #1C1830, lines #2A2540), orchid #B07CFF brand and links, Shmor Node Purple #7644B0 / Deep Purple #2E1F5E gradients, Node Green #2FAF82 action buttons, Outfit headings + Inter body. Logo: orchid wireframe globe in a #1A1233 rounded square with a green check node, plus "Pro**Sourced**" (Sourced in orchid) and a "by Shmor.ai" pill. Home hero = NASA Earth-at-night photo with a violet overlay. Theme block is at the bottom of `assets/site.css`. Checked at 320/375/768/900/1024/1280 px.
+"Global boardroom", in line with the Shmor brand: dark ink-violet #0C0A14 base (surfaces #14111F / #1C1830, lines #2A2540), orchid #B07CFF brand and links, Shmor Node Purple #7644B0 / Deep Purple #2E1F5E gradients, Node Green #2FAF82 action buttons, Outfit headings + Inter body. Logo: orchid wireframe globe in a #1A1233 rounded square with a green check node, plus "Pro**Sourced**" (Sourced in orchid) and a "by Shmor.ai" pill. Home hero = NASA Earth-at-night photo with a violet overlay. Home and services hub show sectors as photo tiles (each sector page's hero photo). Every sector page and blog post also has a credited in-article photo (figure.prose-fig, free-licence Unsplash only). Theme block is at the bottom of `assets/site.css`. Checked at 320/375/768/900/1024/1280 px.
 
 ## Search routing vs ProFinders
 ProFinders (UK-leaning, local) keeps accountant, lawyer/solicitor, HR consultant, VAT, web designer. ProSourced takes outsourcing/global terms: payroll (moved from ProFinders), EOR/PEO, management consulting, fractional execs, virtual assistants, translation, company formation, recruitment, branding, digital marketing agency, Shopify/web development. Padded short words: " eor ", " peo ".
+
+## Footer
+Curated, not generated: brand blurb, 5 popular services + All services, ProSourced pages, 3 sister sites + all marketplaces, then one inline legal row and the disclosure. The kit's footer_nav placeholder is intentionally not used (it listed every page).
 
 ## Backlinks
 Footer and home "links" block point to sister Shmor sites (ProFinders, OnBusLaw, DomComInsure, BestVPNs, FullBars, StorageSavings, EnergySavers); in-content links to OnBusLaw, BestVPNs, DomComInsure, ProFinders where relevant; dense internal linking between sectors, tools and posts.

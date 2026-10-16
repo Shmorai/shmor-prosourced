@@ -71,7 +71,7 @@
       ]
     },
     {
-      "type": "deals",
+      "type": "tiles",
       "position": "top",
       "title": "Popular business services",
       "intro": "Every category explains what good looks like, which credentials to check in each country, what to ask, and what affects the price.",
@@ -81,78 +81,51 @@
       },
       "items": [
         {
-          "slug": "accounting",
-          "icon": "receipt",
-          "cta": "Compare pros"
+          "slug": "accounting"
         },
         {
-          "slug": "payroll",
-          "icon": "wallet",
-          "cta": "Compare pros"
+          "slug": "payroll"
         },
         {
-          "slug": "hr-outsourcing",
-          "icon": "users",
-          "cta": "Compare pros"
+          "slug": "hr-outsourcing"
         },
         {
-          "slug": "management-consulting",
-          "icon": "compass",
-          "cta": "Compare pros"
+          "slug": "management-consulting"
         },
         {
-          "slug": "web-design",
-          "icon": "laptop",
-          "cta": "Compare pros"
+          "slug": "web-design"
         },
         {
-          "slug": "digital-marketing",
-          "icon": "gauge",
-          "cta": "Compare pros"
+          "slug": "digital-marketing"
         },
         {
-          "slug": "branding",
-          "icon": "sparkles",
-          "cta": "Compare pros"
+          "slug": "branding"
         },
         {
-          "slug": "legal-services",
-          "icon": "scale",
-          "cta": "Compare pros"
+          "slug": "legal-services"
         },
         {
-          "slug": "it-cyber-security",
-          "icon": "lock",
-          "cta": "Compare pros"
+          "slug": "it-cyber-security"
         },
         {
-          "slug": "virtual-assistants",
-          "icon": "message",
-          "cta": "Compare pros"
+          "slug": "virtual-assistants"
         },
         {
-          "slug": "translation",
-          "icon": "globe",
-          "cta": "Compare pros"
+          "slug": "translation"
         },
         {
-          "slug": "recruitment",
-          "icon": "user",
-          "cta": "Compare pros"
+          "slug": "recruitment"
         },
         {
-          "slug": "company-formation",
-          "icon": "building",
-          "cta": "Compare pros"
+          "slug": "company-formation"
         },
         {
           "slug": "services",
           "title": "Not sure who you need?",
-          "text": "Browse every category and our quick guide to matching problems with professionals.",
-          "icon": "search",
-          "cta": "See all services"
+          "text": "Browse every category and our quick guide to matching problems with professionals."
         }
-      ]
+      ],
+      "class": "tiles-services"
     },
     {
       "type": "steps",
