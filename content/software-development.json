@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "software-development",
+  "nav": "Software development",
+  "title": "Software & App Development: Hire Developers and Agencies",
+  "description": "Compare software developers and agencies for web apps, mobile apps, integrations and custom systems. Nearshore, offshore or local teams, with clear IP terms.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Software and app developers to build what your business needs",
+  "intro": "From a mobile app or customer portal to integrations between your systems, compare freelance developers, agencies and dedicated teams, near or far.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+    "alt": "Monitor showing programming code",
+    "credit": "Ilya Pavlov",
+    "creditUrl": "https://unsplash.com/@ilyapavlov"
+  },
+  "searchPlaceholder": "Search software development and other services…",
+  "chips": [
+    {
+      "label": "Mobile apps",
+      "q": "mobile apps"
+    },
+    {
+      "label": "Web apps",
+      "q": "web apps"
+    },
+    {
+      "label": "Integrations & APIs",
+      "q": "integrations & apis"
+    },
+    {
+      "label": "Dedicated teams",
+      "q": "dedicated teams"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from software developers</h2><p>Write one clear brief with our free builder, then send it to several software developers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=software-development\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What you can build",
+      "html": "<ul><li>Mobile apps for iOS and Android.</li><li>Web apps, portals and SaaS products.</li><li>Integrations between your CRM, ecommerce, accounting and other tools.</li><li>Internal tools and automations.</li><li>Maintenance and modernisation of existing systems.</li></ul>"
+    },
+    {
+      "h2": "Engagement models",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Computer screen full of code\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@cdr6934?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Chris Ried</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>Fixed scope:</strong> a defined project for an agreed price. Works when requirements are clear.</li><li><strong>Time and materials:</strong> pay for the time used. Suits products that will change as you learn.</li><li><strong>Dedicated team:</strong> developers working only on your product, often nearshore or offshore.</li><li><strong>Staff augmentation:</strong> extra developers who join your in-house team.</li></ul>"
+    },
+    {
+      "h2": "Protect your code and data",
+      "html": "<ul><li>Your contract should assign intellectual property in the code to you on payment, apart from open-source and licensed components.</li><li>Keep the code in a repository your business owns, with your own admin access.</li><li>Ask how they follow secure-development practices such as the OWASP Top 10.</li><li>Where personal data is involved, the GDPR expects data protection by design and by default, and a processing agreement.</li><li>Agree documentation, hand-over and support terms up front.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Scope and complexity, platforms, integrations, design work, security and compliance needs, team location and seniority, and ongoing support. Ask for an estimate broken down by feature, and start with a small first phase to test the relationship.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I hire a freelancer or an agency?",
+      "a": "Freelancers suit small, well-defined builds. Agencies and dedicated teams bring design, testing and project management for larger products."
+    },
+    {
+      "q": "What is nearshore development?",
+      "a": "Working with a team in a nearby country with a similar time zone, which makes collaboration easier than with distant offshore teams."
+    },
+    {
+      "q": "Who owns the code?",
+      "a": "Whoever the contract says. Make sure it assigns ownership to your business, and that you control the repository."
+    }
+  ],
+  "related": [
+    "web-design",
+    "ai-automation",
+    "it-cyber-security"
+  ],
+  "keywords": [
+    "software development",
+    "software developer",
+    "app developer",
+    "mobile app development",
+    "custom software",
+    "hire developers",
+    "offshore developers",
+    "nearshore development"
+  ],
+  "cardText": "Web and mobile apps, integrations, custom systems and dedicated dev teams.",
+  "ctaTitle": "Need software development help? Search ProSourced"
+}

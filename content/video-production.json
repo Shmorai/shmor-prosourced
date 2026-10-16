@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "video-production",
+  "nav": "Video & photo",
+  "title": "Video Production & Business Photography Services",
+  "description": "Compare video production companies and commercial photographers for brand films, product videos, social clips, explainer animations and corporate photography.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Video and photography that make your business stand out",
+  "intro": "From product shots and team headshots to brand films and social video, compare production companies and freelance creatives near you or anywhere in the world.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1625690303837-654c9666d2d0",
+    "alt": "Person filming with a camera on a tripod under coloured lights",
+    "credit": "Jakob Owens",
+    "creditUrl": "https://unsplash.com/@jakobowens1"
+  },
+  "searchPlaceholder": "Search video & photo and other services…",
+  "chips": [
+    {
+      "label": "Brand films",
+      "q": "brand films"
+    },
+    {
+      "label": "Product video",
+      "q": "product video"
+    },
+    {
+      "label": "Social clips",
+      "q": "social clips"
+    },
+    {
+      "label": "Product photography",
+      "q": "product photography"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from video and photo producers</h2><p>Write one clear brief with our free builder, then send it to several video and photo producers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=video-production\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What you can commission",
+      "html": "<ul><li>Brand and recruitment films.</li><li>Product demos, explainers and animation.</li><li>Short-form social video.</li><li>Event and conference coverage.</li><li>Product, food and lifestyle photography.</li><li>Team headshots and office photography.</li></ul>"
+    },
+    {
+      "h2": "Rights, releases and rules",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1580707221190-bd94d9087b7f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1580707221190-bd94d9087b7f?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1580707221190-bd94d9087b7f?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1580707221190-bd94d9087b7f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1580707221190-bd94d9087b7f?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Hand holding a camera with a large zoom lens\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@nate_dumlao?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Nathan Dumlao</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li>Agree a licence that covers every channel, country and time period you need, or ask for a full buy-out.</li><li>Get written releases from anyone who appears on camera, and permission for private locations.</li><li>Music must be licensed for commercial use; don’t assume a track is free.</li><li>Drone filming needs the right permissions: FAA Part 107 in the US, CAA rules in the UK and EASA rules in the EU.</li></ul>"
+    },
+    {
+      "h2": "How to brief a production",
+      "html": "<ul><li>The goal and where the video or photos will be used.</li><li>Audience, key message and a call to action.</li><li>Formats and aspect ratios (for example 16:9 for web, 9:16 for stories).</li><li>Locations, people, products and deadlines.</li><li>Whether you need subtitles or versions in other languages.</li></ul><p>Use our <a href=\"/free-tools/project-brief-builder/?service=video-production\">brief builder</a> to pull this together.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Shoot days, crew size, locations, talent, equipment, animation, editing rounds, music licensing and the number of final versions. Get quotes that list pre-production, production and post-production separately.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I own the video I paid for?",
+      "a": "Only if the contract says so. Many producers license footage for agreed uses. Ask for the rights you need in writing."
+    },
+    {
+      "q": "How long should a business video be?",
+      "a": "It depends on the platform. Social clips are often short; explainers and brand films can run longer. Your producer should advise for each channel."
+    },
+    {
+      "q": "Can I hire a crew in another country?",
+      "a": "Yes. Many producers coordinate local crews abroad, or you can hire a local production company directly."
+    }
+  ],
+  "related": [
+    "digital-marketing",
+    "branding",
+    "public-relations"
+  ],
+  "keywords": [
+    "video production",
+    "video production company",
+    "corporate video",
+    "product video",
+    "explainer video",
+    "commercial photographer",
+    "product photography",
+    "headshots for business"
+  ],
+  "cardText": "Brand films, product and social video, animation and commercial photography.",
+  "ctaTitle": "Need video & photo help? Search ProSourced"
+}

@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-16",
+  "slug": "logistics-fulfilment",
+  "nav": "Logistics",
+  "title": "Logistics, Fulfilment & Freight Forwarding Services",
+  "description": "Compare 3PL fulfilment warehouses, freight forwarders and customs brokers to store, ship and import goods, with Incoterms and customs explained.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Logistics partners to store, ship and import your goods",
+  "intro": "From a fulfilment warehouse for your online orders to freight and customs for international shipments, compare 3PLs, forwarders and customs brokers.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605732562742-3023a888e56e",
+    "alt": "Stacked orange shipping containers against a deep blue sky",
+    "credit": "Aron Yigin",
+    "creditUrl": "https://unsplash.com/@aronyigin"
+  },
+  "searchPlaceholder": "Search logistics and other services…",
+  "chips": [
+    {
+      "label": "3PL fulfilment",
+      "q": "3pl fulfilment"
+    },
+    {
+      "label": "Freight forwarding",
+      "q": "freight forwarding"
+    },
+    {
+      "label": "Customs brokerage",
+      "q": "customs brokerage"
+    },
+    {
+      "label": "Returns",
+      "q": "returns"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from logistics and fulfilment providers</h2><p>Write one clear brief with our free builder, then send it to several logistics and fulfilment providers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=logistics-fulfilment\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Types of logistics partner",
+      "html": "<ul><li><strong>3PL fulfilment:</strong> stores your stock, picks, packs and ships orders, and handles returns.</li><li><strong>Freight forwarder:</strong> arranges sea, air, road or rail transport for larger shipments.</li><li><strong>Customs broker:</strong> prepares customs declarations and helps calculate duties and taxes.</li><li><strong>Couriers and parcel aggregators:</strong> discounted rates for parcels.</li></ul>"
+    },
+    {
+      "h2": "Cross-border basics",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1740914994657-f1cdffdc418e?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1740914994657-f1cdffdc418e?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1740914994657-f1cdffdc418e?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1740914994657-f1cdffdc418e?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1740914994657-f1cdffdc418e?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A yellow forklift in a large warehouse\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@sizzzikova?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Kseniia Ilinykh</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>Incoterms® 2020</strong>, published by the International Chamber of Commerce, set out who pays and takes risk at each stage of a shipment. Agree them in every contract.</li><li><strong>EORI numbers</strong> are needed to move goods into or out of the UK and EU.</li><li><strong>US:</strong> customs brokers are licensed by U.S. Customs and Border Protection (CBP).</li><li><strong>Product codes:</strong> the right tariff (HS) code affects duty and paperwork.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask a 3PL",
+      "html": "<ul><li>Which platforms and marketplaces do you integrate with?</li><li>What are your cut-off times and order accuracy measures?</li><li>How do you handle returns and damaged stock?</li><li>Where are your warehouses, and can you serve other countries?</li><li>How are storage, pick and pack, and packaging charged?</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Storage space, order volume, items per order, packaging, carriers, destinations, duties and value-added services. Ask for a full rate card and model it against a typical month.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I use a 3PL?",
+      "a": "When packing orders yourself takes too much time or space, when you need faster delivery, or when you want to store stock closer to customers in other countries."
+    },
+    {
+      "q": "Do I need a customs broker?",
+      "a": "Not always, but they help with complex or high-value imports and keep declarations accurate."
+    },
+    {
+      "q": "What are Incoterms?",
+      "a": "Standard trade terms from the International Chamber of Commerce that define who handles transport, insurance, duties and risk."
+    }
+  ],
+  "related": [
+    "ecommerce-management",
+    "tax-advisory",
+    "company-formation"
+  ],
+  "keywords": [
+    "3pl",
+    "fulfilment",
+    "fulfillment",
+    "fulfilment centre",
+    "freight forwarder",
+    "customs broker",
+    "import export",
+    "ecommerce fulfilment",
+    "shipping logistics"
+  ],
+  "cardText": "3PL fulfilment, freight forwarding, customs brokerage and returns.",
+  "ctaTitle": "Need logistics help? Search ProSourced"
+}

@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "public-relations",
+  "nav": "PR",
+  "title": "PR Agencies & Consultants: Media, Reputation and Launches",
+  "description": "Compare PR agencies and consultants for media relations, product launches, thought leadership, crisis communications and international press coverage.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "PR experts to get your business talked about",
+  "intro": "The right coverage builds trust faster than any ad. Compare PR agencies and independent consultants for launches, profile-building and protecting your reputation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1555201441-7b166836415d",
+    "alt": "Four black microphones lined up at a press conference",
+    "credit": "Rob Sarmiento",
+    "creditUrl": "https://unsplash.com/@robsarm"
+  },
+  "searchPlaceholder": "Search pr and other services…",
+  "chips": [
+    {
+      "label": "Media relations",
+      "q": "media relations"
+    },
+    {
+      "label": "Product launches",
+      "q": "product launches"
+    },
+    {
+      "label": "Thought leadership",
+      "q": "thought leadership"
+    },
+    {
+      "label": "Crisis comms",
+      "q": "crisis comms"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from PR agencies</h2><p>Write one clear brief with our free builder, then send it to several PR agencies and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=public-relations\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What PR covers",
+      "html": "<ul><li>Press releases and pitching journalists.</li><li>Launches and announcements.</li><li>Founder and executive profile-building.</li><li>Awards, speaking and events.</li><li>Crisis and issues management.</li><li>Internal and investor communications.</li></ul>"
+    },
+    {
+      "h2": "Professional bodies",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1570563568161-e4f5e8c6e27f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1570563568161-e4f5e8c6e27f?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1570563568161-e4f5e8c6e27f?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1570563568161-e4f5e8c6e27f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1570563568161-e4f5e8c6e27f?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Close-up of a black microphone\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@andrew_medhat98?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Andrew Medhat</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>UK:</strong> the Chartered Institute of Public Relations (CIPR) and the PRCA.</li><li><strong>US:</strong> the Public Relations Society of America (PRSA).</li><li><strong>Global:</strong> the International Public Relations Association (IPRA).</li></ul><p>Members agree to codes of conduct, which is a useful starting point when you compare agencies.</p>"
+    },
+    {
+      "h2": "How to choose an agency",
+      "html": "<ul><li>Ask for recent coverage in the media your customers actually read.</li><li>Check they have contacts in your sector and target countries.</li><li>Agree what success looks like: coverage, share of voice, leads or reputation measures.</li><li>Be wary of guaranteed coverage. Journalists decide what they publish.</li><li>Clarify notice periods and who works on your account day to day.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Scope, the number of markets and languages, seniority of the team, and whether events, media training or monitoring tools are included. Most agencies work on monthly retainers; launches and crisis work may be priced as projects.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between PR and advertising?",
+      "a": "Advertising is paid space you control. PR earns coverage through journalists and other third parties, which can carry more credibility."
+    },
+    {
+      "q": "Can a PR agency guarantee coverage?",
+      "a": "No reputable agency can guarantee editorial coverage, because journalists and editors make the decision."
+    },
+    {
+      "q": "Do I need a PR agency in each country?",
+      "a": "Not always. Many agencies run international campaigns through partner networks, but local media knowledge matters."
+    }
+  ],
+  "related": [
+    "digital-marketing",
+    "copywriting",
+    "video-production"
+  ],
+  "keywords": [
+    "pr agency",
+    "public relations",
+    "pr consultant",
+    "media relations",
+    "press release",
+    "crisis communications",
+    "thought leadership",
+    "tech pr"
+  ],
+  "cardText": "Media relations, launches, thought leadership and crisis communications.",
+  "ctaTitle": "Need pr help? Search ProSourced"
+}

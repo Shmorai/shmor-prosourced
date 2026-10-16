@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "ecommerce-management",
+  "nav": "Ecommerce",
+  "title": "Ecommerce & Amazon Agencies: Grow Your Online Store",
+  "description": "Compare ecommerce agencies and marketplace specialists for Shopify, Amazon and other marketplaces: listings, ads, operations and selling into new countries.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Ecommerce experts to grow your online store and marketplaces",
+  "intro": "Run your own store, sell on Amazon and other marketplaces, and expand into new countries. Compare agencies and freelancers who manage listings, ads and operations.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd",
+    "alt": "A miniature shopping cart on a plain background",
+    "credit": "Shutter Speed",
+    "creditUrl": "https://unsplash.com/@shutter_speed_"
+  },
+  "searchPlaceholder": "Search ecommerce and other services…",
+  "chips": [
+    {
+      "label": "Shopify stores",
+      "q": "shopify stores"
+    },
+    {
+      "label": "Amazon & marketplaces",
+      "q": "amazon & marketplaces"
+    },
+    {
+      "label": "Ecommerce ads",
+      "q": "ecommerce ads"
+    },
+    {
+      "label": "Selling abroad",
+      "q": "selling abroad"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from ecommerce specialists</h2><p>Write one clear brief with our free builder, then send it to several ecommerce specialists and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=ecommerce-management\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What ecommerce specialists manage",
+      "html": "<ul><li>Store set-up, themes, apps and conversion improvements.</li><li>Marketplace accounts such as Amazon, eBay, Etsy and others.</li><li>Product listings, images and keyword optimisation.</li><li>Marketplace and shopping ads.</li><li>Inventory, pricing and promotions.</li><li>Customer reviews and seller-account health.</li></ul>"
+    },
+    {
+      "h2": "Selling into new countries",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1674027392887-751d6396b710?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1674027392887-751d6396b710?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1674027392887-751d6396b710?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1674027392887-751d6396b710?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1674027392887-751d6396b710?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Illustration of a shopping basket and a target\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@growtika?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Growtika</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>EU VAT:</strong> the One Stop Shop (OSS) and Import One Stop Shop (IOSS) simplify VAT on many sales to EU consumers.</li><li><strong>EU product safety:</strong> the General Product Safety Regulation has applied since 13 December 2024 and requires an EU-based responsible person for many products sold online.</li><li><strong>US sales tax:</strong> states can require remote sellers to collect sales tax once they pass economic thresholds.</li><li><strong>Logistics:</strong> plan duties, returns and fulfilment. See <a href=\"/logistics-fulfilment/\">logistics and fulfilment</a>.</li></ul><p>For tax questions, talk to a <a href=\"/tax-advisory/\">tax adviser</a>.</p>"
+    },
+    {
+      "h2": "Questions to ask",
+      "html": "<ul><li>Which platforms and countries do you manage today?</li><li>Will we keep ownership of all accounts, ad accounts and data?</li><li>How do you report on sales, ad spend and profit?</li><li>How do you handle account-health issues and policy changes?</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Number of products, platforms and countries, ad spend, content creation and whether operations are included. Agencies charge monthly fees, a percentage of sales or ad spend, or a mix.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I sell on Amazon or my own store?",
+      "a": "Many brands do both: marketplaces for reach, their own store for margin and customer relationships."
+    },
+    {
+      "q": "What is an EU responsible person?",
+      "a": "Under EU product safety rules, many products sold to EU consumers need an economic operator established in the EU who is responsible for compliance."
+    },
+    {
+      "q": "How are ecommerce agencies paid?",
+      "a": "Usually a monthly fee, a percentage of sales or ad spend, or a combination. Compare total cost against expected profit."
+    }
+  ],
+  "related": [
+    "web-design",
+    "logistics-fulfilment",
+    "digital-marketing"
+  ],
+  "keywords": [
+    "ecommerce agency",
+    "amazon agency",
+    "amazon seller",
+    "amazon account management",
+    "marketplace management",
+    "shopify agency",
+    "ecommerce consultant",
+    "sell on amazon"
+  ],
+  "cardText": "Shopify and online stores, Amazon and marketplaces, ads and cross-border selling.",
+  "ctaTitle": "Need ecommerce help? Search ProSourced"
+}

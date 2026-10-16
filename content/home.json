@@ -7,7 +7,7 @@
   "h1": "Hire the right professional for your business, anywhere in the world.",
   "h1Html": "Hire the right professional for your business, <span class=\"hl\">anywhere in the world.</span>",
   "intro": "Accounting, payroll, HR, consulting, web design, marketing, legal, IT and more. Tell us what you need, compare experts who know your market, and choose with confidence.",
-  "heroHtml": "<form class=\"finder\" data-finder action=\"/services/\" method=\"get\" aria-label=\"Find a professional\">\n<div class=\"finder-row\">\n<div><label for=\"f-service\">What service do you need?</label><select id=\"f-service\" name=\"service\" required><option value=\"\">Choose a service…</option><option value=\"accounting\">Accounting</option><option value=\"payroll\">Payroll</option><option value=\"hr-outsourcing\">HR</option><option value=\"management-consulting\">Consulting</option><option value=\"web-design\">Web design</option><option value=\"digital-marketing\">Marketing</option><option value=\"branding\">Branding</option><option value=\"legal-services\">Legal</option><option value=\"it-cyber-security\">IT &amp; cyber</option><option value=\"virtual-assistants\">Virtual assistants</option><option value=\"translation\">Translation</option><option value=\"recruitment\">Recruitment</option><option value=\"company-formation\">Company formation</option></select></div>\n<div><label for=\"f-region\">Where is your business?</label><select id=\"f-region\" name=\"region\"><option value=\"us\">United States</option><option value=\"uk\">United Kingdom</option><option value=\"eu\">European Union</option><option value=\"ca\">Canada</option><option value=\"au\">Australia</option><option value=\"in\">India</option><option value=\"ae\">United Arab Emirates</option><option value=\"sg\">Singapore</option><option value=\"\">Somewhere else / remote</option></select></div>\n<button type=\"submit\">Find pros →</button>\n</div>\n<p class=\"finder-note\">Free, no obligation. Explore the service, then send one brief to several professionals.</p>\n</form>",
+  "heroHtml": "<form class=\"finder\" data-finder action=\"/services/\" method=\"get\" aria-label=\"Find a professional\">\n<div class=\"finder-row\">\n<div><label for=\"f-service\">What service do you need?</label><select id=\"f-service\" name=\"service\" required><option value=\"\">Choose a service…</option><option value=\"accounting\">Accounting</option><option value=\"payroll\">Payroll</option><option value=\"hr-outsourcing\">HR</option><option value=\"management-consulting\">Consulting</option><option value=\"web-design\">Web design</option><option value=\"digital-marketing\">Marketing</option><option value=\"branding\">Branding</option><option value=\"legal-services\">Legal</option><option value=\"it-cyber-security\">IT &amp; cyber</option><option value=\"virtual-assistants\">Virtual assistants</option><option value=\"translation\">Translation</option><option value=\"recruitment\">Recruitment</option><option value=\"company-formation\">Company formation</option><option value=\"bookkeeping\">Bookkeeping</option><option value=\"tax-advisory\">Tax advisers</option><option value=\"software-development\">Software development</option><option value=\"ai-automation\">AI &amp; automation</option><option value=\"copywriting\">Copywriting</option><option value=\"video-production\">Video &amp; photo</option><option value=\"public-relations\">PR</option><option value=\"ecommerce-management\">Ecommerce</option><option value=\"customer-support-outsourcing\">Customer support</option><option value=\"logistics-fulfilment\">Logistics</option><option value=\"funding-advisers\">Funding</option><option value=\"sustainability-consulting\">Sustainability</option><option value=\"health-and-safety\">Health &amp; safety</option></select></div>\n<div><label for=\"f-region\">Where is your business?</label><select id=\"f-region\" name=\"region\"><option value=\"us\">United States</option><option value=\"uk\">United Kingdom</option><option value=\"eu\">European Union</option><option value=\"ca\">Canada</option><option value=\"au\">Australia</option><option value=\"in\">India</option><option value=\"ae\">United Arab Emirates</option><option value=\"sg\">Singapore</option><option value=\"\">Somewhere else / remote</option></select></div>\n<button type=\"submit\">Find pros →</button>\n</div>\n<p class=\"finder-note\">Free, no obligation. Explore the service, then send one brief to several professionals.</p>\n</form>",
   "searchPlaceholder": "Or search: e.g. outsource payroll, Shopify developer…",
   "chips": [
     {
@@ -49,8 +49,8 @@
       "position": "top",
       "items": [
         {
-          "title": "13 sectors",
-          "text": "from finance to IT",
+          "title": "26 services",
+          "text": "from tax to AI",
           "icon": "layers"
         },
         {
@@ -99,30 +99,24 @@
           "slug": "digital-marketing"
         },
         {
-          "slug": "branding"
+          "slug": "software-development"
+        },
+        {
+          "slug": "ai-automation"
         },
         {
           "slug": "legal-services"
         },
         {
-          "slug": "it-cyber-security"
-        },
-        {
           "slug": "virtual-assistants"
         },
         {
-          "slug": "translation"
-        },
-        {
-          "slug": "recruitment"
-        },
-        {
-          "slug": "company-formation"
+          "slug": "ecommerce-management"
         },
         {
           "slug": "services",
-          "title": "Not sure who you need?",
-          "text": "Browse every category and our quick guide to matching problems with professionals."
+          "title": "See all 26 services",
+          "text": "Tax, bookkeeping, PR, video, logistics, sustainability, safety and more."
         }
       ],
       "class": "tiles-services"
@@ -260,7 +254,7 @@
   "sections": [
     {
       "h2": "One marketplace for every business service",
-      "html": "<p>Running a business means juggling tax, people, customers, technology and the law, often across borders. ProSourced brings the professionals who help with all of it into one place, so you can compare options without dozens of searches and sales calls.</p><ul><li><strong>Finance:</strong> <a href=\"/accounting/\">accountants</a> and <a href=\"/payroll/\">payroll services</a>.</li><li><strong>People:</strong> <a href=\"/hr-outsourcing/\">HR outsourcing</a> and <a href=\"/recruitment/\">recruitment</a>.</li><li><strong>Growth:</strong> <a href=\"/management-consulting/\">management consultants</a>, <a href=\"/digital-marketing/\">digital marketing</a> and <a href=\"/branding/\">branding</a>.</li><li><strong>Digital:</strong> <a href=\"/web-design/\">web design</a> and <a href=\"/it-cyber-security/\">IT and cyber security</a>.</li><li><strong>Going global:</strong> <a href=\"/company-formation/\">company formation</a>, <a href=\"/translation/\">translation</a> and <a href=\"/legal-services/\">business lawyers</a>.</li><li><strong>Admin:</strong> <a href=\"/virtual-assistants/\">virtual assistants</a>.</li></ul>"
+      "html": "<p>Running a business means juggling tax, people, customers, technology and the law, often across borders. ProSourced brings the professionals who help with all of it into one place, so you can compare options without dozens of searches and sales calls.</p><ul><li><strong>Finance and tax:</strong> <a href=\"/accounting/\">accountants</a>, <a href=\"/bookkeeping/\">bookkeepers</a>, <a href=\"/tax-advisory/\">tax advisers</a>, <a href=\"/payroll/\">payroll services</a> and <a href=\"/funding-advisers/\">funding advisers</a>.</li><li><strong>People:</strong> <a href=\"/hr-outsourcing/\">HR outsourcing</a>, <a href=\"/recruitment/\">recruitment</a> and <a href=\"/health-and-safety/\">health and safety</a>.</li><li><strong>Strategy and legal:</strong> <a href=\"/management-consulting/\">management consultants</a>, <a href=\"/legal-services/\">business lawyers</a> and <a href=\"/sustainability-consulting/\">sustainability and ESG</a>.</li><li><strong>Marketing:</strong> <a href=\"/digital-marketing/\">digital marketing</a>, <a href=\"/branding/\">branding</a>, <a href=\"/copywriting/\">copywriting</a>, <a href=\"/public-relations/\">PR</a> and <a href=\"/video-production/\">video and photography</a>.</li><li><strong>Digital:</strong> <a href=\"/web-design/\">web design</a>, <a href=\"/software-development/\">software development</a>, <a href=\"/ai-automation/\">AI and automation</a> and <a href=\"/it-cyber-security/\">IT and cyber security</a>.</li><li><strong>Operations and going global:</strong> <a href=\"/virtual-assistants/\">virtual assistants</a>, <a href=\"/customer-support-outsourcing/\">customer support</a>, <a href=\"/ecommerce-management/\">ecommerce</a>, <a href=\"/logistics-fulfilment/\">logistics</a>, <a href=\"/company-formation/\">company formation</a> and <a href=\"/translation/\">translation</a>.</li></ul>"
     },
     {
       "h2": "Built for businesses that think globally",

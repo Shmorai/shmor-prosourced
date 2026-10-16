@@ -1,0 +1,108 @@
+{
+  "updated": "2026-10-16",
+  "slug": "bookkeeping",
+  "nav": "Bookkeeping",
+  "title": "Bookkeeping Services: Outsource Your Books Online",
+  "description": "Compare online and local bookkeepers for day-to-day records, bank reconciliations, invoices, bills and VAT or sales-tax prep, in the US, UK, Europe and beyond.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Bookkeepers who keep your numbers clean every month",
+  "intro": "Accurate books make tax time painless and show you how the business is really doing. Compare bookkeepers who work in your software, your currency and your time zone.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+    "alt": "Person holding a sheet of figures next to a pen and calculator",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "searchPlaceholder": "Search bookkeeping and other services…",
+  "chips": [
+    {
+      "label": "Monthly bookkeeping",
+      "q": "monthly bookkeeping"
+    },
+    {
+      "label": "Reconciliations",
+      "q": "reconciliations"
+    },
+    {
+      "label": "Invoices & bills",
+      "q": "invoices & bills"
+    },
+    {
+      "label": "Catch-up bookkeeping",
+      "q": "catch-up bookkeeping"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from bookkeepers</h2><p>Write one clear brief with our free builder, then send it to several bookkeepers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=bookkeeping\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a bookkeeper does",
+      "html": "<ul><li>Records sales, purchases, receipts and payments.</li><li>Reconciles bank, card and payment-platform accounts.</li><li>Raises invoices, chases late payers and schedules supplier bills.</li><li>Prepares figures for VAT, GST or sales-tax returns.</li><li>Produces simple monthly reports and hands clean books to your accountant.</li><li>Catch-up work when records have fallen behind.</li></ul><p>Bookkeepers record. <a href=\"/accounting/\">Accountants</a> prepare accounts, file tax and advise. Many businesses use both.</p>"
+    },
+    {
+      "h2": "Credentials and record-keeping rules",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1649209979970-f01d950cc5ed?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1649209979970-f01d950cc5ed?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1649209979970-f01d950cc5ed?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1649209979970-f01d950cc5ed?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1649209979970-f01d950cc5ed?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A calculator on a wooden table\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@fin21?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">FIN</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>UK:</strong> look for AAT or Institute of Certified Bookkeepers (ICB) membership. Firms offering bookkeeping must be supervised for anti-money-laundering. Making Tax Digital requires VAT records to be kept digitally.</li><li><strong>US:</strong> the American Institute of Professional Bookkeepers (AIPB) offers the Certified Bookkeeper designation. The IRS says to keep records for as long as they may be needed for tax purposes, generally at least three years.</li><li><strong>Elsewhere:</strong> retention periods and e-invoicing rules differ by country, and several EU countries are rolling out mandatory e-invoicing.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask",
+      "html": "<ul><li>Which software do you work in (for example Xero, QuickBooks, Sage or FreeAgent)?</li><li>Do you handle multiple currencies and payment platforms?</li><li>What is the monthly cut-off, and when will the books be up to date?</li><li>Who has access to our bank feeds, and how is it secured?</li><li>Do you work with our accountant, or can you recommend one?</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>The number of transactions and accounts, how many currencies and entities, whether payroll or invoicing is included, and how messy the starting point is. Many bookkeepers offer monthly packages based on transaction volume. Catch-up work is usually quoted separately.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a bookkeeper work remotely?",
+      "a": "Yes. With cloud accounting software and bank feeds, most bookkeeping is done remotely, which widens your choice of provider."
+    },
+    {
+      "q": "How often should books be updated?",
+      "a": "At least monthly for most businesses, and weekly if you have high volumes or tight cash flow."
+    },
+    {
+      "q": "Do I still need an accountant if I have a bookkeeper?",
+      "a": "Usually, yes, for year-end accounts, tax returns and advice. A good bookkeeper makes that work faster and cheaper."
+    }
+  ],
+  "related": [
+    "accounting",
+    "payroll",
+    "tax-advisory"
+  ],
+  "keywords": [
+    "bookkeeping services",
+    "online bookkeeper",
+    "outsourced bookkeeping",
+    "virtual bookkeeper",
+    "bank reconciliation",
+    "xero bookkeeper",
+    "quickbooks bookkeeper"
+  ],
+  "cardText": "Daily records, reconciliations, invoices and bills, and tax-ready books.",
+  "ctaTitle": "Need bookkeeping help? Search ProSourced"
+}

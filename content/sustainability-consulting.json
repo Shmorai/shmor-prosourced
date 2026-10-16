@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "sustainability-consulting",
+  "nav": "Sustainability",
+  "title": "Sustainability & ESG Consultants: Carbon, Reporting, Net Zero",
+  "description": "Compare sustainability and ESG consultants for carbon footprints, net-zero plans, ESG reporting, supplier questionnaires and certifications like B Corp.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Sustainability consultants to cut carbon and win contracts",
+  "intro": "Customers, investors and tenders increasingly ask about your environmental impact. Compare consultants who can measure your footprint, build a plan and report on it credibly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1762381157166-f51ac99ab412",
+    "alt": "Wind turbines and solar panels in a rural landscape",
+    "credit": "Bernd Dittrich",
+    "creditUrl": "https://unsplash.com/@hdbernd"
+  },
+  "searchPlaceholder": "Search sustainability and other services…",
+  "chips": [
+    {
+      "label": "Carbon footprint",
+      "q": "carbon footprint"
+    },
+    {
+      "label": "Net-zero plans",
+      "q": "net-zero plans"
+    },
+    {
+      "label": "ESG reporting",
+      "q": "esg reporting"
+    },
+    {
+      "label": "B Corp & ISO 14001",
+      "q": "b corp & iso 14001"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from sustainability consultants</h2><p>Write one clear brief with our free builder, then send it to several sustainability consultants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=sustainability-consulting\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What sustainability consultants do",
+      "html": "<ul><li>Measure your carbon footprint across scopes 1, 2 and 3.</li><li>Set targets and a practical reduction plan.</li><li>Answer customer and tender sustainability questionnaires.</li><li>Prepare sustainability or ESG reports.</li><li>Support certifications such as ISO 14001 or B Corp.</li></ul>"
+    },
+    {
+      "h2": "Frameworks you’ll hear about",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1595437193398-f24279553f4f?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A wind turbine on top of a building\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@kurokami04?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Nazrin Babashova</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>GHG Protocol:</strong> the most widely used standard for measuring greenhouse gas emissions.</li><li><strong>Science Based Targets initiative (SBTi):</strong> validates emissions-reduction targets.</li><li><strong>ISO 14001:</strong> the international standard for environmental management systems.</li><li><strong>B Corp:</strong> a certification for social and environmental performance, run by B Lab.</li><li><strong>Reporting rules:</strong> the EU’s Corporate Sustainability Reporting Directive (CSRD), whose scope and timing have been revised, and the UK’s Streamlined Energy and Carbon Reporting (SECR) for larger companies.</li></ul>"
+    },
+    {
+      "h2": "Avoid greenwashing",
+      "html": "<p>Environmental claims must be accurate and backed by evidence. The UK CMA’s Green Claims Code, the US FTC Green Guides and EU consumer law all target misleading green claims. A good consultant will help you say only what you can prove.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Business size, the number of sites and suppliers, data availability, the framework or certification, and whether you need software. Footprint projects are often fixed fees; ongoing support is usually a retainer.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are scope 1, 2 and 3 emissions?",
+      "a": "Scope 1 is direct emissions from what you own, scope 2 is from purchased energy, and scope 3 covers your wider value chain, such as suppliers and customers."
+    },
+    {
+      "q": "Do small businesses need to report on sustainability?",
+      "a": "Mandatory rules mostly target larger companies, but small suppliers are often asked for data by larger customers."
+    },
+    {
+      "q": "Is carbon offsetting enough?",
+      "a": "Most frameworks put reducing emissions first. Offsets, if used, should be high quality and described accurately."
+    }
+  ],
+  "related": [
+    "management-consulting",
+    "health-and-safety",
+    "public-relations"
+  ],
+  "keywords": [
+    "sustainability consultant",
+    "esg consultant",
+    "carbon footprint",
+    "net zero consultant",
+    "carbon accounting",
+    "esg reporting",
+    "b corp consultant",
+    "iso 14001"
+  ],
+  "cardText": "Carbon footprints, net-zero plans, ESG reporting and certifications.",
+  "ctaTitle": "Need sustainability help? Search ProSourced"
+}

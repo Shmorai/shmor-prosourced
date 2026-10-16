@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "funding-advisers",
+  "nav": "Funding",
+  "title": "Funding Advisers: Grants, Loans and Raising Investment",
+  "description": "Compare funding advisers, grant writers and fundraising consultants for grants, business loans, angel and venture investment, pitch decks and financial models.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Funding advisers to help you raise money for growth",
+  "intro": "Whether it’s a grant, a loan or equity investment, the right adviser helps you find the best route and present your business well. Compare grant writers, brokers and fundraising consultants.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7",
+    "alt": "Man presenting to a group of colleagues in an office",
+    "credit": "Austin Distel",
+    "creditUrl": "https://unsplash.com/@austindistel"
+  },
+  "searchPlaceholder": "Search funding and other services…",
+  "chips": [
+    {
+      "label": "Grants",
+      "q": "grants"
+    },
+    {
+      "label": "Business loans",
+      "q": "business loans"
+    },
+    {
+      "label": "Equity investment",
+      "q": "equity investment"
+    },
+    {
+      "label": "Pitch decks",
+      "q": "pitch decks"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from funding advisers</h2><p>Write one clear brief with our free builder, then send it to several funding advisers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=funding-advisers\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Types of funding help",
+      "html": "<ul><li>Finding and writing grant applications.</li><li>Preparing loan applications and finding lenders.</li><li>Investor readiness: business plans, financial models and data rooms.</li><li>Pitch decks and pitch coaching.</li><li>Introductions to angels, funds or crowdfunding platforms.</li></ul>"
+    },
+    {
+      "h2": "Official funding starting points",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1557804506-669a67965ba0?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Team on laptops watching a presentation at a whiteboard\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@austindistel?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Austin Distel</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>UK:</strong> Innovate UK and the British Business Bank.</li><li><strong>US:</strong> the Small Business Administration (SBA) and SBIR/STTR research programmes.</li><li><strong>EU:</strong> Horizon Europe and the European Innovation Council, plus national and regional schemes.</li></ul>"
+    },
+    {
+      "h2": "Check how advisers are regulated and paid",
+      "html": "<ul><li>In many countries, arranging investments or giving investment advice is regulated: for example by the FCA in the UK, and by the SEC and FINRA (broker-dealer rules) in the US. Ask how the adviser is authorised for the work they’ll do.</li><li>Understand the fee: fixed fee, retainer or success fee. Be cautious of large upfront fees with no clear deliverables.</li><li>Make sure grant writers know the specific programme’s rules and deadlines.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>The type and size of funding, how much preparation your business needs, and the fee model. Grant writing and investor-readiness work are often fixed fees; brokers and placement agents may charge success fees where permitted.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can an adviser guarantee funding?",
+      "a": "No. Funders make their own decisions. A good adviser improves your chances by matching you to the right funding and strengthening your application."
+    },
+    {
+      "q": "Do I need a pitch deck and financial model?",
+      "a": "For equity investment, almost always. Lenders and grant bodies usually ask for a business plan and forecasts too."
+    },
+    {
+      "q": "What is a success fee?",
+      "a": "A fee paid only if you secure funding, usually a percentage. Whether it’s allowed depends on the type of funding and local rules."
+    }
+  ],
+  "related": [
+    "accounting",
+    "management-consulting",
+    "legal-services"
+  ],
+  "keywords": [
+    "funding adviser",
+    "grant writer",
+    "grant funding",
+    "raise investment",
+    "fundraising consultant",
+    "pitch deck",
+    "business loan broker",
+    "investor readiness"
+  ],
+  "cardText": "Grants, business loans, investor readiness, pitch decks and financial models.",
+  "ctaTitle": "Need funding help? Search ProSourced"
+}

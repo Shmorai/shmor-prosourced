@@ -4,7 +4,7 @@
   "nav": "All services",
   "navOrder": 1,
   "title": "All Business Services: Find Professionals in Every Sector",
-  "description": "Browse every ProSourced category: accounting, payroll, HR, consulting, web design, marketing, branding, legal, IT, virtual assistants, translation and more.",
+  "description": "Browse all 26 ProSourced categories: accounting, tax, payroll, HR, consulting, legal, web and software, AI, marketing, PR, ecommerce, logistics and more.",
   "eyebrow": "Every sector, one marketplace",
   "h1": "Business services for every part of your company",
   "intro": "Pick a category to see what good looks like, what to ask and what affects the cost. Then brief several professionals and compare their quotes.",
@@ -17,19 +17,39 @@
   "blocks": [
     {
       "type": "tiles",
-      "title": "Finance and people",
+      "title": "Finance and tax",
       "items": [
         {
           "slug": "accounting"
         },
         {
+          "slug": "bookkeeping"
+        },
+        {
+          "slug": "tax-advisory"
+        },
+        {
           "slug": "payroll"
         },
+        {
+          "slug": "funding-advisers"
+        }
+      ],
+      "feature": false,
+      "class": "tiles-services"
+    },
+    {
+      "type": "tiles",
+      "title": "People and safety",
+      "items": [
         {
           "slug": "hr-outsourcing"
         },
         {
           "slug": "recruitment"
+        },
+        {
+          "slug": "health-and-safety"
         }
       ],
       "feature": false,
@@ -47,6 +67,9 @@
         },
         {
           "slug": "company-formation"
+        },
+        {
+          "slug": "sustainability-consulting"
         }
       ],
       "feature": false,
@@ -54,11 +77,8 @@
     },
     {
       "type": "tiles",
-      "title": "Digital, brand and growth",
+      "title": "Marketing and brand",
       "items": [
-        {
-          "slug": "web-design"
-        },
         {
           "slug": "digital-marketing"
         },
@@ -66,7 +86,13 @@
           "slug": "branding"
         },
         {
-          "slug": "translation"
+          "slug": "copywriting"
+        },
+        {
+          "slug": "public-relations"
+        },
+        {
+          "slug": "video-production"
         }
       ],
       "feature": false,
@@ -74,13 +100,42 @@
     },
     {
       "type": "tiles",
-      "title": "Operations and support",
+      "title": "Digital and technology",
       "items": [
         {
-          "slug": "it-cyber-security"
+          "slug": "web-design"
         },
         {
+          "slug": "software-development"
+        },
+        {
+          "slug": "ai-automation"
+        },
+        {
+          "slug": "it-cyber-security"
+        }
+      ],
+      "feature": false,
+      "class": "tiles-services"
+    },
+    {
+      "type": "tiles",
+      "title": "Operations and going global",
+      "items": [
+        {
           "slug": "virtual-assistants"
+        },
+        {
+          "slug": "customer-support-outsourcing"
+        },
+        {
+          "slug": "ecommerce-management"
+        },
+        {
+          "slug": "logistics-fulfilment"
+        },
+        {
+          "slug": "translation"
         }
       ],
       "feature": false,

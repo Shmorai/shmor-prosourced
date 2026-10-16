@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "health-and-safety",
+  "nav": "Health & safety",
+  "title": "Health & Safety Consultants: Risk Assessments and Compliance",
+  "description": "Compare health and safety consultants for risk assessments, policies, training, audits, fire safety and ISO 45001, with guidance for the US, UK and EU.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Health and safety consultants to protect your people",
+  "intro": "Every employer has safety duties. Compare consultants who can assess risks, write policies, train staff and help you meet the rules where you operate.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768158988512-ad31657fe5b8",
+    "alt": "A yellow hard hat resting on a wooden pallet",
+    "credit": "Richard Heinen",
+    "creditUrl": "https://unsplash.com/@richard_he"
+  },
+  "searchPlaceholder": "Search health & safety and other services…",
+  "chips": [
+    {
+      "label": "Risk assessments",
+      "q": "risk assessments"
+    },
+    {
+      "label": "Policies & training",
+      "q": "policies & training"
+    },
+    {
+      "label": "Audits",
+      "q": "audits"
+    },
+    {
+      "label": "ISO 45001",
+      "q": "iso 45001"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from health and safety consultants</h2><p>Write one clear brief with our free builder, then send it to several health and safety consultants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=health-and-safety\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What safety consultants help with",
+      "html": "<ul><li>Workplace and task risk assessments.</li><li>Health and safety policies and procedures.</li><li>Fire risk assessments.</li><li>Training, inductions and toolbox talks.</li><li>Accident investigation and reporting.</li><li>Audits and ISO 45001 certification support.</li></ul>"
+    },
+    {
+      "h2": "The rules by region",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1787630551590-48debd4bd588?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1787630551590-48debd4bd588?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1787630551590-48debd4bd588?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1787630551590-48debd4bd588?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1787630551590-48debd4bd588?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A white hard hat and construction tools in a red container\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@olezhanjudi?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Oleg</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>UK:</strong> the Health and Safety at Work etc. Act 1974, enforced by the HSE. Employers must assess risks, and those with five or more employees must write down their significant findings and have a written policy.</li><li><strong>US:</strong> the Occupational Safety and Health Act, enforced by OSHA, with some states running their own approved plans.</li><li><strong>EU:</strong> the Framework Directive 89/391/EEC sets minimum duties, applied through national law. EU-OSHA publishes guidance and free OiRA risk-assessment tools.</li></ul>"
+    },
+    {
+      "h2": "Credentials to look for",
+      "html": "<ul><li>NEBOSH qualifications and IOSH membership (common in the UK and internationally).</li><li>In the US, certifications such as the Certified Safety Professional (CSP) from BCSP.</li><li>Experience in your sector, such as construction, manufacturing, offices or hospitality.</li></ul><p>For construction contracts and disputes, see our sister site <a href=\"https://buildlaw.shmor.ai/\">BuildLaw</a>.</p>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Number of sites and employees, the level of risk in your work, how much documentation exists, training needs and whether you want ongoing retained support or a one-off review.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do small businesses need a risk assessment?",
+      "a": "In most countries, yes. Employers must assess workplace risks. In the UK, those with five or more employees must record the significant findings."
+    },
+    {
+      "q": "Can I do health and safety myself?",
+      "a": "Many low-risk businesses can, using official guidance. Higher-risk work or a lack of in-house expertise is when a consultant helps most."
+    },
+    {
+      "q": "What is ISO 45001?",
+      "a": "The international standard for occupational health and safety management systems."
+    }
+  ],
+  "related": [
+    "hr-outsourcing",
+    "sustainability-consulting",
+    "legal-services"
+  ],
+  "keywords": [
+    "health and safety consultant",
+    "safety consultant",
+    "risk assessment",
+    "osha compliance",
+    "fire risk assessment",
+    "iso 45001",
+    "workplace safety",
+    "safety training"
+  ],
+  "cardText": "Risk assessments, policies, training, audits and ISO 45001.",
+  "ctaTitle": "Need health & safety help? Search ProSourced"
+}

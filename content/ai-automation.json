@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "ai-automation",
+  "nav": "AI & automation",
+  "title": "AI & Automation Consultants for Small and Growing Businesses",
+  "description": "Compare AI and automation consultants for workflow automation, AI assistants, chatbots, document processing and data projects, built with AI rules in mind.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "AI and automation experts to save your team hours every week",
+  "intro": "Automate repetitive work, add AI assistants to your tools, and turn your data into answers. Compare consultants and agencies who can deliver it safely.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a",
+    "alt": "Robot and human hands reaching towards the letters AI",
+    "credit": "Igor Omilaev",
+    "creditUrl": "https://unsplash.com/@omilaev"
+  },
+  "searchPlaceholder": "Search ai & automation and other services…",
+  "chips": [
+    {
+      "label": "Workflow automation",
+      "q": "workflow automation"
+    },
+    {
+      "label": "AI assistants",
+      "q": "ai assistants"
+    },
+    {
+      "label": "Chatbots",
+      "q": "chatbots"
+    },
+    {
+      "label": "Data & reporting",
+      "q": "data & reporting"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from AI and automation consultants</h2><p>Write one clear brief with our free builder, then send it to several AI and automation consultants and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=ai-automation\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where AI and automation help",
+      "html": "<ul><li>Connecting apps so data flows without copy-and-paste.</li><li>AI assistants that draft emails, summaries and reports.</li><li>Customer-service chatbots with a clear hand-off to a person.</li><li>Reading invoices, forms and contracts automatically.</li><li>Dashboards and forecasts from your existing data.</li><li>Training your team to use AI tools well.</li></ul>"
+    },
+    {
+      "h2": "Rules and frameworks to know",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A white robot against a black background\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@gabrielemalaspina?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Gabriele Malaspina</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>EU:</strong> the AI Act (Regulation (EU) 2024/1689) entered into force in August 2024, with obligations phasing in over several years. Some uses are banned, “high-risk” uses face strict duties, and chatbots must tell people they’re talking to AI.</li><li><strong>US:</strong> NIST’s AI Risk Management Framework is free, voluntary guidance used widely by businesses. Existing consumer-protection and anti-discrimination laws still apply to AI.</li><li><strong>UK:</strong> regulators apply existing law to AI in their sectors. The ICO has guidance on AI and data protection.</li><li><strong>Everywhere:</strong> if personal data goes into an AI tool, data protection law applies.</li></ul>"
+    },
+    {
+      "h2": "How to choose a consultant",
+      "html": "<ul><li>Start with one high-value, low-risk process and measure the time saved.</li><li>Ask which tools and models they use, and why.</li><li>Check where your data goes, how it’s stored, and whether it’s used to train models.</li><li>Make sure you’ll own the workflows and can run them without the consultant.</li><li>Ask how they test accuracy and keep a person in the loop for important decisions.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>The number of processes and systems, data quality, custom development, software subscriptions and usage fees, and training. Many consultants start with a paid discovery or pilot before a larger project.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is AI safe for my customer data?",
+      "a": "It can be, with the right tools and settings. Check each tool’s data terms, use business plans that don’t train on your data where available, and limit what personal data you share."
+    },
+    {
+      "q": "Will automation replace my staff?",
+      "a": "Most small businesses use it to remove repetitive tasks so people can focus on customers and higher-value work."
+    },
+    {
+      "q": "Do I need custom AI, or off-the-shelf tools?",
+      "a": "Off-the-shelf tools cover many needs. Custom work makes sense when you have unique processes or data."
+    }
+  ],
+  "related": [
+    "software-development",
+    "customer-support-outsourcing",
+    "it-cyber-security"
+  ],
+  "keywords": [
+    "ai consultant",
+    "ai automation",
+    "business automation",
+    "workflow automation",
+    "ai agency",
+    "chatbot development",
+    "process automation",
+    "ai implementation"
+  ],
+  "cardText": "Workflow automation, AI assistants, chatbots, document processing and data.",
+  "ctaTitle": "Need ai & automation help? Search ProSourced"
+}

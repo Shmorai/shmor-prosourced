@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "tax-advisory",
+  "nav": "Tax advisers",
+  "title": "Tax Advisers: International, VAT and Corporate Tax Help",
+  "description": "Compare tax advisers for corporate tax, VAT and GST, sales tax, international tax, transfer pricing and tax disputes, for businesses trading across borders.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Tax advisers for businesses that trade across borders",
+  "intro": "Selling abroad, hiring overseas or growing a group of companies brings tax questions your everyday accountant may not cover. Compare specialist tax advisers in the countries you trade in.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-22dec7ec8818",
+    "alt": "Coffee mug beside sheets of tax paperwork on a desk",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "searchPlaceholder": "Search tax advisers and other services…",
+  "chips": [
+    {
+      "label": "International tax",
+      "q": "international tax"
+    },
+    {
+      "label": "VAT & GST",
+      "q": "vat & gst"
+    },
+    {
+      "label": "US sales tax",
+      "q": "us sales tax"
+    },
+    {
+      "label": "Transfer pricing",
+      "q": "transfer pricing"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from tax advisers</h2><p>Write one clear brief with our free builder, then send it to several tax advisers and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=tax-advisory\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What tax advisers help with",
+      "html": "<ul><li>Corporate and business tax planning within the rules.</li><li>VAT and GST registrations, returns and cross-border rules.</li><li>US sales tax: where you have “nexus” and must collect it.</li><li>International structures, permanent establishment and double-tax treaties.</li><li>Transfer pricing between companies in the same group.</li><li>Tax investigations, enquiries and disputes.</li><li>Incentives such as research and development tax relief.</li></ul>"
+    },
+    {
+      "h2": "Key cross-border rules to know",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"Close-up of stacked banknotes\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@giorgiotrovato?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Giorgio Trovato</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>EU VAT:</strong> the One Stop Shop (OSS) lets businesses selling to consumers in other EU countries report VAT through one registration. Imports up to €150 can use the Import One Stop Shop (IOSS).</li><li><strong>US sales tax:</strong> since the Supreme Court’s 2018 <em>Wayfair</em> decision, states can require remote sellers to collect sales tax once they pass economic thresholds, which vary by state.</li><li><strong>Transfer pricing:</strong> most countries follow the OECD Transfer Pricing Guidelines, based on the arm’s-length principle.</li><li><strong>Global minimum tax:</strong> the OECD Pillar Two rules target large groups with annual revenue of €750 million or more.</li></ul>"
+    },
+    {
+      "h2": "Credentials to look for",
+      "html": "<ul><li><strong>UK:</strong> Chartered Tax Advisers (CTA) and members of the CIOT or ATT.</li><li><strong>US:</strong> CPAs, Enrolled Agents and tax attorneys can represent taxpayers before the IRS.</li><li><strong>Germany:</strong> Steuerberater; other countries have their own protected titles.</li><li><strong>Everywhere:</strong> ask about experience with your specific countries and transaction types.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Complexity, the number of countries, deadlines and whether it’s a one-off question or ongoing compliance. Advisory work is often hourly or a fixed project fee; ongoing filings are often monthly or annual packages.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a tax adviser or an accountant?",
+      "a": "An accountant handles everyday accounts and returns. A tax adviser goes deeper on specific or cross-border tax questions. Many firms offer both."
+    },
+    {
+      "q": "When must I register for VAT in another EU country?",
+      "a": "It depends on what you sell, to whom and how. The OSS covers many distance sales to consumers. Take advice for your situation."
+    },
+    {
+      "q": "Is tax planning legal?",
+      "a": "Using reliefs and structures as the law intends is legal. Aggressive schemes that rely on artificial arrangements can be challenged. Reputable advisers will tell you the difference."
+    }
+  ],
+  "related": [
+    "accounting",
+    "company-formation",
+    "ecommerce-management"
+  ],
+  "keywords": [
+    "tax adviser",
+    "tax advisor",
+    "international tax",
+    "vat adviser",
+    "transfer pricing",
+    "cross-border tax",
+    "corporate tax adviser",
+    "sales tax nexus"
+  ],
+  "cardText": "Corporate tax, VAT and sales tax, international tax and transfer pricing.",
+  "ctaTitle": "Need tax advisers help? Search ProSourced"
+}

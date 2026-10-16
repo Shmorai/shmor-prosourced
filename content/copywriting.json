@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-16",
+  "slug": "copywriting",
+  "nav": "Copywriting",
+  "title": "Copywriters & Content Writers for Websites, Ads and Email",
+  "description": "Compare copywriters and content writers for websites, product pages, ads, emails, case studies and SEO articles. Clear, honest copy that sells in any market.",
+  "eyebrow": "ProSourced · Business services",
+  "h1": "Copywriters who turn visitors into customers",
+  "intro": "Words do the selling on your website, ads and emails. Compare copywriters and content writers who know your sector, your audience and your market’s rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1590680814499-40ed81fd153c",
+    "alt": "Sheet of paper in a black typewriter",
+    "credit": "Susan Weber",
+    "creditUrl": "https://unsplash.com/@havasuartist"
+  },
+  "searchPlaceholder": "Search copywriting and other services…",
+  "chips": [
+    {
+      "label": "Website copy",
+      "q": "website copy"
+    },
+    {
+      "label": "SEO articles",
+      "q": "seo articles"
+    },
+    {
+      "label": "Email & ads",
+      "q": "email & ads"
+    },
+    {
+      "label": "Case studies",
+      "q": "case studies"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free to use",
+      "text": "Comparing professionals and using our tools costs you nothing."
+    },
+    {
+      "title": "Global by default",
+      "text": "Find help where you trade: the US, UK, Europe and beyond, in person or remote."
+    },
+    {
+      "title": "Compare, then choose",
+      "text": "Weigh up experience, approach and price from more than one provider."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire when it’s right. You agree terms directly with the professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "quote-band",
+      "html": "<div class=\"quote-cta\"><div><h2>Get quotes from copywriters</h2><p>Write one clear brief with our free builder, then send it to several copywriters and compare their proposals side by side.</p></div><a class=\"btn\" href=\"/free-tools/project-brief-builder/?service=copywriting\">Start your free brief →</a></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What copywriters write",
+      "html": "<ul><li>Website pages, landing pages and product descriptions.</li><li>Ads for search, social and print.</li><li>Email sequences and newsletters.</li><li>SEO articles and guides.</li><li>Case studies, white papers and sales decks.</li><li>Brand messaging and tone-of-voice guides.</li></ul>"
+    },
+    {
+      "h2": "Keep it honest and compliant",
+      "html": "<figure class=\"prose-fig\"><img src=\"https://images.unsplash.com/photo-1563377130502-4ffb19651ecd?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format\" srcset=\"https://images.unsplash.com/photo-1563377130502-4ffb19651ecd?w=600&amp;h=338&amp;fit=crop&amp;q=70&amp;auto=format 600w, https://images.unsplash.com/photo-1563377130502-4ffb19651ecd?w=900&amp;h=506&amp;fit=crop&amp;q=70&amp;auto=format 900w, https://images.unsplash.com/photo-1563377130502-4ffb19651ecd?w=1200&amp;h=675&amp;fit=crop&amp;q=70&amp;auto=format 1200w, https://images.unsplash.com/photo-1563377130502-4ffb19651ecd?w=1600&amp;h=900&amp;fit=crop&amp;q=70&amp;auto=format 1600w\" sizes=\"(max-width: 800px) 100vw, 760px\" width=\"1200\" height=\"675\" alt=\"A black typewriter\" loading=\"lazy\" decoding=\"async\"><figcaption>Photo: <a href=\"https://unsplash.com/@damlaozkan?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Damla Özkan</a> on <a href=\"https://unsplash.com/?utm_source=shmor&utm_medium=referral\" rel=\"nofollow noopener\" target=\"_blank\">Unsplash</a></figcaption></figure><ul><li><strong>UK:</strong> the CAP Code, enforced by the Advertising Standards Authority, says ads must be legal, decent, honest and truthful.</li><li><strong>US:</strong> the FTC requires advertising to be truthful and claims to be backed by evidence, and endorsements to be clearly disclosed.</li><li><strong>EU:</strong> the Unfair Commercial Practices Directive bans misleading and aggressive marketing to consumers.</li><li><strong>Regulated sectors:</strong> finance, health and similar areas have extra rules. Choose a writer with that experience.</li></ul><p>Writing for several countries? Pair your copywriter with <a href=\"/translation/\">translation and transcreation</a>.</p>"
+    },
+    {
+      "h2": "How to choose a writer",
+      "html": "<ul><li>Read samples in your format, such as product pages or long-form guides.</li><li>Ask how they research your audience and competitors.</li><li>Agree the number of revision rounds.</li><li>Check that copyright passes to you on payment.</li><li>Ask whether, and how, they use AI tools, and how they check facts.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost",
+      "html": "<p>Length, research depth, technical complexity, experience, and whether strategy or SEO keyword research is included. Writers charge per project, per word, per hour or on a monthly retainer for ongoing content.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What’s the difference between copywriting and content writing?",
+      "a": "Copywriting aims to persuade someone to act, like buying or signing up. Content writing informs and builds trust, like blog posts and guides. Many writers do both."
+    },
+    {
+      "q": "Can a copywriter help with SEO?",
+      "a": "Many can write search-friendly pages and articles. For technical SEO and link building, see digital marketing."
+    },
+    {
+      "q": "Should I use AI to write my copy?",
+      "a": "AI can help with drafts and ideas. A skilled writer adds accuracy, originality and a voice that fits your brand."
+    }
+  ],
+  "related": [
+    "digital-marketing",
+    "branding",
+    "web-design"
+  ],
+  "keywords": [
+    "copywriter",
+    "copywriting services",
+    "content writer",
+    "seo copywriter",
+    "website copywriter",
+    "b2b copywriter",
+    "ghostwriter",
+    "content writing"
+  ],
+  "cardText": "Website and product copy, ads, emails, case studies and SEO content.",
+  "ctaTitle": "Need copywriting help? Search ProSourced"
+}
