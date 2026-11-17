@@ -405,3 +405,9 @@ h1, h2, h3, h4 { font-weight: 700; }
 .tiles-services .tile-shade { background: linear-gradient(180deg, rgba(12,10,20,.05) 20%, rgba(12,10,20,.9) 100%); }
 .tiles-services .tile-body p { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .tiles-services .tile-feature .tile-body p { -webkit-line-clamp: 3; }
+
+
+/* Affiliate disclosure bar at the top of every page (tools/build.js "aff-top"). Theme-neutral: inherits each site's colours. */
+.aff-top { order: -99; font-size: 12.5px; line-height: 1.5; border-bottom: 1px solid color-mix(in srgb, currentColor 14%, transparent); }
+.aff-top p { margin: 0; padding: 7px 0; opacity: .78; }
+.aff-top a { text-decoration: underline; text-underline-offset: 2px; white-space: nowrap; }
