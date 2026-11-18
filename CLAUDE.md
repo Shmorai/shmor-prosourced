@@ -40,8 +40,8 @@ node tools/serve.js <port>    # local preview (see the "prosourced" preview conf
 After changing `shmor-site.json`, also run `node tools/sync-network.js` in `../../shmor-ai`.
 
 ## Affiliate partners (live, added 2026-11-18)
-- **Corel** (CJ advertiser 998086): 10% (5% on upgrades), 45–60-day cookie. Terms: no Corel/product names in our domains or URLs (slugs ), CJ creatives only, programme codes only, no keyword bidding outside the Americas. Codes for the **ProSourced property (PID 101926926)**: evergreen , CorelDRAW Go , CorelDRAW Graphics Suite ; CorelDRAW Go banners 728x90 + 300x250 (self-hosted JPGs in ). 200+ older (2023-era) creatives not used.
-- **24-7PressRelease** (CJ 2898768): $15 per first press release ($20 after $225 total), 45-day cookie; no brand bidding; never say "free press release". Text links only (no banners in CJ): ,  (pricing page).
+- **Corel** (CJ advertiser 998086): 10% (5% on upgrades), 45–60-day cookie. Terms: no Corel/product names in our domains or URLs (slugs `cj998086-*`), CJ creatives only, programme codes only, no keyword bidding outside the Americas. Codes for the **ProSourced property (PID 101926926)**: evergreen `cj998086-home`, CorelDRAW Go `cj998086-go`, CorelDRAW Graphics Suite `cj998086-suite`; CorelDRAW Go banners 728x90 + 300x250 (self-hosted JPGs in `assets/img/partners/`). 200+ older (2023-era) creatives not used.
+- **24-7PressRelease** (CJ 2898768): $15 per first press release ($20 after $225 total), 45-day cookie; no brand bidding; never say "free press release". Text links only (no banners in CJ): `cj2898768-home`, `cj2898768-plans` (pricing page).
 - Placed: branding (cards + Corel links + Go banner), web-design (vector files tip), website-design-brief post, free-tools (cards), public-relations (card, link, plans button), digital-marketing (link). ProFinders could take both later.
 
 ## Referral links
