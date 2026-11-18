@@ -1,6 +1,6 @@
 # ProSourced (prosourced.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes. Repo: `Shmorai/shmor-prosourced` (private until launch). Status: **building**.
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. A global marketplace to find and compare accountants, payroll, HR, consultants, web designers, marketers and more, with free quotes. Repo: `Shmorai/shmor-prosourced` (private until launch). Status: **live**, with CJ referral links (see "Affiliate partners").
 
 ## Where things are
 | What | Where |
@@ -38,6 +38,11 @@ node tools/build.js           # rebuild after ANY change to content/, templates/
 node tools/serve.js <port>    # local preview (see the "prosourced" preview config)
 ```
 After changing `shmor-site.json`, also run `node tools/sync-network.js` in `../../shmor-ai`.
+
+## Affiliate partners (live, added 2026-11-18)
+- **Corel** (CJ advertiser 998086): 10% (5% on upgrades), 45–60-day cookie. Terms: no Corel/product names in our domains or URLs (slugs ), CJ creatives only, programme codes only, no keyword bidding outside the Americas. Codes for the **ProSourced property (PID 101926926)**: evergreen , CorelDRAW Go , CorelDRAW Graphics Suite ; CorelDRAW Go banners 728x90 + 300x250 (self-hosted JPGs in ). 200+ older (2023-era) creatives not used.
+- **24-7PressRelease** (CJ 2898768): $15 per first press release ($20 after $225 total), 45-day cookie; no brand bidding; never say "free press release". Text links only (no banners in CJ): ,  (pricing page).
+- Placed: branding (cards + Corel links + Go banner), web-design (vector files tip), website-design-brief post, free-tools (cards), public-relations (card, link, plans button), digital-marketing (link). ProFinders could take both later.
 
 ## Referral links
 None yet. Planned: Bark-style quote platforms and EOR / payroll / agency partners. Add to `shmor-site.json` → `"links"`, list slugs in each sector page's `"partners"` (or add `"offers"`), optionally set `"fallback"`, rebuild, sync the master, then commit both repos.

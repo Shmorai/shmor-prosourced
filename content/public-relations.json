@@ -60,7 +60,7 @@
   "sections": [
     {
       "h2": "What PR covers",
-      "html": "<ul><li>Press releases and pitching journalists.</li><li>Launches and announcements.</li><li>Founder and executive profile-building.</li><li>Awards, speaking and events.</li><li>Crisis and issues management.</li><li>Internal and investor communications.</li></ul>"
+      "html": "<ul><li>Press releases and pitching journalists.</li><li>Launches and announcements.</li><li>Founder and executive profile-building.</li><li>Awards, speaking and events.</li><li>Crisis and issues management.</li><li>Internal and investor communications.</li></ul>\n<p>If you write your own announcement, a paid distribution service such as [[link:cj2898768-home|24-7PressRelease]] can send it to news sites and search engines. It’s no substitute for an agency’s media relationships, but suits small, factual news.</p>"
     },
     {
       "h2": "Professional bodies",
@@ -72,7 +72,7 @@
     },
     {
       "h2": "What affects the cost",
-      "html": "<p>Scope, the number of markets and languages, seniority of the team, and whether events, media training or monitoring tools are included. Most agencies work on monthly retainers; launches and crisis work may be priced as projects.</p>"
+      "html": "<p>Scope, the number of markets and languages, seniority of the team, and whether events, media training or monitoring tools are included. Most agencies work on monthly retainers; launches and crisis work may be priced as projects.</p>\n[[button:cj2898768-plans|See 24-7PressRelease distribution plans]]"
     }
   ],
   "faqs": [
@@ -105,5 +105,9 @@
     "tech pr"
   ],
   "cardText": "Media relations, launches, thought leadership and crisis communications.",
-  "ctaTitle": "Need pr help? Search ProSourced"
+  "ctaTitle": "Need pr help? Search ProSourced",
+  "partners": [
+    "cj2898768-home"
+  ],
+  "partnersTitle": "Tools from our partners"
 }

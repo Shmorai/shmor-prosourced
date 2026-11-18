@@ -164,7 +164,62 @@
     }
   ],
   "offers": [],
-  "links": {},
+  "links": {
+    "cj998086-home": {
+      "merchant": "Corel",
+      "network": "cj",
+      "url": "https://www.tkqlhce.com/click-101926926-15734376",
+      "blurb": "Corel makes design, photo, video and document software, including CorelDRAW."
+    },
+    "cj998086-go": {
+      "merchant": "Corel",
+      "network": "cj",
+      "url": "https://www.dpbolvw.net/click-101926926-17040074",
+      "blurb": "CorelDRAW Go: simple design software for social posts, flyers and branded graphics."
+    },
+    "cj998086-suite": {
+      "merchant": "Corel",
+      "network": "cj",
+      "url": "https://www.anrdoezrs.net/click-101926926-17254962",
+      "blurb": "CorelDRAW Graphics Suite: professional vector illustration, layout and logo design."
+    },
+    "cj998086-b-go-728": {
+      "merchant": "Corel",
+      "network": "cj",
+      "url": "https://www.anrdoezrs.net/click-101926926-17040544",
+      "banner": {
+        "src": "/assets/img/partners/cj998086-b-go-728.jpg",
+        "cjSrc": "https://www.awltovhc.com/image-101926926-17040544",
+        "width": 728,
+        "height": 90,
+        "alt": "CorelDRAW Go: freedom to design beyond templates"
+      }
+    },
+    "cj998086-b-go-300": {
+      "merchant": "Corel",
+      "network": "cj",
+      "url": "https://www.anrdoezrs.net/click-101926926-17040543",
+      "banner": {
+        "src": "/assets/img/partners/cj998086-b-go-300.jpg",
+        "cjSrc": "https://www.tqlkg.com/image-101926926-17040543",
+        "width": 300,
+        "height": 250,
+        "alt": "CorelDRAW Go: create unique designs, zero learning curve"
+      }
+    },
+    "cj2898768-home": {
+      "merchant": "24-7PressRelease",
+      "network": "cj",
+      "url": "https://www.kqzyfj.com/click-101926926-15734478",
+      "blurb": "24-7PressRelease distributes your press release to news sites, search engines and journalists."
+    },
+    "cj2898768-plans": {
+      "merchant": "24-7PressRelease",
+      "network": "cj",
+      "url": "https://www.jdoqocy.com/click-101926926-10754877",
+      "blurb": "Compare 24-7PressRelease distribution plans."
+    }
+  },
   "seo": {
     "siteName": "ProSourced",
     "description": "ProSourced is a global marketplace for business services: compare accountants, tax, payroll, HR, consultants, developers, marketers, lawyers and more.",

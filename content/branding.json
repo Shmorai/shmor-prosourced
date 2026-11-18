@@ -60,7 +60,7 @@
   "sections": [
     {
       "h2": "What branding work includes",
-      "html": "<ul><li>Brand strategy: positioning, audience, personality and messaging.</li><li>Naming, with checks that the name is available.</li><li>Logo, colour palette, typography and imagery style.</li><li>Brand guidelines so everyone uses the brand consistently.</li><li>Applications: website, social templates, packaging, signage and print.</li></ul>"
+      "html": "<ul><li>Brand strategy: positioning, audience, personality and messaging.</li><li>Naming, with checks that the name is available.</li><li>Logo, colour palette, typography and imagery style.</li><li>Brand guidelines so everyone uses the brand consistently.</li><li>Applications: website, social templates, packaging, signage and print.</li></ul>\n<p>For everyday graphics once your identity is set, such as social posts and flyers, some businesses use tools like [[link:cj998086-go|CorelDRAW Go]] in-house and keep the designer for the core brand work. Professional designers often work in software such as [[link:cj998086-suite|CorelDRAW Graphics Suite]].</p>\n[[banner:cj998086-b-go-728|cj998086-b-go-300]]"
     },
     {
       "h2": "Protect your brand before you launch",
@@ -105,5 +105,10 @@
     "business naming"
   ],
   "cardText": "Logos, brand identity, naming, packaging and marketing design.",
-  "ctaTitle": "Need branding help? Search ProSourced"
+  "ctaTitle": "Need branding help? Search ProSourced",
+  "partners": [
+    "cj998086-go",
+    "cj998086-suite"
+  ],
+  "partnersTitle": "Tools from our partners"
 }
