@@ -60,7 +60,7 @@
   "sections": [
     {
       "h2": "What IT and security providers do",
-      "html": "<ul><li>Help-desk support for staff, on site or remote.</li><li>Devices, networks, Wi-Fi and phone systems.</li><li>Cloud email and files, such as Microsoft 365 or Google Workspace.</li><li>Backups and disaster recovery.</li><li>Security: multi-factor authentication, patching, endpoint protection and staff training.</li><li>Help reaching certifications that customers ask for.</li></ul>"
+      "html": "<ul><li>Help-desk support for staff, on site or remote.</li><li>Devices, networks, Wi-Fi and phone systems.</li><li>Cloud email and files, such as Microsoft 365 or Google Workspace.</li><li>Backups and disaster recovery.</li><li>Security: multi-factor authentication, patching, endpoint protection and staff training.</li><li>Help reaching certifications that customers ask for.</li></ul>\n<p>Even with a provider, keep your own backups: a scheduled backup tool such as [[link:cj7529241-backupper|AOMEI Backupper]] plus an offline or cloud copy means you can recover from ransomware or a failed disk. Remote-support tools such as [[link:cj7529241-anyviewer|AnyViewer]] let a provider fix PCs without a site visit.</p>"
     },
     {
       "h2": "Security frameworks and certifications",
@@ -106,5 +106,10 @@
     "microsoft 365 support"
   ],
   "cardText": "Managed IT, cloud and Microsoft 365, backups, security reviews and certification.",
-  "ctaTitle": "Need it & cyber help? Search ProSourced"
+  "ctaTitle": "Need it & cyber help? Search ProSourced",
+  "partners": [
+    "cj7529241-backupper",
+    "cj7529241-anyviewer"
+  ],
+  "partnersTitle": "Tools from our partners"
 }
