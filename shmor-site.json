@@ -242,6 +242,48 @@
       "network": "cj",
       "url": "https://www.tkqlhce.com/click-101926926-17143103",
       "blurb": "AOMEI AnyViewer: remote desktop software for remote IT support."
+    },
+    "cj5113136-home": {
+      "merchant": "FlexJobs",
+      "network": "cj",
+      "url": "https://www.kqzyfj.com/click-101926926-15734834",
+      "blurb": "FlexJobs: a subscription job board of hand-screened remote, hybrid and flexible jobs."
+    },
+    "cj5113136-jobs": {
+      "merchant": "FlexJobs",
+      "network": "cj",
+      "url": "https://www.anrdoezrs.net/click-101926926-13413287",
+      "blurb": "Search remote and flexible jobs on FlexJobs."
+    },
+    "cj5113136-tour": {
+      "merchant": "FlexJobs",
+      "network": "cj",
+      "url": "https://www.tkqlhce.com/click-101926926-13413290",
+      "blurb": "Take FlexJobs’ quick tour to see how it screens job listings."
+    },
+    "cj5113136-b-728": {
+      "merchant": "FlexJobs",
+      "network": "cj",
+      "url": "https://www.dpbolvw.net/click-101926926-15681497",
+      "banner": {
+        "src": "/assets/img/partners/cj5113136-b-728.png",
+        "cjSrc": "https://www.tqlkg.com/image-101926926-15681497",
+        "width": 728,
+        "height": 90,
+        "alt": "FlexJobs: access the best remote jobs"
+      }
+    },
+    "cj5113136-b-300": {
+      "merchant": "FlexJobs",
+      "network": "cj",
+      "url": "https://www.anrdoezrs.net/click-101926926-15681483",
+      "banner": {
+        "src": "/assets/img/partners/cj5113136-b-300.png",
+        "cjSrc": "https://www.ftjcfx.com/image-101926926-15681483",
+        "width": 300,
+        "height": 250,
+        "alt": "FlexJobs: access the best remote jobs"
+      }
     }
   },
   "seo": {

@@ -22,7 +22,7 @@
     },
     {
       "h2": "Win more work from every lead",
-      "html": "<ul><li>Reply quickly and answer the brief point by point.</li><li>Show credentials, registrations and insurance up front.</li><li>Give a clear price and say exactly what’s included.</li><li>Share two or three case studies from similar clients.</li></ul><p>Not sure what to charge? Try the free <a href=\"/free-tools/hourly-rate-calculator/\">hourly and day rate calculator</a>.</p>"
+      "html": "<ul><li>Reply quickly and answer the brief point by point.</li><li>Show credentials, registrations and insurance up front.</li><li>Give a clear price and say exactly what’s included.</li><li>Share two or three case studies from similar clients.</li></ul><p>Not sure what to charge? Try the free <a href=\"/free-tools/hourly-rate-calculator/\">hourly and day rate calculator</a>.</p>\n<p>Between client projects, many freelancers also look for remote contracts on job boards such as [[link:cj5113136-jobs|FlexJobs]], which screens its listings (it charges job seekers a subscription; see its [[link:cj5113136-tour|tour]] first).</p>\n[[banner:cj5113136-b-728|cj5113136-b-300]]"
     }
   ],
   "faqs": [
@@ -47,5 +47,9 @@
     "leads for consultants",
     "freelance clients"
   ],
-  "cardText": "How accountants, consultants, designers and other pros can reach more clients."
+  "cardText": "How accountants, consultants, designers and other pros can reach more clients.",
+  "partners": [
+    "cj5113136-home"
+  ],
+  "partnersTitle": "Tools from our partners"
 }
