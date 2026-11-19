@@ -1,0 +1,90 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "slug": "blog/making-tax-digital-income-tax-accountant",
+  "type": "post",
+  "title": "Making Tax Digital for Income Tax: Need an Accountant?",
+  "description": "MTD for Income Tax: who must use it from April 2026, 2027 and 2028, what quarterly updates involve, and when to hire an accountant or bookkeeper.",
+  "h1": "Making Tax Digital for Income Tax: do you need an accountant?",
+  "eyebrow": "Accounting · UK tax",
+  "intro": "UK sole traders and landlords above set income levels now have to keep digital records and send HMRC quarterly updates. The first group started on 6 April 2026, and the threshold falls in 2027 and 2028. Here is who is affected, what the work involves, and how to decide between software, a bookkeeper and an accountant.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Aurora_electronic_calculator_DT210_02.jpg/1920px-Aurora_electronic_calculator_DT210_02.jpg",
+    "alt": "A grey desktop electronic calculator on a white background",
+    "credit": "Coyau / CC BY-SA 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aurora_electronic_calculator_DT210_02.jpg"
+  },
+  "keywords": [
+    "making tax digital for income tax",
+    "mtd for income tax",
+    "mtd itsa",
+    "do i need an accountant for mtd",
+    "mtd quarterly updates",
+    "making tax digital sole traders",
+    "making tax digital landlords",
+    "mtd 2027 £30,000",
+    "mtd software uk",
+    "hmrc quarterly updates deadlines"
+  ],
+  "cardText": "Who must use Making Tax Digital for Income Tax, what quarterly updates involve and when to hire help.",
+  "sections": [
+    {
+      "h2": "Who has to use Making Tax Digital for Income Tax?",
+      "html": "<p>HMRC's start dates are based on your <strong>qualifying income</strong>: gross income from self-employment and property, before expenses, taken from an earlier tax year.</p><ul><li><strong>6 April 2026:</strong> qualifying income over £50,000 in the 2024 to 2025 tax year.</li><li><strong>6 April 2027:</strong> over £30,000 in 2025 to 2026.</li><li><strong>6 April 2028:</strong> over £20,000 in 2026 to 2027.</li></ul><p>You must be registered for Self Assessment, and partnerships are expected to follow later, with a timeline still to be set out by HMRC. HMRC says it will write to people whose income is above the threshold, but if you do not get a letter you are still responsible for checking, and its online 'check when to sign up' tool tells you when you need to start and whether you may be exempt. Some people, such as those who are digitally excluded, may qualify for an exemption, and exempt people still complete a normal Self Assessment return.</p>"
+    },
+    {
+      "h2": "What changes in practice",
+      "html": "<p>Instead of one annual return built from a shoebox of receipts, you keep digital records through the year using compatible software, and send <strong>quarterly updates</strong> with totals for each income and expense category. Individual invoices and receipts are not sent to HMRC. Updates cover the tax year from 6 April to the end of each period and are due on <strong>7 August, 7 November, 7 February and 7 May</strong>. After the final quarter you review the year, make any adjustments to your income and then file your tax return as usual.</p><p>For 2026 to 2027, HMRC says there are no penalty points for late quarterly updates, though you must send them before submitting your tax return. After that, a missed deadline earns a late submission penalty point, and reaching 4 points triggers a £200 penalty.</p>"
+    },
+    {
+      "h2": "Software, bookkeeper or accountant?",
+      "html": "<ul><li><strong>Software only</strong> suits a simple sole trader with one income source, regular habits and comfortable with spreadsheets or apps. You still need to understand what goes into each category.</li><li><strong>A <a href=\"/bookkeeping/\">bookkeeper</a></strong> is worth considering if keeping records up to date is the hard part. They record transactions through the year so the quarterly figures are ready.</li><li><strong>An <a href=\"/accounting/\">accountant</a></strong> is worth it for mixed income (trade plus property), complex expenses, a limited company on the side, or if you want someone to submit updates as your agent and handle HMRC authorisation.</li></ul><p>Software and agents are not the same thing: HMRC separates choosing compatible software from authorising an agent to act for you. See <a href=\"/blog/how-to-choose-an-accountant/\">how to choose an accountant</a> for the credentials and questions to check, and <a href=\"/tax-advisory/\">tax advisory</a> for specialist help.</p>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<ol><li>Is MTD for Income Tax included in your fee, or charged per quarterly update?</li><li>Which software do you work with, and who pays for it?</li><li>Will you act as my agent with HMRC, and what do you need from me each quarter?</li><li>What is the deadline for me to send you records before each 7th?</li><li>What happens to my fee if my income crosses the next threshold?</li></ol>"
+    },
+    {
+      "h2": "A simple get-ready checklist",
+      "html": "<ul><li>Work out your gross self-employment and property income for the relevant tax years.</li><li>Use HMRC's online checker to confirm your start date.</li><li>Pick software or an agent well before your first quarter.</li><li>Separate business and personal bank activity to make categories easy.</li><li>Put the four deadlines in your calendar.</li></ul><p class=\"note\"><strong>General information, not tax advice.</strong> Rules change; check the official sources below and confirm details with a qualified accountant.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Making Tax Digital for Income Tax apply to limited companies?",
+      "a": "No. It applies to sole traders and landlords, based on their self-employment and property income. Limited companies are outside this scheme."
+    },
+    {
+      "q": "What if my income is below £50,000 today?",
+      "a": "HMRC's later start dates apply: over £30,000 from April 2027 and over £20,000 from April 2028, based on earlier years' qualifying income. You can check when you need to sign up using HMRC's online tool."
+    },
+    {
+      "q": "Can I sign up before I have to?",
+      "a": "Yes. HMRC allows voluntary sign-up. Volunteers do not face penalties for late quarterly updates, though late tax returns still earn penalty points."
+    },
+    {
+      "q": "Do quarterly updates replace my tax return?",
+      "a": "No. You still submit a Self Assessment tax return for the year after your final quarterly update."
+    }
+  ],
+  "related": [
+    "accounting",
+    "bookkeeping",
+    "tax-advisory",
+    "blog/how-to-choose-an-accountant"
+  ],
+  "sources": [
+    {
+      "title": "Check when to sign up for Making Tax Digital for Income Tax (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/check-when-to-sign-up-for-making-tax-digital-for-income-tax"
+    },
+    {
+      "title": "Send quarterly updates: Use Making Tax Digital for Income Tax (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarterly-updates"
+    },
+    {
+      "title": "Making Tax Digital for Income Tax (GOV.UK)",
+      "url": "https://www.gov.uk/government/collections/making-tax-digital-for-income-tax"
+    }
+  ]
+}
