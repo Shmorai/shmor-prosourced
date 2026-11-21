@@ -1,0 +1,94 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "slug": "blog/how-to-hire-a-virtual-assistant",
+  "type": "post",
+  "title": "How to Hire a Virtual Assistant: 7 Steps That Work",
+  "description": "Hiring a virtual assistant? A 7-step guide: scope tasks, freelance vs agency, worker status checks, data protection contracts, access and a paid trial.",
+  "h1": "How to hire a virtual assistant: a 7-step guide",
+  "eyebrow": "Guide · Virtual assistants",
+  "intro": "A good virtual assistant (VA) can take email, scheduling, bookkeeping admin and research off your plate. A bad hire wastes weeks and can put customer data at risk. These seven steps cover the decisions that matter, with pointers to the official guidance on worker status and data protection. General information, not legal or tax advice. Checked November 2026.",
+  "cardText": "Scope the work, choose freelance or agency, check status and data rules, control access and run a paid trial.",
+  "keywords": [
+    "how to hire a virtual assistant",
+    "hire a virtual assistant uk",
+    "virtual assistant contract",
+    "virtual assistant data protection",
+    "freelance virtual assistant or agency",
+    "virtual assistant vs employee",
+    "hire a remote assistant",
+    "vas for small business",
+    "virtual assistant trial period",
+    "virtual assistant tasks",
+    "outsource admin tasks",
+    "uk gdpr virtual assistant"
+  ],
+  "sections": [
+    {
+      "h2": "1. Write down the tasks before you look for a person",
+      "html": "<p>List the recurring jobs you want to hand over (inbox triage, diary management, invoicing admin, data entry, research, social scheduling) and estimate hours per week for each. Mark anything involving customer or staff personal data, bank access or passwords. This list is your brief: it lets you compare candidates fairly and is the basis of the contract. Our <a href=\"/free-tools/project-brief-builder/\">project brief builder</a> turns it into a shareable document, and the <a href=\"/virtual-assistants/\">virtual assistants</a> page shows what VAs commonly take on.</p>"
+    },
+    {
+      "h2": "2. Choose: freelancer, agency or dedicated team",
+      "html": "<p>A <strong>freelancer</strong> is usually the most flexible and personal option, but you carry the cover risk when they are ill or on holiday. An <strong>agency</strong> typically provides cover and a manager, at a higher cost per hour. Whichever you pick, agree how you will pay. Read <a href=\"/blog/fixed-fee-hourly-or-retainer/\">fixed fee, hourly or retainer</a> to match the pricing model to the type of work.</p>"
+    },
+    {
+      "h2": "3. Check whether they are really self-employed",
+      "html": "<p>Hiring a VA as a contractor only works if the relationship really is one. The IRS tells US businesses to look at the whole relationship across three categories of control, behavioural, financial and type of relationship, and says no single factor decides it. In the UK, HMRC's <strong>Check Employment Status for Tax</strong> (CEST) tool gives HMRC's view and HMRC says it will stand by results as long as the information you enter is accurate and follows its guidance. If you set their hours, supply their equipment and direct how they work, you may be creating an employee relationship. Our guide to <a href=\"/blog/contractor-or-employee-ir35-irs/\">contractor or employee</a> goes deeper.</p>"
+    },
+    {
+      "h2": "4. Put data protection in the contract",
+      "html": "<p>If a VA will handle personal data for you, such as customer emails or staff details, UK GDPR treats them as a processor, and the ICO says the contract must set out the processing details and include minimum terms. Those include acting only on your documented instructions, confidentiality for anyone with access, appropriate security measures, rules on sub-processors, help with individuals' rights and breach handling, deletion or return of data at the end, and allowing audits. EU readers should find the same Article 28 structure under the EU GDPR. Our <a href=\"/blog/gdpr-when-outsourcing/\">GDPR when outsourcing</a> guide walks through it, and a solicitor can check your wording.</p>"
+    },
+    {
+      "h2": "5. Control access from day one",
+      "html": "<ul><li>Give the VA their <strong>own logins</strong> and permissions rather than your master account.</li><li>Use a business password manager and two-factor authentication; never share passwords by email.</li><li>Give access only to the folders and inboxes they need, and review it monthly.</li><li>Remove access the same day the engagement ends.</li></ul><p>See our <a href=\"/blog/cyber-security-basics-for-small-business/\">cyber security basics</a> for a fuller checklist.</p>"
+    },
+    {
+      "h2": "6. Start with a short paid trial",
+      "html": "<p>Set a one- or two-week paid trial on a real task from your list, with clear success criteria: accuracy, turnaround time, communication. Pay for the trial work, because unpaid trials with real output are poor practice and can cause disputes. After the trial, agree a written scope, reporting rhythm, notice period and what happens to your files and data when it ends.</p>"
+    },
+    {
+      "h2": "7. Keep reviewing",
+      "html": "<p>Meet weekly at first, then monthly. Track hours and results against the original task list, and expand the role gradually. If your needs grow into accounting, HR or customer support, compare specialists on ProSourced's <a href=\"/services/\">services</a> hub instead of stretching one generalist.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a virtual assistant an employee or a contractor?",
+      "a": "It depends on the real working relationship, not the label. Tax authorities such as the IRS and HMRC look at control, how the work is done and the nature of the relationship. HMRC offers a free CEST tool for UK engagements."
+    },
+    {
+      "q": "Do I need a data protection contract with a virtual assistant?",
+      "a": "If they process personal data on your behalf, UK and EU GDPR require a written contract containing specific terms. The ICO's guidance lists the minimum terms."
+    },
+    {
+      "q": "Should I choose a freelance VA or an agency?",
+      "a": "A freelancer is usually more personal and flexible, while an agency typically provides cover and management. Decide using your task list and how much continuity you need."
+    },
+    {
+      "q": "How should I test a virtual assistant before committing?",
+      "a": "Run a short paid trial on a real task with clear success criteria, then agree scope, notice period and data return in writing before expanding the role."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ICO: What needs to be included in the contract (controllers and processors)",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/contracts-and-liabilities-between-controllers-and-processors-multi/what-needs-to-be-included-in-the-contract/"
+    },
+    {
+      "title": "IRS: Independent contractor (self-employed) or employee?",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee"
+    },
+    {
+      "title": "GOV.UK: Check employment status for tax",
+      "url": "https://www.gov.uk/guidance/check-employment-status-for-tax"
+    }
+  ],
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Laptop_and_coffee_on_a_desk.jpg/1920px-Laptop_and_coffee_on_a_desk.jpg",
+    "alt": "A laptop and a cup of coffee on a desk",
+    "credit": "Lauren Mancke / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Laptop_and_coffee_on_a_desk.jpg"
+  }
+}
