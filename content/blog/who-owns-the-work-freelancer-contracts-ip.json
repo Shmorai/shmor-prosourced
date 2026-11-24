@@ -1,0 +1,93 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "slug": "blog/who-owns-the-work-freelancer-contracts-ip",
+  "type": "post",
+  "title": "Who Owns Freelancer Work? IP in Contracts",
+  "description": "Hiring a freelancer or agency? Who owns the copyright in commissioned work in the UK and US, and the contract clauses you need to own what you pay for.",
+  "h1": "Who owns the work when you hire a freelancer or agency?",
+  "eyebrow": "Guide · Contracts",
+  "intro": "You paid for the logo, the website copy or the software, so you own it, right? Not necessarily. In the UK and US, commissioning something does not automatically make you its owner. Here is how copyright ownership works for outsourced work and what to put in the contract, as of November 2026. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627518788331-b3b7fdaa382f",
+    "alt": "Hand signing a paper document with a pen",
+    "credit": "Signature Pro",
+    "creditUrl": "https://unsplash.com/@signaturepro"
+  },
+  "keywords": [
+    "who owns copyright freelancer work",
+    "freelancer intellectual property contract",
+    "do i own work i paid a freelancer for",
+    "work made for hire freelancer",
+    "copyright assignment agreement",
+    "web designer owns website copyright",
+    "agency ip ownership contract",
+    "commissioned work copyright uk",
+    "copyright transfer in writing signed",
+    "outsourcing contract ip clause"
+  ],
+  "cardText": "Why paying for work doesn't always mean owning it, and the contract clauses that fix it: assignment, licences, work for hire.",
+  "sections": [
+    {
+      "h2": "The default rule in the UK",
+      "html": "<p>UK government guidance says that when you ask or commission another person or organisation to create a copyright work for you, the first legal owner of the copyright is generally the person or organisation that created it, unless you agree otherwise in writing. The UK Intellectual Property Office makes the same point for freelancers: copyright in what a freelancer writes belongs to them unless the contract transfers it. If the contract is silent, courts may find an implied licence to use the work for the purpose it was commissioned, but that is a limited right, not ownership.</p><p>This matters for logos, websites, copy, photos, videos and code. If you plan to adapt, resell or exclusively control the work, you want ownership or a clear exclusive licence.</p>"
+    },
+    {
+      "h2": "Assignment must be in writing",
+      "html": "<p>GOV.UK guidance states that a transfer (assignment) of copyright is only effective if it is <strong>in writing and signed</strong> by or on behalf of the person transferring the rights. So an email saying \"it's all yours\" may not be enough, and a verbal promise definitely is not. A clear clause might say that the freelancer assigns all intellectual property rights in the deliverables to you on payment in full, and that they will sign any further documents needed.</p><p>Many people choose assignment on full payment so that the freelancer is protected until they have been paid. Ask for it in the quote stage; our <a href=\"/free-tools/project-brief-builder/\">project brief builder</a> helps you describe deliverables clearly.</p>"
+    },
+    {
+      "h2": "The US: employees, work made for hire and assignments",
+      "html": "<p>US rules differ. The US Copyright Office explains in its Circular 30 that a work can be a \"work made for hire\" in two ways: it is created by an employee within the scope of their job, or it is a specially commissioned work that falls into one of <strong>nine statutory categories</strong> and is covered by a signed written agreement saying it is a work made for hire. The categories include contributions to collective works, translations, supplementary works, compilations and instructional texts. A work that misses any of those tests is not a work made for hire, so for a typical logo or website from an independent contractor you generally need a signed written assignment instead. Where the work-for-hire route applies, the commissioning party is treated as the author.</p>"
+    },
+    {
+      "h2": "Clauses to ask for",
+      "html": "<ul><li><strong>Deliverables defined.</strong> What exactly you are buying: files, source code, drafts, fonts.</li><li><strong>Assignment or licence.</strong> Assignment of rights on full payment, or an exclusive, perpetual licence if you prefer.</li><li><strong>Third-party material.</strong> Stock images, fonts, plugins and open-source code have their own licences; require a list.</li><li><strong>Moral rights waiver.</strong> Where relevant, ask the creator to waive or agree not to assert moral rights.</li><li><strong>Portfolio use.</strong> Say whether they may show the work.</li><li><strong>Warranty of originality.</strong> That the work doesn't infringe others' rights.</li></ul><p>For fees and scope, see <a href=\"/blog/fixed-fee-hourly-or-retainer/\">fixed fee, hourly or retainer</a>, and for sector specifics read about <a href=\"/web-design/\">web design</a>, <a href=\"/copywriting/\">copywriting</a> and <a href=\"/software-development/\">software development</a>.</p>"
+    },
+    {
+      "h2": "If you have already paid without a contract",
+      "html": "<p>Don't panic, but fix it. Ask the creator to sign a short assignment covering the work already delivered, and record what you paid. Until then, you probably have at least an implied licence to use the work for the purpose it was made, but you may not be able to stop others using it or to modify it freely. If the relationship has soured, take legal advice from a qualified professional in your country; you can compare options through our <a href=\"/legal-services/\">legal services</a> page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If I pay a freelancer, do I own the copyright in the UK?",
+      "a": "Not automatically. Government guidance says the creator is generally the first owner of commissioned work unless the parties agree otherwise in writing, and an assignment must be written and signed."
+    },
+    {
+      "q": "What is a work made for hire in the US?",
+      "a": "Either work by an employee within their job, or a specially commissioned work in one of nine statutory categories with a signed written agreement saying it is a work made for hire, per the US Copyright Office."
+    },
+    {
+      "q": "Is a licence enough?",
+      "a": "It can be, if it is exclusive, covers the uses you need, and lasts long enough. Ownership gives more control, but a well-drafted licence may be cheaper to agree."
+    },
+    {
+      "q": "Do these rules apply in the EU?",
+      "a": "EU member states have their own national copyright laws, which can differ on transfers and moral rights, so check local rules and use a clear written agreement."
+    }
+  ],
+  "related": [
+    "web-design",
+    "copywriting",
+    "blog/fixed-fee-hourly-or-retainer"
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Ownership of copyright works",
+      "url": "https://www.gov.uk/guidance/ownership-of-copyright-works"
+    },
+    {
+      "title": "GOV.UK: A quick guide to protecting your creative work",
+      "url": "https://www.gov.uk/guidance/a-quick-guide-to-protecting-your-creative-work"
+    },
+    {
+      "title": "UK IPO blog: Copy, write",
+      "url": "https://ipo.blog.gov.uk/2016/02/23/copy-write/"
+    },
+    {
+      "title": "US Copyright Office: Circular 30, Works Made for Hire",
+      "url": "https://www.copyright.gov/circs/circ30.pdf"
+    }
+  ]
+}
