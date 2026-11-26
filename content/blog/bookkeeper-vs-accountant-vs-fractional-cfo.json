@@ -1,0 +1,79 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "slug": "blog/bookkeeper-vs-accountant-vs-fractional-cfo",
+  "type": "post",
+  "title": "Bookkeeper vs Accountant vs Fractional CFO: Who to Hire",
+  "description": "Bookkeeper, accountant or fractional CFO? What each does, when a growing business needs which, and questions to ask before you hire, in the UK, US and EU.",
+  "h1": "Bookkeeper vs accountant vs fractional CFO: which finance help do you need?",
+  "eyebrow": "Guide · Accounting",
+  "intro": "Three titles, overlapping jobs, and a lot of businesses paying for the wrong one. A bookkeeper keeps the records, an accountant interprets them and files what the law requires, and a fractional CFO helps you steer. Which you need depends on size, complexity and what decisions are coming. Here is how to tell, with questions to ask before you hire. Titles and regulation differ by country, so check local rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+    "alt": "Person holding a sheet of figures next to a pen and calculator",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "keywords": [
+    "bookkeeper vs accountant",
+    "bookkeeper or accountant",
+    "fractional cfo vs accountant",
+    "what does a fractional cfo do",
+    "do i need a bookkeeper",
+    "bookkeeper vs accountant uk",
+    "bookkeeper vs cpa",
+    "outsourced finance team small business",
+    "part time finance director",
+    "when to hire a fractional cfo"
+  ],
+  "cardText": "What a bookkeeper, accountant and fractional CFO each do, when to hire which, and how to brief them.",
+  "sections": [
+    {
+      "h2": "What a bookkeeper does",
+      "html": "<p>A <strong>bookkeeper</strong> records the day-to-day numbers: sales, purchases, bank transactions, invoices and often payroll inputs. The output is up-to-date, accurate books and reconciled bank accounts. Many bookkeepers work remotely for several clients, using cloud accounting software.</p><p>You need one when you are behind with records, spending evenings on receipts, or cannot answer \"how much cash do we really have?\" See our guide to <a href=\"/bookkeeping/\">outsourced bookkeeping</a> for what to expect.</p>"
+    },
+    {
+      "h2": "What an accountant does",
+      "html": "<p>An <strong>accountant</strong> takes the records and turns them into compliance and advice: annual accounts, tax returns, VAT or sales tax, and planning around the tax rules in your country. In the UK, for example, sole traders and others who file Self Assessment have to submit their return and pay tax for 2025 to 2026 by 11:59pm on 31 January 2027 (GOV.UK), and an accountant can handle that. Qualifications and regulation vary widely: some titles are protected and others are not, so ask what credentials the person holds and which body regulates them.</p><p>Our <a href=\"/accounting/\">accounting</a> and <a href=\"/tax-advisory/\">tax advisory</a> pages cover what different firms offer, and <a href=\"/blog/how-to-choose-an-accountant/\">how to choose an accountant</a> gives a shortlist process.</p>"
+    },
+    {
+      "h2": "What a fractional CFO does",
+      "html": "<p>A <strong>fractional CFO</strong> is a senior finance leader who works for you part-time, often a few days a month. The job is forward-looking: forecasting and cash-flow planning, budgets, pricing and margin analysis, investor or lender reporting, and building the finance function. They typically rely on a bookkeeper and an accountant to supply clean data and compliance work.</p><p>You might need one when you are raising money, planning a significant hire or expansion, managing tight cash, or preparing for a sale. If your books are still messy, fix the foundation first: advice built on unreliable numbers is not worth the fee.</p>"
+    },
+    {
+      "h2": "Which should you hire first?",
+      "html": "<ul><li><strong>Starting out, simple finances:</strong> usually an accountant for year-end and tax, with a simple software setup. Add a bookkeeper once volume grows.</li><li><strong>Growing, with employees or stock:</strong> a bookkeeper for monthly records plus an accountant for compliance. Review <a href=\"/payroll/\">payroll</a> at the same time.</li><li><strong>Scaling or raising capital:</strong> add a fractional CFO on a defined scope, such as a 12-month forecast and board pack.</li></ul><p>Costs depend on location, scope and experience, so get written quotes for the same brief from several providers. Our <a href=\"/free-tools/\">free tools</a> include a project brief builder to help you write one.</p>"
+    },
+    {
+      "h2": "Questions to ask before you hire",
+      "html": "<ul><li>What exactly is in scope each month, and what is extra?</li><li>Which software do you work in, and who owns the data and logins?</li><li>Who will do the work: you or a junior? How do you review it?</li><li>What qualifications and regulator do you have, and do you carry professional indemnity insurance?</li><li>How do you handle data protection, particularly across borders? See <a href=\"/blog/gdpr-when-outsourcing/\">outsourcing and the GDPR</a>.</li><li>What does handover look like if we part ways?</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need both a bookkeeper and an accountant?",
+      "a": "Not always. Very small businesses often use just an accountant. As transaction volume grows, a bookkeeper keeps records current while the accountant handles tax and annual accounts."
+    },
+    {
+      "q": "Is a fractional CFO the same as an accountant?",
+      "a": "No. An accountant focuses on compliance and tax; a fractional CFO focuses on strategy, forecasting and financial leadership, usually part-time."
+    },
+    {
+      "q": "When is the UK Self Assessment deadline?",
+      "a": "For the 2025 to 2026 tax year, the online return and the payment are due by 11:59pm on 31 January 2027, according to GOV.UK as of November 2026."
+    },
+    {
+      "q": "Can I outsource all three overseas?",
+      "a": "Often yes for bookkeeping and CFO advice, but tax filings must follow the rules of the country where you are taxed. Check the provider's qualifications and your data-protection obligations."
+    }
+  ],
+  "related": [
+    "bookkeeping"
+  ],
+  "sources": [
+    {
+      "title": "Self Assessment tax return deadlines (GOV.UK)",
+      "url": "https://www.gov.uk/self-assessment-tax-return-deadlines"
+    }
+  ]
+}
