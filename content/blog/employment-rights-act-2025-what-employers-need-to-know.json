@@ -1,0 +1,75 @@
+{
+  "updated": "2026-11-28",
+  "date": "2026-11-28",
+  "slug": "blog/employment-rights-act-2025-what-employers-need-to-know",
+  "type": "post",
+  "title": "UK Employment Rights Act 2025: Key Dates for Employers",
+  "description": "UK Employment Rights Act 2025 dates for employers: sick pay, tribunal time limits, unfair dismissal at six months and fire and rehire, plus what to outsource.",
+  "h1": "The UK Employment Rights Act 2025: dates every employer should know",
+  "eyebrow": "Explainer · HR and employment",
+  "intro": "The Employment Rights Act 2025 is rolling out in stages through 2026 and 2027. Some changes are already live, and the biggest for many employers, a shorter qualifying period for unfair dismissal, starts on 1 January 2027. This is the timetable as the UK government set it out, as of November 2026, and where outside help can fit. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1758520144437-f068ecaf0d83",
+    "alt": "HR consultant meeting a candidate at an office desk",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "keywords": [
+    "employment rights act 2025",
+    "employment rights act 2025 dates",
+    "unfair dismissal six months 2027",
+    "employment rights act employers uk",
+    "ssp changes april 2026",
+    "tribunal time limit six months",
+    "fire and rehire ban 2027",
+    "hr outsourcing uk",
+    "employment law changes 2027",
+    "sexual harassment duty employers october 2026"
+  ],
+  "cardText": "A dated timeline of UK Employment Rights Act changes, and when a small business should get HR or legal help.",
+  "sections": [
+    {
+      "h2": "Employment Rights Act 2025 timeline",
+      "html": "<p>The government's timeline update lists these dates. All remain subject to parliamentary processes and may change, so check GOV.UK before acting.</p><ul><li><strong>6 April 2026:</strong> Statutory Sick Pay changes: the lower earnings limit and the waiting period were removed.</li><li><strong>1 October 2026:</strong> The time limit for most tribunal claims rose from three to six months.</li><li><strong>30 October 2026:</strong> Employers must take \"all reasonable steps\" to prevent sexual harassment and must not permit third-party harassment.</li><li><strong>1 January 2027:</strong> The unfair dismissal qualifying period drops to six months, and compensatory awards are uncapped, for dismissals from that date.</li><li><strong>March 2027:</strong> Fire and rehire protections.</li><li><strong>October 2027:</strong> Flexible working changes.</li><li><strong>No date yet:</strong> Guaranteed hours, pending consultation.</li></ul>"
+    },
+    {
+      "h2": "What the January 2027 unfair dismissal change means",
+      "html": "<p>From 1 January 2027, an employee needs six months of service rather than the current longer period to claim unfair dismissal, and the cap on the compensatory award is removed. For small employers the practical effect is that probation periods, performance management and documented reasons for dismissal matter far sooner. Review contracts, probation policies and your disciplinary and capability procedures well before the date.</p>"
+    },
+    {
+      "h2": "Preparing: policies, records and training",
+      "html": "<ul><li><strong>Sick pay:</strong> make sure payroll applies the April 2026 SSP rules correctly. See our <a href=\"/blog/payroll-outsourcing-checklist/\">payroll outsourcing checklist</a>.</li><li><strong>Harassment:</strong> write down the reasonable steps you take, such as a policy, training and a clear way to report problems, including harassment by customers or suppliers.</li><li><strong>Tribunal time limits:</strong> keep records longer, since claims can now arrive up to six months later.</li><li><strong>Contracts:</strong> check how your contracts handle probation, notice and changes to terms, ahead of the fire and rehire rules.</li></ul>"
+    },
+    {
+      "h2": "When to bring in outside help",
+      "html": "<p>A small business without in-house HR can buy help in several ways, from a one-off policy review to an ongoing retainer; our page on <a href=\"/hr-outsourcing/\">HR outsourcing</a> compares the options and the questions to ask. For legal advice on a specific dismissal or contract change, use a qualified employment lawyer via <a href=\"/legal-services/\">legal services</a>. If you employ people across borders, the rules differ again: see <a href=\"/blog/employer-of-record-vs-peo-vs-contractor/\">employer of record vs PEO vs contractor</a>.</p><p>Whoever you hire, ask for their credentials and what they will actually deliver, and be wary of anyone promising \"compliance guaranteed\" before dates are finalised.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does the unfair dismissal change take effect?",
+      "a": "For dismissals from 1 January 2027, the qualifying period falls to six months and compensatory awards are uncapped, according to the government timeline as of November 2026."
+    },
+    {
+      "q": "Has the tribunal time limit changed?",
+      "a": "Yes. From 1 October 2026 the time limit for most tribunal claims rose from three to six months."
+    },
+    {
+      "q": "Do these rules apply in Northern Ireland?",
+      "a": "The Act is UK government legislation, but employment law is largely devolved to Northern Ireland, so check separate rules there."
+    },
+    {
+      "q": "Can I outsource compliance with the Act?",
+      "a": "You can outsource help, such as policy drafting, payroll and advice, but the legal duties stay with you as the employer."
+    }
+  ],
+  "related": [
+    "hr-outsourcing"
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Plan to Make Work Pay and Employment Rights Act timeline update",
+      "url": "https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act/plan-to-make-work-pay-and-employment-rights-act-timeline-update"
+    }
+  ]
+}
